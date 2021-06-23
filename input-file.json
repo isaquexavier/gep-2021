@@ -3,19 +3,19 @@
     {
       "id": "1",
       "name": "1",
-      "n": 1,
+      "n": 30,
       "grp": 1
     },
     {
       "id": "2",
       "name": "2",
-      "n": 1,
+      "n": 10,
       "grp": 1
     },
     {
       "id": "3",
       "name": "3",
-      "n": 1,
+      "n": 30,
       "grp": 1
     },
     {
@@ -63,16 +63,6 @@
   ],
   "links": [
     {
-      "source": "3",
-      "target": 63,
-      "value": 2
-    },
-    {
-      "source": "3",
-      "target": 64,
-      "value": 2
-    },
-    {
       "source": "1",
       "target": 61,
       "value": 1
@@ -90,6 +80,16 @@
     {
       "source": "3",
       "target": 62,
+      "value": 2
+    },
+    {
+      "source": "3",
+      "target": 63,
+      "value": 2
+    },
+    {
+      "source": "3",
+      "target": 64,
       "value": 2
     },
     {
