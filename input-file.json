@@ -2,6 +2,24 @@
   "nodes": [
     {
       "id": "1",
+      "name": "1",
+      "n": 1,
+      "grp": 1
+    },
+    {
+      "id": "2",
+      "name": "2",
+      "n": 1,
+      "grp": 1
+    },
+    {
+      "id": "3",
+      "name": "3",
+      "n": 1,
+      "grp": 1
+    },
+    {
+      "id": "60",
       "name": "PUBMED",
       "n": 1,
       "grp": 1
@@ -60,12 +78,22 @@
       "value": 2
     },
     {
-      "source": "1",
+      "source": "3",
       "target": 62,
       "value": 2
     },
     {
-      "source": "1",
+      "source": "3",
+      "target": 63,
+      "value": 2
+    },
+    {
+      "source": "3",
+      "target": 64,
+      "value": 2
+    },
+    {
+      "source": "2",
       "target": 63,
       "value": 2
     }
