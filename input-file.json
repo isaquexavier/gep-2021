@@ -48,23 +48,28 @@
   "links": [
     {
       "source": "1",
-      "target": 61
+      "target": 61,
+      "value": 1
     },
     {
       "source": "1",
-      "target": 65
+      "target": 65,
+      "value": 1
     },
     {
       "source": "1",
-      "target": 67
+      "target": 67,
+      "value": 2
     },
     {
       "source": "1",
-      "target": 69
+      "target": 69,
+      "value": 2
     },
     {
       "source": "1",
-      "target": 70
+      "target": 70,
+      "value": 2
     }
   ]
 }
