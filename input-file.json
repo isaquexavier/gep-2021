@@ -5719,16 +5719,6 @@
       "source": "98",
       "target": "Bone",
       "value": 1
-    },
-    {
-      "source": "",
-      "target": "SM",
-      "value": 1
-    },
-    {
-      "source": "",
-      "target": "NSC",
-      "value": 1
     }
   ]
 }
