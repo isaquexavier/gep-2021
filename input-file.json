@@ -1,18 +1,6 @@
 {
   "nodes": [
     {
-      "id": "63",
-      "name": "LIPOASPIRADO",
-      "n": 1,
-      "grp": 2
-    },
-    {
-      "id": "64",
-      "name": "BICHECTOMIA",
-      "n": 1,
-      "grp": 3
-    },
-    {
       "id": "1",
       "name": "1",
       "n": 1,
@@ -49,6 +37,18 @@
       "grp": 3
     },
     {
+      "id": "63",
+      "name": "LIPOASPIRADO",
+      "n": 1,
+      "grp": 2
+    },
+    {
+      "id": "64",
+      "name": "BICHECTOMIA",
+      "n": 1,
+      "grp": 3
+    },
+    {
       "id": "65",
       "name": "ENZIMATICO",
       "n": 10,
@@ -62,6 +62,16 @@
     }
   ],
   "links": [
+    {
+      "source": "3",
+      "target": 63,
+      "value": 2
+    },
+    {
+      "source": "3",
+      "target": 64,
+      "value": 2
+    },
     {
       "source": "1",
       "target": 61,
@@ -80,16 +90,6 @@
     {
       "source": "3",
       "target": 62,
-      "value": 2
-    },
-    {
-      "source": "3",
-      "target": 63,
-      "value": 2
-    },
-    {
-      "source": "3",
-      "target": 64,
       "value": 2
     },
     {
