@@ -591,361 +591,361 @@
     {
       "id": "PUBMED",
       "name": "PUBMED",
-      "n": "37",
+      "n": 3,
       "grp": 5
     },
     {
       "id": "SCOPUS",
       "name": "SCOPUS",
-      "n": "44",
+      "n": 4,
       "grp": 5
     },
     {
       "id": "WEB OF SCIENCE",
       "name": "WEB OF SCIENCE",
-      "n": "16",
+      "n": 1,
       "grp": 5
     },
     {
       "id": "LIPOASPIRADO",
       "name": "LIPOASPIRADO",
-      "n": "85",
+      "n": 8,
       "grp": 5
     },
     {
       "id": "BICHECTOMIA",
       "name": "BICHECTOMIA",
-      "n": "15",
+      "n": 1,
       "grp": 5
     },
     {
       "id": "ENZIMATICO",
       "name": "ENZIMATICO",
-      "n": "91",
+      "n": 9,
       "grp": 5
     },
     {
       "id": "MECANICO",
       "name": "MECANICO",
-      "n": "0",
+      "n": 0,
       "grp": 5
     },
     {
       "id": "ENZIMATICO E MECANICO",
       "name": "ENZIMATICO E MECANICO",
-      "n": "0",
+      "n": 0,
       "grp": 5
     },
     {
       "id": "MORFOLOGIA SIM",
       "name": "MORFOLOGIA SIM",
-      "n": "32",
+      "n": 3,
       "grp": 5
     },
     {
       "id": "ADERENCIA SIM",
       "name": "ADERENCIA SIM",
-      "n": "32",
+      "n": 3,
       "grp": 5
     },
     {
       "id": "CD90",
       "name": "CD90",
-      "n": "37",
+      "n": 3,
       "grp": 5
     },
     {
       "id": "CD105",
       "name": "CD105",
-      "n": "34",
+      "n": 3,
       "grp": 5
     },
     {
       "id": "CD34",
       "name": "CD34",
-      "n": "31",
+      "n": 3,
       "grp": 5
     },
     {
       "id": "CD45",
       "name": "CD45",
-      "n": "30",
+      "n": 3,
       "grp": 5
     },
     {
       "id": "CD73",
       "name": "CD73",
-      "n": "27",
+      "n": 2,
       "grp": 5
     },
     {
       "id": "CD31",
       "name": "CD31",
-      "n": "11",
+      "n": 1,
       "grp": 5
     },
     {
       "id": "CD13",
       "name": "CD13",
-      "n": "3",
+      "n": 0,
       "grp": 5
     },
     {
       "id": "DIF ADIPOGENICA",
       "name": "DIF ADIPOGENICA",
-      "n": "32",
+      "n": 3,
       "grp": 5
     },
     {
       "id": "DIF OSTEOGENICA",
       "name": "DIF OSTEOGENICA",
-      "n": "62",
+      "n": 6,
       "grp": 5
     },
     {
       "id": "DIF CONDROGENICA",
       "name": "DIF CONDROGENICA",
-      "n": "21",
+      "n": 2,
       "grp": 5
     },
     {
       "id": "1 PASSAGEM",
       "name": "1 PASSAGEM",
-      "n": "6",
+      "n": 0,
       "grp": 5
     },
     {
       "id": "2 A 5 PASSAGEM",
       "name": "2 A 5 PASSAGEM",
-      "n": "75",
+      "n": 7,
       "grp": 5
     },
     {
       "id": "5 PASSAGEM",
       "name": "5 PASSAGEM",
-      "n": "17",
+      "n": 1,
       "grp": 5
     },
     {
       "id": "NATURAL",
       "name": "NATURAL",
-      "n": "25",
+      "n": 2,
       "grp": 5
     },
     {
       "id": "SINTETICO",
       "name": "SINTETICO",
-      "n": "27",
+      "n": 2,
       "grp": 5
     },
     {
       "id": "COMPOSITO",
       "name": "COMPOSITO",
-      "n": "15",
+      "n": 1,
       "grp": 5
     },
     {
       "id": "CERAMICA",
       "name": "CERAMICA",
-      "n": "5",
+      "n": 0,
       "grp": 5
     },
     {
       "id": "METAL",
       "name": "METAL",
-      "n": "4",
+      "n": 0,
       "grp": 5
     },
     {
       "id": "NS",
       "name": "NS",
-      "n": "14",
+      "n": 1,
       "grp": 5
     },
     {
       "id": "CM",
       "name": "CM",
-      "n": "0",
+      "n": 0,
       "grp": 5
     },
     {
       "id": "SC",
       "name": "SC",
-      "n": "6",
+      "n": 0,
       "grp": 5
     },
     {
       "id": "NONE",
       "name": "NONE",
-      "n": "5",
+      "n": 0,
       "grp": 5
     },
     {
       "id": "NM",
       "name": "NM",
-      "n": "3",
+      "n": 0,
       "grp": 5
     },
     {
       "id": "NC",
       "name": "NC",
-      "n": "0",
+      "n": 0,
       "grp": 5
     },
     {
       "id": "SM",
       "name": "SM",
-      "n": "1",
+      "n": 0,
       "grp": 5
     },
     {
       "id": "NSC",
       "name": "NSC",
-      "n": "1",
+      "n": 0,
       "grp": 5
     },
     {
       "id": "NSCR",
       "name": "NSCR",
-      "n": "2",
+      "n": 0,
       "grp": 5
     },
     {
       "id": "Electronic Microscopy",
       "name": "Electronic Microscopy",
-      "n": "43",
+      "n": 4,
       "grp": 5
     },
     {
       "id": "Microscopy",
       "name": "Microscopy",
-      "n": "77",
+      "n": 7,
       "grp": 5
     },
     {
       "id": "ELISA",
       "name": "ELISA",
-      "n": "12",
+      "n": 1,
       "grp": 5
     },
     {
       "id": "Immunohistochemistry",
       "name": "Immunohistochemistry",
-      "n": "29",
+      "n": 2,
       "grp": 5
     },
     {
       "id": "Immunocytochemistry",
       "name": "Immunocytochemistry",
-      "n": "13",
+      "n": 1,
       "grp": 5
     },
     {
       "id": "Spectrometry",
       "name": "Spectrometry",
-      "n": "27",
+      "n": 2,
       "grp": 5
     },
     {
       "id": "Genetic Testing",
       "name": "Genetic Testing",
-      "n": "48",
+      "n": 4,
       "grp": 5
     },
     {
       "id": "Metabolic Assays",
       "name": "Metabolic Assays",
-      "n": "53",
+      "n": 5,
       "grp": 5
     },
     {
       "id": "Viability and Cytotoxicity",
       "name": "Viability and Cytotoxicity",
-      "n": "35",
+      "n": 3,
       "grp": 5
     },
     {
       "id": "Flow Cytometry",
       "name": "Flow Cytometry",
-      "n": "36",
+      "n": 3,
       "grp": 5
     },
     {
       "id": "OTHERS",
       "name": "OTHERS",
-      "n": "55",
+      "n": 5,
       "grp": 5
     },
     {
       "id": "TESTE IN VIVO",
       "name": "TESTE IN VIVO",
-      "n": "40",
+      "n": 4,
       "grp": 5
     },
     {
       "id": "RODENTIA",
       "name": "RODENTIA",
-      "n": "37",
+      "n": 3,
       "grp": 5
     },
     {
       "id": "GALLIFORMES",
       "name": "GALLIFORMES",
-      "n": "3",
+      "n": 0,
       "grp": 5
     },
     {
       "id": "LAGOMORPHA",
       "name": "LAGOMORPHA",
-      "n": "1",
+      "n": 0,
       "grp": 5
     },
     {
       "id": "OSSO",
       "name": "OSSO",
-      "n": "51",
+      "n": 5,
       "grp": 5
     },
     {
       "id": "CARTILAGEM",
       "name": "CARTILAGEM",
-      "n": "12",
+      "n": 1,
       "grp": 5
     },
     {
       "id": "PELE",
       "name": "PELE",
-      "n": "9",
+      "n": 0,
       "grp": 5
     },
     {
       "id": "TECIDO ADIPOSO",
       "name": "TECIDO ADIPOSO",
-      "n": "5",
+      "n": 0,
       "grp": 5
     },
     {
       "id": "TECIDO MOLE",
       "name": "TECIDO MOLE",
-      "n": "10",
+      "n": 1,
       "grp": 5
     },
     {
       "id": "NERVO",
       "name": "NERVO",
-      "n": "8",
+      "n": 0,
       "grp": 5
     },
     {
       "id": "OTHERS",
       "name": "OTHERS",
-      "n": "10",
+      "n": 1,
       "grp": 5
     },
     {
       "id": "COMPARACAO\r",
       "name": "COMPARACAO\r",
-      "n": "3",
+      "n": 0,
       "grp": 5
     }
   ],
