@@ -952,17 +952,17 @@
   "links": [
     {
       "source": "1",
-      "target": "PUBMED",
+      "target": "Pubmed",
       "value": 1
     },
     {
       "source": "1",
-      "target": "LIPOASPIRADO",
+      "target": "Lipoaspirate",
       "value": 1
     },
     {
       "source": "1",
-      "target": "ENZIMATICO",
+      "target": "Enzimatic",
       "value": 1
     },
     {
@@ -992,12 +992,12 @@
     },
     {
       "source": "1",
-      "target": "DIF ADIPOGENICA",
+      "target": "ADIPOGENIC",
       "value": 1
     },
     {
       "source": "1",
-      "target": "DIF OSTEOGENICA",
+      "target": "OSTEOGENIC",
       "value": 1
     },
     {
@@ -1007,32 +1007,22 @@
     },
     {
       "source": "1",
-      "target": "Metabolic Assays",
-      "value": 1
-    },
-    {
-      "source": "1",
-      "target": "Flow Cytometry",
-      "value": 1
-    },
-    {
-      "source": "1",
-      "target": "OSSO",
+      "target": "Bone",
       "value": 1
     },
     {
       "source": "2",
-      "target": "SCOPUS",
+      "target": "Scopus",
       "value": 1
     },
     {
       "source": "2",
-      "target": "LIPOASPIRADO",
+      "target": "Lipoaspirate",
       "value": 1
     },
     {
       "source": "2",
-      "target": "ENZIMATICO",
+      "target": "Enzimatic",
       "value": 1
     },
     {
@@ -1062,77 +1052,52 @@
     },
     {
       "source": "2",
-      "target": "DIF ADIPOGENICA",
+      "target": "ADIPOGENIC",
       "value": 1
     },
     {
       "source": "2",
-      "target": "DIF CONDROGENICA",
+      "target": "CONDROGENIC",
       "value": 1
     },
     {
       "source": "2",
-      "target": "2 A 5 PASSAGEM",
+      "target": "2 A 5 PASSAGE",
       "value": 1
     },
     {
       "source": "2",
-      "target": "SINTETICO",
+      "target": "SINTETIC",
       "value": 1
     },
     {
       "source": "2",
-      "target": "Microscopy",
-      "value": 1
-    },
-    {
-      "source": "2",
-      "target": "Immunohistochemistry",
-      "value": 1
-    },
-    {
-      "source": "2",
-      "target": "Genetic Testing",
-      "value": 1
-    },
-    {
-      "source": "2",
-      "target": "Viability and Cytotoxicity",
-      "value": 1
-    },
-    {
-      "source": "2",
-      "target": "Flow Cytometry",
-      "value": 1
-    },
-    {
-      "source": "2",
-      "target": "CARTILAGEM",
+      "target": "Cartilage",
       "value": 1
     },
     {
       "source": "3",
-      "target": "WEB OF SCIENCE",
+      "target": "Web of science",
       "value": 1
     },
     {
       "source": "3",
-      "target": "BICHECTOMIA",
+      "target": "Bichectomy",
       "value": 1
     },
     {
       "source": "3",
-      "target": "ENZIMATICO",
+      "target": "Enzimatic",
       "value": 1
     },
     {
       "source": "3",
-      "target": "MORFOLOGIA SIM",
+      "target": "Morphologie",
       "value": 1
     },
     {
       "source": "3",
-      "target": "ADERENCIA SIM",
+      "target": "Adherence",
       "value": 1
     },
     {
@@ -1157,97 +1122,57 @@
     },
     {
       "source": "3",
-      "target": "DIF OSTEOGENICA",
+      "target": "OSTEOGENIC",
       "value": 1
     },
     {
       "source": "3",
-      "target": "COMPOSITO",
+      "target": "COMPOSITE",
       "value": 1
     },
     {
       "source": "3",
-      "target": "Microscopy",
+      "target": " In vivo",
       "value": 1
     },
     {
       "source": "3",
-      "target": "Immunohistochemistry",
-      "value": 1
-    },
-    {
-      "source": "3",
-      "target": "Genetic Testing",
-      "value": 1
-    },
-    {
-      "source": "3",
-      "target": "Metabolic Assays",
-      "value": 1
-    },
-    {
-      "source": "3",
-      "target": "Flow Cytometry",
-      "value": 1
-    },
-    {
-      "source": "3",
-      "target": "OTHERS",
-      "value": 1
-    },
-    {
-      "source": "3",
-      "target": "TESTE IN VIVO",
-      "value": 1
-    },
-    {
-      "source": "3",
-      "target": "RODENTIA",
-      "value": 1
-    },
-    {
-      "source": "3",
-      "target": "OSSO",
+      "target": "Bone",
       "value": 1
     },
     {
       "source": "4",
-      "target": "WEB OF SCIENCE",
+      "target": "Web of science",
       "value": 1
     },
     {
       "source": "4",
-      "target": "LIPOASPIRADO",
+      "target": "Lipoaspirate",
       "value": 1
     },
     {
       "source": "4",
-      "target": "ENZIMATICO",
+      "target": "Enzimatic",
       "value": 1
     },
     {
       "source": "4",
-      "target": "MORFOLOGIA SIM",
+      "target": "Morphologie",
       "value": 1
     },
     {
       "source": "4",
-      "target": "DIF OSTEOGENICA",
+      "target": "OSTEOGENIC",
       "value": 1
     },
     {
       "source": "4",
-      "target": "1 PASSAGEM",
+      "target": "2 A 5 PASSAGE",
       "value": 1
     },
     {
       "source": "4",
-      "target": "2 A 5 PASSAGEM",
-      "value": 1
-    },
-    {
-      "source": "4",
-      "target": "5 PASSAGEM",
+      "target": "5 PASSAGE",
       "value": 1
     },
     {
@@ -1257,77 +1182,42 @@
     },
     {
       "source": "4",
-      "target": "Electronic Microscopy",
+      "target": " In vivo",
       "value": 1
     },
     {
       "source": "4",
-      "target": "Microscopy",
-      "value": 1
-    },
-    {
-      "source": "4",
-      "target": "Immunohistochemistry",
-      "value": 1
-    },
-    {
-      "source": "4",
-      "target": "Spectrometry",
-      "value": 1
-    },
-    {
-      "source": "4",
-      "target": "Metabolic Assays",
-      "value": 1
-    },
-    {
-      "source": "4",
-      "target": "OTHERS",
-      "value": 1
-    },
-    {
-      "source": "4",
-      "target": "TESTE IN VIVO",
-      "value": 1
-    },
-    {
-      "source": "4",
-      "target": "RODENTIA",
-      "value": 1
-    },
-    {
-      "source": "4",
-      "target": "OSSO",
+      "target": "Bone",
       "value": 1
     },
     {
       "source": "5",
-      "target": "PUBMED",
+      "target": "Pubmed",
       "value": 1
     },
     {
       "source": "5",
-      "target": "LIPOASPIRADO",
+      "target": "Lipoaspirate",
       "value": 1
     },
     {
       "source": "5",
-      "target": "ENZIMATICO",
+      "target": "Enzimatic",
       "value": 1
     },
     {
       "source": "5",
-      "target": "ADERENCIA SIM",
+      "target": "Adherence",
       "value": 1
     },
     {
       "source": "5",
-      "target": "DIF OSTEOGENICA",
+      "target": "OSTEOGENIC",
       "value": 1
     },
     {
       "source": "5",
-      "target": "5 PASSAGEM",
+      "target": "5 PASSAGE",
       "value": 1
     },
     {
@@ -1337,62 +1227,52 @@
     },
     {
       "source": "5",
-      "target": "Microscopy",
-      "value": 1
-    },
-    {
-      "source": "5",
-      "target": "Metabolic Assays",
-      "value": 1
-    },
-    {
-      "source": "5",
-      "target": "OSSO",
+      "target": "Bone",
       "value": 1
     },
     {
       "source": "6",
-      "target": "SCOPUS",
+      "target": "Scopus",
       "value": 1
     },
     {
       "source": "6",
-      "target": "LIPOASPIRADO",
+      "target": "Lipoaspirate",
       "value": 1
     },
     {
       "source": "6",
-      "target": "ENZIMATICO",
+      "target": "Enzimatic",
       "value": 1
     },
     {
       "source": "6",
-      "target": "MORFOLOGIA SIM",
+      "target": "Morphologie",
       "value": 1
     },
     {
       "source": "6",
-      "target": "ADERENCIA SIM",
+      "target": "Adherence",
       "value": 1
     },
     {
       "source": "6",
-      "target": "DIF ADIPOGENICA",
+      "target": "ADIPOGENIC",
       "value": 1
     },
     {
       "source": "6",
-      "target": "DIF OSTEOGENICA",
+      "target": "OSTEOGENIC",
       "value": 1
     },
     {
       "source": "6",
-      "target": "DIF CONDROGENICA",
+      "target": "CONDROGENIC",
       "value": 1
     },
     {
       "source": "6",
-      "target": "2 A 5 PASSAGEM",
+      "target": "2 A 5 PASSAGE",
       "value": 1
     },
     {
@@ -1402,142 +1282,92 @@
     },
     {
       "source": "6",
-      "target": "Microscopy",
+      "target": "Bone",
       "value": 1
     },
     {
       "source": "6",
-      "target": "Spectrometry",
+      "target": "Cartilage",
       "value": 1
     },
     {
       "source": "6",
-      "target": "Genetic Testing",
-      "value": 1
-    },
-    {
-      "source": "6",
-      "target": "Metabolic Assays",
-      "value": 1
-    },
-    {
-      "source": "6",
-      "target": "Viability and Cytotoxicity",
-      "value": 1
-    },
-    {
-      "source": "6",
-      "target": "OSSO",
-      "value": 1
-    },
-    {
-      "source": "6",
-      "target": "CARTILAGEM",
-      "value": 1
-    },
-    {
-      "source": "6",
-      "target": "TECIDO ADIPOSO",
+      "target": "Adipose tissue",
       "value": 1
     },
     {
       "source": "7",
-      "target": "PUBMED",
+      "target": "Pubmed",
       "value": 1
     },
     {
       "source": "7",
-      "target": "LIPOASPIRADO",
+      "target": "Lipoaspirate",
       "value": 1
     },
     {
       "source": "7",
-      "target": "ENZIMATICO",
+      "target": "Enzimatic",
       "value": 1
     },
     {
       "source": "7",
-      "target": "TESTE IN VIVO",
-      "value": 1
-    },
-    {
-      "source": "7",
-      "target": "RODENTIA",
-      "value": 1
-    },
-    {
-      "source": "7",
-      "target": "OTHERS",
+      "target": " In vivo",
       "value": 1
     },
     {
       "source": "8",
-      "target": "SCOPUS",
+      "target": "Scopus",
       "value": 1
     },
     {
       "source": "8",
-      "target": "LIPOASPIRADO",
+      "target": "Lipoaspirate",
       "value": 1
     },
     {
       "source": "8",
-      "target": "ENZIMATICO",
+      "target": "Enzimatic",
       "value": 1
     },
     {
       "source": "8",
-      "target": "DIF ADIPOGENICA",
+      "target": "ADIPOGENIC",
       "value": 1
     },
     {
       "source": "8",
-      "target": "1 PASSAGEM",
+      "target": "2 A 5 PASSAGE",
       "value": 1
     },
     {
       "source": "8",
-      "target": "2 A 5 PASSAGEM",
+      "target": "SINTETIC",
       "value": 1
     },
     {
       "source": "8",
-      "target": "SINTETICO",
-      "value": 1
-    },
-    {
-      "source": "8",
-      "target": "Microscopy",
-      "value": 1
-    },
-    {
-      "source": "8",
-      "target": "Viability and Cytotoxicity",
-      "value": 1
-    },
-    {
-      "source": "8",
-      "target": "PELE",
+      "target": "Skin",
       "value": 1
     },
     {
       "source": "9",
-      "target": "PUBMED",
+      "target": "Pubmed",
       "value": 1
     },
     {
       "source": "9",
-      "target": "LIPOASPIRADO",
+      "target": "Lipoaspirate",
       "value": 1
     },
     {
       "source": "9",
-      "target": "ENZIMATICO",
+      "target": "Enzimatic",
       "value": 1
     },
     {
       "source": "9",
-      "target": "2 A 5 PASSAGEM",
+      "target": "2 A 5 PASSAGE",
       "value": 1
     },
     {
@@ -1547,57 +1377,37 @@
     },
     {
       "source": "9",
-      "target": "Microscopy",
+      "target": " In vivo",
       "value": 1
     },
     {
       "source": "9",
-      "target": "ELISA",
-      "value": 1
-    },
-    {
-      "source": "9",
-      "target": "Genetic Testing",
-      "value": 1
-    },
-    {
-      "source": "9",
-      "target": "TESTE IN VIVO",
-      "value": 1
-    },
-    {
-      "source": "9",
-      "target": "RODENTIA",
-      "value": 1
-    },
-    {
-      "source": "9",
-      "target": "NERVO",
+      "target": "Neurological",
       "value": 1
     },
     {
       "source": "10",
-      "target": "PUBMED",
+      "target": "Pubmed",
       "value": 1
     },
     {
       "source": "10",
-      "target": "LIPOASPIRADO",
+      "target": "Lipoaspirate",
       "value": 1
     },
     {
       "source": "10",
-      "target": "ENZIMATICO",
+      "target": "Enzimatic",
       "value": 1
     },
     {
       "source": "10",
-      "target": "MORFOLOGIA SIM",
+      "target": "Morphologie",
       "value": 1
     },
     {
       "source": "10",
-      "target": "ADERENCIA SIM",
+      "target": "Adherence",
       "value": 1
     },
     {
@@ -1617,62 +1427,37 @@
     },
     {
       "source": "10",
-      "target": "DIF OSTEOGENICA",
+      "target": "OSTEOGENIC",
       "value": 1
     },
     {
       "source": "10",
-      "target": "1 PASSAGEM",
+      "target": "2 A 5 PASSAGE",
       "value": 1
     },
     {
       "source": "10",
-      "target": "2 A 5 PASSAGEM",
+      "target": "5 PASSAGE",
       "value": 1
     },
     {
       "source": "10",
-      "target": "5 PASSAGEM",
-      "value": 1
-    },
-    {
-      "source": "10",
-      "target": "Microscopy",
-      "value": 1
-    },
-    {
-      "source": "10",
-      "target": "Genetic Testing",
-      "value": 1
-    },
-    {
-      "source": "10",
-      "target": "Viability and Cytotoxicity",
-      "value": 1
-    },
-    {
-      "source": "10",
-      "target": "Flow Cytometry",
-      "value": 1
-    },
-    {
-      "source": "10",
-      "target": "OSSO",
+      "target": "Bone",
       "value": 1
     },
     {
       "source": "11",
-      "target": "SCOPUS",
+      "target": "Scopus",
       "value": 1
     },
     {
       "source": "11",
-      "target": "LIPOASPIRADO",
+      "target": "Lipoaspirate",
       "value": 1
     },
     {
       "source": "11",
-      "target": "ENZIMATICO",
+      "target": "Enzimatic",
       "value": 1
     },
     {
@@ -1707,47 +1492,27 @@
     },
     {
       "source": "11",
-      "target": "DIF OSTEOGENICA",
+      "target": "OSTEOGENIC",
       "value": 1
     },
     {
       "source": "11",
-      "target": "2 A 5 PASSAGEM",
+      "target": "2 A 5 PASSAGE",
       "value": 1
     },
     {
       "source": "11",
-      "target": "Genetic Testing",
-      "value": 1
-    },
-    {
-      "source": "11",
-      "target": "Metabolic Assays",
-      "value": 1
-    },
-    {
-      "source": "11",
-      "target": "Flow Cytometry",
-      "value": 1
-    },
-    {
-      "source": "11",
-      "target": "OTHERS",
-      "value": 1
-    },
-    {
-      "source": "11",
-      "target": "OSSO",
+      "target": "Bone",
       "value": 1
     },
     {
       "source": "12",
-      "target": "WEB OF SCIENCE",
+      "target": "Web of science",
       "value": 1
     },
     {
       "source": "12",
-      "target": "LIPOASPIRADO",
+      "target": "Lipoaspirate",
       "value": 1
     },
     {
@@ -1767,7 +1532,7 @@
     },
     {
       "source": "12",
-      "target": "DIF CONDROGENICA",
+      "target": "CONDROGENIC",
       "value": 1
     },
     {
@@ -1777,52 +1542,22 @@
     },
     {
       "source": "12",
-      "target": "Electronic Microscopy",
-      "value": 1
-    },
-    {
-      "source": "12",
-      "target": "Microscopy",
-      "value": 1
-    },
-    {
-      "source": "12",
-      "target": "Spectrometry",
-      "value": 1
-    },
-    {
-      "source": "12",
-      "target": "Genetic Testing",
-      "value": 1
-    },
-    {
-      "source": "12",
-      "target": "Viability and Cytotoxicity",
-      "value": 1
-    },
-    {
-      "source": "12",
-      "target": "Flow Cytometry",
-      "value": 1
-    },
-    {
-      "source": "12",
-      "target": "CARTILAGEM",
+      "target": "Cartilage",
       "value": 1
     },
     {
       "source": "13",
-      "target": "SCOPUS",
+      "target": "Scopus",
       "value": 1
     },
     {
       "source": "13",
-      "target": "LIPOASPIRADO",
+      "target": "Lipoaspirate",
       "value": 1
     },
     {
       "source": "13",
-      "target": "ENZIMATICO",
+      "target": "Enzimatic",
       "value": 1
     },
     {
@@ -1857,12 +1592,12 @@
     },
     {
       "source": "13",
-      "target": "DIF OSTEOGENICA",
+      "target": "OSTEOGENIC",
       "value": 1
     },
     {
       "source": "13",
-      "target": "2 A 5 PASSAGEM",
+      "target": "2 A 5 PASSAGE",
       "value": 1
     },
     {
@@ -1872,62 +1607,27 @@
     },
     {
       "source": "13",
-      "target": "Electronic Microscopy",
-      "value": 1
-    },
-    {
-      "source": "13",
-      "target": "Microscopy",
-      "value": 1
-    },
-    {
-      "source": "13",
-      "target": "ELISA",
-      "value": 1
-    },
-    {
-      "source": "13",
-      "target": "Immunocytochemistry",
-      "value": 1
-    },
-    {
-      "source": "13",
-      "target": "Genetic Testing",
-      "value": 1
-    },
-    {
-      "source": "13",
-      "target": "Metabolic Assays",
-      "value": 1
-    },
-    {
-      "source": "13",
-      "target": "Flow Cytometry",
-      "value": 1
-    },
-    {
-      "source": "13",
-      "target": "OSSO",
+      "target": "Bone",
       "value": 1
     },
     {
       "source": "14",
-      "target": "PUBMED",
+      "target": "Pubmed",
       "value": 1
     },
     {
       "source": "14",
-      "target": "LIPOASPIRADO",
+      "target": "Lipoaspirate",
       "value": 1
     },
     {
       "source": "14",
-      "target": "ENZIMATICO",
+      "target": "Enzimatic",
       "value": 1
     },
     {
       "source": "14",
-      "target": "2 A 5 PASSAGEM",
+      "target": "2 A 5 PASSAGE",
       "value": 1
     },
     {
@@ -1937,47 +1637,27 @@
     },
     {
       "source": "14",
-      "target": "Electronic Microscopy",
+      "target": " In vivo",
       "value": 1
     },
     {
       "source": "14",
-      "target": "Microscopy",
-      "value": 1
-    },
-    {
-      "source": "14",
-      "target": "Immunohistochemistry",
-      "value": 1
-    },
-    {
-      "source": "14",
-      "target": "TESTE IN VIVO",
-      "value": 1
-    },
-    {
-      "source": "14",
-      "target": "RODENTIA",
-      "value": 1
-    },
-    {
-      "source": "14",
-      "target": "TECIDO ADIPOSO",
+      "target": "Adipose tissue",
       "value": 1
     },
     {
       "source": "15",
-      "target": "SCOPUS",
+      "target": "Scopus",
       "value": 1
     },
     {
       "source": "15",
-      "target": "LIPOASPIRADO",
+      "target": "Lipoaspirate",
       "value": 1
     },
     {
       "source": "15",
-      "target": "DIF OSTEOGENICA",
+      "target": "OSTEOGENIC",
       "value": 1
     },
     {
@@ -1987,52 +1667,32 @@
     },
     {
       "source": "15",
-      "target": "Electronic Microscopy",
-      "value": 1
-    },
-    {
-      "source": "15",
-      "target": "Spectrometry",
-      "value": 1
-    },
-    {
-      "source": "15",
-      "target": "Genetic Testing",
-      "value": 1
-    },
-    {
-      "source": "15",
-      "target": "Metabolic Assays",
-      "value": 1
-    },
-    {
-      "source": "15",
-      "target": "OSSO",
+      "target": "Bone",
       "value": 1
     },
     {
       "source": "16",
-      "target": "SCOPUS",
+      "target": "Scopus",
       "value": 1
     },
     {
       "source": "16",
-      "target": "LIPOASPIRADO",
+      "target": "Lipoaspirate",
       "value": 1
     },
     {
       "source": "16",
-      "target": "ENZIMATICO",
+      "target": "Enzimatic",
       "value": 1
     },
     {
       "source": "16",
-      "target": "MORFOLOGIA SIM",
+      "target": "Morphologie",
       "value": 1
     },
     {
       "source": "16",
-      "target": "2 A 5 PASSAGEM",
+      "target": "2 A 5 PASSAGE",
       "value": 1
     },
     {
@@ -2042,62 +1702,37 @@
     },
     {
       "source": "16",
-      "target": "Microscopy",
-      "value": 1
-    },
-    {
-      "source": "16",
-      "target": "Immunocytochemistry",
-      "value": 1
-    },
-    {
-      "source": "16",
-      "target": "Spectrometry",
-      "value": 1
-    },
-    {
-      "source": "16",
-      "target": "Genetic Testing",
-      "value": 1
-    },
-    {
-      "source": "16",
-      "target": "Metabolic Assays",
-      "value": 1
-    },
-    {
-      "source": "16",
-      "target": "NERVO",
+      "target": "Neurological",
       "value": 1
     },
     {
       "source": "17",
-      "target": "WEB OF SCIENCE",
+      "target": "Web of science",
       "value": 1
     },
     {
       "source": "17",
-      "target": "LIPOASPIRADO",
+      "target": "Lipoaspirate",
       "value": 1
     },
     {
       "source": "17",
-      "target": "ENZIMATICO",
+      "target": "Enzimatic",
       "value": 1
     },
     {
       "source": "17",
-      "target": "DIF ADIPOGENICA",
+      "target": "ADIPOGENIC",
       "value": 1
     },
     {
       "source": "17",
-      "target": "DIF OSTEOGENICA",
+      "target": "OSTEOGENIC",
       "value": 1
     },
     {
       "source": "17",
-      "target": "2 A 5 PASSAGEM",
+      "target": "2 A 5 PASSAGE",
       "value": 1
     },
     {
@@ -2107,127 +1742,77 @@
     },
     {
       "source": "17",
-      "target": "SINTETICO",
+      "target": "SINTETIC",
       "value": 1
     },
     {
       "source": "17",
-      "target": "Electronic Microscopy",
-      "value": 1
-    },
-    {
-      "source": "17",
-      "target": "Microscopy",
-      "value": 1
-    },
-    {
-      "source": "17",
-      "target": "Spectrometry",
-      "value": 1
-    },
-    {
-      "source": "17",
-      "target": "Genetic Testing",
-      "value": 1
-    },
-    {
-      "source": "17",
-      "target": "Metabolic Assays",
-      "value": 1
-    },
-    {
-      "source": "17",
-      "target": "TECIDO MOLE",
+      "target": "Soft tissue",
       "value": 1
     },
     {
       "source": "18",
-      "target": "PUBMED",
+      "target": "Pubmed",
       "value": 1
     },
     {
       "source": "18",
-      "target": "LIPOASPIRADO",
+      "target": "Lipoaspirate",
       "value": 1
     },
     {
       "source": "18",
-      "target": "ENZIMATICO",
+      "target": "Enzimatic",
       "value": 1
     },
     {
       "source": "18",
-      "target": "DIF OSTEOGENICA",
+      "target": "OSTEOGENIC",
       "value": 1
     },
     {
       "source": "18",
-      "target": "2 A 5 PASSAGEM",
+      "target": "2 A 5 PASSAGE",
       "value": 1
     },
     {
       "source": "18",
-      "target": "COMPOSITO",
+      "target": "COMPOSITE",
       "value": 1
     },
     {
       "source": "18",
-      "target": "Microscopy",
+      "target": " In vivo",
       "value": 1
     },
     {
       "source": "18",
-      "target": "Immunohistochemistry",
-      "value": 1
-    },
-    {
-      "source": "18",
-      "target": "Genetic Testing",
-      "value": 1
-    },
-    {
-      "source": "18",
-      "target": "Metabolic Assays",
-      "value": 1
-    },
-    {
-      "source": "18",
-      "target": "TESTE IN VIVO",
-      "value": 1
-    },
-    {
-      "source": "18",
-      "target": "RODENTIA",
-      "value": 1
-    },
-    {
-      "source": "18",
-      "target": "OSSO",
+      "target": "Bone",
       "value": 1
     },
     {
       "source": "19",
-      "target": "SCOPUS",
+      "target": "Scopus",
       "value": 1
     },
     {
       "source": "19",
-      "target": "LIPOASPIRADO",
+      "target": "Lipoaspirate",
       "value": 1
     },
     {
       "source": "19",
-      "target": "ENZIMATICO",
+      "target": "Enzimatic",
       "value": 1
     },
     {
       "source": "19",
-      "target": "MORFOLOGIA SIM",
+      "target": "Morphologie",
       "value": 1
     },
     {
       "source": "19",
-      "target": "ADERENCIA SIM",
+      "target": "Adherence",
       "value": 1
     },
     {
@@ -2252,17 +1837,17 @@
     },
     {
       "source": "19",
-      "target": "DIF ADIPOGENICA",
+      "target": "ADIPOGENIC",
       "value": 1
     },
     {
       "source": "19",
-      "target": "DIF OSTEOGENICA",
+      "target": "OSTEOGENIC",
       "value": 1
     },
     {
       "source": "19",
-      "target": "2 A 5 PASSAGEM",
+      "target": "2 A 5 PASSAGE",
       "value": 1
     },
     {
@@ -2272,37 +1857,27 @@
     },
     {
       "source": "19",
-      "target": "Electronic Microscopy",
-      "value": 1
-    },
-    {
-      "source": "19",
-      "target": "Microscopy",
-      "value": 1
-    },
-    {
-      "source": "19",
-      "target": "COMPARACAO\r",
+      "target": "Comparison\r",
       "value": 1
     },
     {
       "source": "20",
-      "target": "SCOPUS",
+      "target": "Scopus",
       "value": 1
     },
     {
       "source": "20",
-      "target": "LIPOASPIRADO",
+      "target": "Lipoaspirate",
       "value": 1
     },
     {
       "source": "20",
-      "target": "ENZIMATICO",
+      "target": "Enzimatic",
       "value": 1
     },
     {
       "source": "20",
-      "target": "ADERENCIA SIM",
+      "target": "Adherence",
       "value": 1
     },
     {
@@ -2317,147 +1892,92 @@
     },
     {
       "source": "20",
-      "target": "DIF OSTEOGENICA",
+      "target": "OSTEOGENIC",
       "value": 1
     },
     {
       "source": "20",
-      "target": "2 A 5 PASSAGEM",
+      "target": "2 A 5 PASSAGE",
       "value": 1
     },
     {
       "source": "20",
-      "target": "COMPOSITO",
+      "target": "COMPOSITE",
       "value": 1
     },
     {
       "source": "20",
-      "target": "Microscopy",
-      "value": 1
-    },
-    {
-      "source": "20",
-      "target": "Immunohistochemistry",
-      "value": 1
-    },
-    {
-      "source": "20",
-      "target": "Immunocytochemistry",
-      "value": 1
-    },
-    {
-      "source": "20",
-      "target": "OSSO",
+      "target": "Bone",
       "value": 1
     },
     {
       "source": "21",
-      "target": "WEB OF SCIENCE",
+      "target": "Web of science",
       "value": 1
     },
     {
       "source": "21",
-      "target": "LIPOASPIRADO",
+      "target": "Lipoaspirate",
       "value": 1
     },
     {
       "source": "21",
-      "target": "ENZIMATICO",
+      "target": "Enzimatic",
       "value": 1
     },
     {
       "source": "21",
-      "target": "MORFOLOGIA SIM",
+      "target": "Morphologie",
       "value": 1
     },
     {
       "source": "21",
-      "target": "DIF OSTEOGENICA",
+      "target": "OSTEOGENIC",
       "value": 1
     },
     {
       "source": "21",
-      "target": "DIF CONDROGENICA",
+      "target": "CONDROGENIC",
       "value": 1
     },
     {
       "source": "21",
-      "target": "2 A 5 PASSAGEM",
+      "target": "2 A 5 PASSAGE",
       "value": 1
     },
     {
       "source": "21",
-      "target": "COMPOSITO",
+      "target": "COMPOSITE",
       "value": 1
     },
     {
       "source": "21",
-      "target": "Electronic Microscopy",
+      "target": " In vivo",
       "value": 1
     },
     {
       "source": "21",
-      "target": "Microscopy",
+      "target": "Bone",
       "value": 1
     },
     {
       "source": "21",
-      "target": "Immunohistochemistry",
-      "value": 1
-    },
-    {
-      "source": "21",
-      "target": "Immunocytochemistry",
-      "value": 1
-    },
-    {
-      "source": "21",
-      "target": "Genetic Testing",
-      "value": 1
-    },
-    {
-      "source": "21",
-      "target": "Metabolic Assays",
-      "value": 1
-    },
-    {
-      "source": "21",
-      "target": "OTHERS",
-      "value": 1
-    },
-    {
-      "source": "21",
-      "target": "TESTE IN VIVO",
-      "value": 1
-    },
-    {
-      "source": "21",
-      "target": "GALLIFORMES",
-      "value": 1
-    },
-    {
-      "source": "21",
-      "target": "OSSO",
-      "value": 1
-    },
-    {
-      "source": "21",
-      "target": "CARTILAGEM",
+      "target": "Cartilage",
       "value": 1
     },
     {
       "source": "22",
-      "target": "SCOPUS",
+      "target": "Scopus",
       "value": 1
     },
     {
       "source": "22",
-      "target": "LIPOASPIRADO",
+      "target": "Lipoaspirate",
       "value": 1
     },
     {
       "source": "22",
-      "target": "ENZIMATICO",
+      "target": "Enzimatic",
       "value": 1
     },
     {
@@ -2472,42 +1992,32 @@
     },
     {
       "source": "22",
-      "target": "2 A 5 PASSAGEM",
+      "target": "2 A 5 PASSAGE",
       "value": 1
     },
     {
       "source": "22",
-      "target": "COMPOSITO",
+      "target": "COMPOSITE",
       "value": 1
     },
     {
       "source": "22",
-      "target": "Microscopy",
-      "value": 1
-    },
-    {
-      "source": "22",
-      "target": "Viability and Cytotoxicity",
-      "value": 1
-    },
-    {
-      "source": "22",
-      "target": "CARTILAGEM",
+      "target": "Cartilage",
       "value": 1
     },
     {
       "source": "23",
-      "target": "SCOPUS",
+      "target": "Scopus",
       "value": 1
     },
     {
       "source": "23",
-      "target": "LIPOASPIRADO",
+      "target": "Lipoaspirate",
       "value": 1
     },
     {
       "source": "23",
-      "target": "ENZIMATICO",
+      "target": "Enzimatic",
       "value": 1
     },
     {
@@ -2537,12 +2047,12 @@
     },
     {
       "source": "23",
-      "target": "DIF OSTEOGENICA",
+      "target": "OSTEOGENIC",
       "value": 1
     },
     {
       "source": "23",
-      "target": "2 A 5 PASSAGEM",
+      "target": "2 A 5 PASSAGE",
       "value": 1
     },
     {
@@ -2552,52 +2062,22 @@
     },
     {
       "source": "23",
-      "target": "COMPOSITO",
+      "target": "COMPOSITE",
       "value": 1
     },
     {
       "source": "23",
-      "target": "Electronic Microscopy",
-      "value": 1
-    },
-    {
-      "source": "23",
-      "target": "Microscopy",
-      "value": 1
-    },
-    {
-      "source": "23",
-      "target": "Genetic Testing",
-      "value": 1
-    },
-    {
-      "source": "23",
-      "target": "Viability and Cytotoxicity",
-      "value": 1
-    },
-    {
-      "source": "23",
-      "target": "Flow Cytometry",
-      "value": 1
-    },
-    {
-      "source": "23",
-      "target": "OTHERS",
-      "value": 1
-    },
-    {
-      "source": "23",
-      "target": "OSSO",
+      "target": "Bone",
       "value": 1
     },
     {
       "source": "24",
-      "target": "LIPOASPIRADO",
+      "target": "Lipoaspirate",
       "value": 1
     },
     {
       "source": "24",
-      "target": "ENZIMATICO",
+      "target": "Enzimatic",
       "value": 1
     },
     {
@@ -2607,7 +2087,7 @@
     },
     {
       "source": "24",
-      "target": "2 A 5 PASSAGEM",
+      "target": "2 A 5 PASSAGE",
       "value": 1
     },
     {
@@ -2617,62 +2097,27 @@
     },
     {
       "source": "24",
-      "target": "Electronic Microscopy",
-      "value": 1
-    },
-    {
-      "source": "24",
-      "target": "Microscopy",
-      "value": 1
-    },
-    {
-      "source": "24",
-      "target": "ELISA",
-      "value": 1
-    },
-    {
-      "source": "24",
-      "target": "Genetic Testing",
-      "value": 1
-    },
-    {
-      "source": "24",
-      "target": "OTHERS",
-      "value": 1
-    },
-    {
-      "source": "24",
-      "target": "TESTE IN VIVO",
-      "value": 1
-    },
-    {
-      "source": "24",
-      "target": "LAGOMORPHA",
-      "value": 1
-    },
-    {
-      "source": "24",
-      "target": "OTHERS",
+      "target": " In vivo",
       "value": 1
     },
     {
       "source": "25",
-      "target": "SCOPUS",
+      "target": "Scopus",
       "value": 1
     },
     {
       "source": "25",
-      "target": "LIPOASPIRADO",
+      "target": "Lipoaspirate",
       "value": 1
     },
     {
       "source": "25",
-      "target": "ENZIMATICO",
+      "target": "Enzimatic",
       "value": 1
     },
     {
       "source": "25",
-      "target": "2 A 5 PASSAGEM",
+      "target": "2 A 5 PASSAGE",
       "value": 1
     },
     {
@@ -2682,122 +2127,72 @@
     },
     {
       "source": "25",
-      "target": "SINTETICO",
+      "target": "SINTETIC",
       "value": 1
     },
     {
       "source": "25",
-      "target": "Electronic Microscopy",
+      "target": " In vivo",
       "value": 1
     },
     {
       "source": "25",
-      "target": "Microscopy",
-      "value": 1
-    },
-    {
-      "source": "25",
-      "target": "Spectrometry",
-      "value": 1
-    },
-    {
-      "source": "25",
-      "target": "Metabolic Assays",
-      "value": 1
-    },
-    {
-      "source": "25",
-      "target": "TESTE IN VIVO",
-      "value": 1
-    },
-    {
-      "source": "25",
-      "target": "RODENTIA",
-      "value": 1
-    },
-    {
-      "source": "25",
-      "target": "NERVO",
+      "target": "Neurological",
       "value": 1
     },
     {
       "source": "26",
-      "target": "LIPOASPIRADO",
+      "target": "Lipoaspirate",
       "value": 1
     },
     {
       "source": "26",
-      "target": "ENZIMATICO",
+      "target": "Enzimatic",
       "value": 1
     },
     {
       "source": "26",
-      "target": "DIF OSTEOGENICA",
+      "target": "OSTEOGENIC",
       "value": 1
     },
     {
       "source": "26",
-      "target": "2 A 5 PASSAGEM",
+      "target": "2 A 5 PASSAGE",
       "value": 1
     },
     {
       "source": "26",
-      "target": "SINTETICO",
+      "target": "SINTETIC",
       "value": 1
     },
     {
       "source": "26",
-      "target": "COMPOSITO",
+      "target": "COMPOSITE",
       "value": 1
     },
     {
       "source": "26",
-      "target": "Spectrometry",
+      "target": " In vivo",
       "value": 1
     },
     {
       "source": "26",
-      "target": "Genetic Testing",
-      "value": 1
-    },
-    {
-      "source": "26",
-      "target": "Metabolic Assays",
-      "value": 1
-    },
-    {
-      "source": "26",
-      "target": "OTHERS",
-      "value": 1
-    },
-    {
-      "source": "26",
-      "target": "TESTE IN VIVO",
-      "value": 1
-    },
-    {
-      "source": "26",
-      "target": "RODENTIA",
-      "value": 1
-    },
-    {
-      "source": "26",
-      "target": "OSSO",
+      "target": "Bone",
       "value": 1
     },
     {
       "source": "27",
-      "target": "PUBMED",
+      "target": "Pubmed",
       "value": 1
     },
     {
       "source": "27",
-      "target": "LIPOASPIRADO",
+      "target": "Lipoaspirate",
       "value": 1
     },
     {
       "source": "27",
-      "target": "ENZIMATICO",
+      "target": "Enzimatic",
       "value": 1
     },
     {
@@ -2817,12 +2212,12 @@
     },
     {
       "source": "27",
-      "target": "DIF OSTEOGENICA",
+      "target": "OSTEOGENIC",
       "value": 1
     },
     {
       "source": "27",
-      "target": "2 A 5 PASSAGEM",
+      "target": "2 A 5 PASSAGE",
       "value": 1
     },
     {
@@ -2832,72 +2227,42 @@
     },
     {
       "source": "27",
-      "target": "SINTETICO",
+      "target": "SINTETIC",
       "value": 1
     },
     {
       "source": "27",
-      "target": "COMPOSITO",
+      "target": "COMPOSITE",
       "value": 1
     },
     {
       "source": "27",
-      "target": "Electronic Microscopy",
-      "value": 1
-    },
-    {
-      "source": "27",
-      "target": "Microscopy",
-      "value": 1
-    },
-    {
-      "source": "27",
-      "target": "Spectrometry",
-      "value": 1
-    },
-    {
-      "source": "27",
-      "target": "Genetic Testing",
-      "value": 1
-    },
-    {
-      "source": "27",
-      "target": "Metabolic Assays",
-      "value": 1
-    },
-    {
-      "source": "27",
-      "target": "OTHERS",
-      "value": 1
-    },
-    {
-      "source": "27",
-      "target": "OSSO",
+      "target": "Bone",
       "value": 1
     },
     {
       "source": "28",
-      "target": "PUBMED",
+      "target": "Pubmed",
       "value": 1
     },
     {
       "source": "28",
-      "target": "BICHECTOMIA",
+      "target": "Bichectomy",
       "value": 1
     },
     {
       "source": "28",
-      "target": "ENZIMATICO",
+      "target": "Enzimatic",
       "value": 1
     },
     {
       "source": "28",
-      "target": "MORFOLOGIA SIM",
+      "target": "Morphologie",
       "value": 1
     },
     {
       "source": "28",
-      "target": "ADERENCIA SIM",
+      "target": "Adherence",
       "value": 1
     },
     {
@@ -2907,12 +2272,12 @@
     },
     {
       "source": "28",
-      "target": "DIF OSTEOGENICA",
+      "target": "OSTEOGENIC",
       "value": 1
     },
     {
       "source": "28",
-      "target": "2 A 5 PASSAGEM",
+      "target": "2 A 5 PASSAGE",
       "value": 1
     },
     {
@@ -2922,47 +2287,32 @@
     },
     {
       "source": "28",
-      "target": "SINTETICO",
+      "target": "SINTETIC",
       "value": 1
     },
     {
       "source": "28",
-      "target": "CERAMICA",
+      "target": "CERAMIC",
       "value": 1
     },
     {
       "source": "28",
-      "target": "Microscopy",
-      "value": 1
-    },
-    {
-      "source": "28",
-      "target": "Genetic Testing",
-      "value": 1
-    },
-    {
-      "source": "28",
-      "target": "OTHERS",
-      "value": 1
-    },
-    {
-      "source": "28",
-      "target": "OSSO",
+      "target": "Bone",
       "value": 1
     },
     {
       "source": "29",
-      "target": "PUBMED",
+      "target": "Pubmed",
       "value": 1
     },
     {
       "source": "29",
-      "target": "LIPOASPIRADO",
+      "target": "Lipoaspirate",
       "value": 1
     },
     {
       "source": "29",
-      "target": "ENZIMATICO",
+      "target": "Enzimatic",
       "value": 1
     },
     {
@@ -2977,12 +2327,12 @@
     },
     {
       "source": "29",
-      "target": "DIF ADIPOGENICA",
+      "target": "ADIPOGENIC",
       "value": 1
     },
     {
       "source": "29",
-      "target": "2 A 5 PASSAGEM",
+      "target": "2 A 5 PASSAGE",
       "value": 1
     },
     {
@@ -2992,62 +2342,42 @@
     },
     {
       "source": "29",
-      "target": "SINTETICO",
+      "target": "SINTETIC",
       "value": 1
     },
     {
       "source": "29",
-      "target": "COMPOSITO",
+      "target": "COMPOSITE",
       "value": 1
     },
     {
       "source": "29",
-      "target": "Electronic Microscopy",
+      "target": " In vivo",
       "value": 1
     },
     {
       "source": "29",
-      "target": "Microscopy",
-      "value": 1
-    },
-    {
-      "source": "29",
-      "target": "Metabolic Assays",
-      "value": 1
-    },
-    {
-      "source": "29",
-      "target": "TESTE IN VIVO",
-      "value": 1
-    },
-    {
-      "source": "29",
-      "target": "RODENTIA",
-      "value": 1
-    },
-    {
-      "source": "29",
-      "target": "TECIDO MOLE",
+      "target": "Soft tissue",
       "value": 1
     },
     {
       "source": "30",
-      "target": "SCOPUS",
+      "target": "Scopus",
       "value": 1
     },
     {
       "source": "30",
-      "target": "LIPOASPIRADO",
+      "target": "Lipoaspirate",
       "value": 1
     },
     {
       "source": "30",
-      "target": "MORFOLOGIA SIM",
+      "target": "Morphologie",
       "value": 1
     },
     {
       "source": "30",
-      "target": "ADERENCIA SIM",
+      "target": "Adherence",
       "value": 1
     },
     {
@@ -3057,77 +2387,62 @@
     },
     {
       "source": "30",
-      "target": "DIF OSTEOGENICA",
+      "target": "OSTEOGENIC",
       "value": 1
     },
     {
       "source": "30",
-      "target": "2 A 5 PASSAGEM",
+      "target": "2 A 5 PASSAGE",
       "value": 1
     },
     {
       "source": "30",
-      "target": "SINTETICO",
+      "target": "SINTETIC",
       "value": 1
     },
     {
       "source": "30",
-      "target": "Electronic Microscopy",
-      "value": 1
-    },
-    {
-      "source": "30",
-      "target": "Metabolic Assays",
-      "value": 1
-    },
-    {
-      "source": "30",
-      "target": "OTHERS",
-      "value": 1
-    },
-    {
-      "source": "30",
-      "target": "TECIDO MOLE",
+      "target": "Soft tissue",
       "value": 1
     },
     {
       "source": "31",
-      "target": "SCOPUS",
+      "target": "Scopus",
       "value": 1
     },
     {
       "source": "31",
-      "target": "LIPOASPIRADO",
+      "target": "Lipoaspirate",
       "value": 1
     },
     {
       "source": "31",
-      "target": "ENZIMATICO",
+      "target": "Enzimatic",
       "value": 1
     },
     {
       "source": "31",
-      "target": "ADERENCIA SIM",
+      "target": "Adherence",
       "value": 1
     },
     {
       "source": "31",
-      "target": "DIF OSTEOGENICA",
+      "target": "OSTEOGENIC",
       "value": 1
     },
     {
       "source": "31",
-      "target": "DIF CONDROGENICA",
+      "target": "CONDROGENIC",
       "value": 1
     },
     {
       "source": "31",
-      "target": "2 A 5 PASSAGEM",
+      "target": "2 A 5 PASSAGE",
       "value": 1
     },
     {
       "source": "31",
-      "target": "5 PASSAGEM",
+      "target": "5 PASSAGE",
       "value": 1
     },
     {
@@ -3137,57 +2452,32 @@
     },
     {
       "source": "31",
-      "target": "SINTETICO",
+      "target": "SINTETIC",
       "value": 1
     },
     {
       "source": "31",
-      "target": "Electronic Microscopy",
-      "value": 1
-    },
-    {
-      "source": "31",
-      "target": "Microscopy",
-      "value": 1
-    },
-    {
-      "source": "31",
-      "target": "Metabolic Assays",
-      "value": 1
-    },
-    {
-      "source": "31",
-      "target": "Viability and Cytotoxicity",
-      "value": 1
-    },
-    {
-      "source": "31",
-      "target": "Flow Cytometry",
-      "value": 1
-    },
-    {
-      "source": "31",
-      "target": "PELE",
+      "target": "Skin",
       "value": 1
     },
     {
       "source": "32",
-      "target": "PUBMED",
+      "target": "Pubmed",
       "value": 1
     },
     {
       "source": "32",
-      "target": "LIPOASPIRADO",
+      "target": "Lipoaspirate",
       "value": 1
     },
     {
       "source": "32",
-      "target": "ENZIMATICO",
+      "target": "Enzimatic",
       "value": 1
     },
     {
       "source": "32",
-      "target": "2 A 5 PASSAGEM",
+      "target": "2 A 5 PASSAGE",
       "value": 1
     },
     {
@@ -3197,257 +2487,162 @@
     },
     {
       "source": "32",
-      "target": "SINTETICO",
+      "target": "SINTETIC",
       "value": 1
     },
     {
       "source": "32",
-      "target": "Microscopy",
-      "value": 1
-    },
-    {
-      "source": "32",
-      "target": "Immunohistochemistry",
-      "value": 1
-    },
-    {
-      "source": "32",
-      "target": "Genetic Testing",
-      "value": 1
-    },
-    {
-      "source": "32",
-      "target": "Flow Cytometry",
-      "value": 1
-    },
-    {
-      "source": "32",
-      "target": "OTHERS",
-      "value": 1
-    },
-    {
-      "source": "32",
-      "target": "TESTE IN VIVO",
-      "value": 1
-    },
-    {
-      "source": "32",
-      "target": "RODENTIA",
-      "value": 1
-    },
-    {
-      "source": "32",
-      "target": "OTHERS",
+      "target": " In vivo",
       "value": 1
     },
     {
       "source": "33",
-      "target": "PUBMED",
+      "target": "Pubmed",
       "value": 1
     },
     {
       "source": "33",
-      "target": "LIPOASPIRADO",
+      "target": "Lipoaspirate",
       "value": 1
     },
     {
       "source": "33",
-      "target": "ENZIMATICO",
+      "target": "Enzimatic",
       "value": 1
     },
     {
       "source": "33",
-      "target": "ADERENCIA SIM",
+      "target": "Adherence",
       "value": 1
     },
     {
       "source": "33",
-      "target": "2 A 5 PASSAGEM",
+      "target": "2 A 5 PASSAGE",
       "value": 1
     },
     {
       "source": "33",
-      "target": "5 PASSAGEM",
+      "target": "5 PASSAGE",
       "value": 1
     },
     {
       "source": "33",
-      "target": "SINTETICO",
+      "target": "SINTETIC",
       "value": 1
     },
     {
       "source": "33",
-      "target": "Electronic Microscopy",
-      "value": 1
-    },
-    {
-      "source": "33",
-      "target": "Viability and Cytotoxicity",
-      "value": 1
-    },
-    {
-      "source": "33",
-      "target": "OTHERS",
-      "value": 1
-    },
-    {
-      "source": "33",
-      "target": "GALLIFORMES",
-      "value": 1
-    },
-    {
-      "source": "33",
-      "target": "TECIDO MOLE",
+      "target": "Soft tissue",
       "value": 1
     },
     {
       "source": "34",
-      "target": "PUBMED",
+      "target": "Pubmed",
       "value": 1
     },
     {
       "source": "34",
-      "target": "LIPOASPIRADO",
+      "target": "Lipoaspirate",
       "value": 1
     },
     {
       "source": "34",
-      "target": "ENZIMATICO",
+      "target": "Enzimatic",
       "value": 1
     },
     {
       "source": "34",
-      "target": "DIF ADIPOGENICA",
+      "target": "ADIPOGENIC",
       "value": 1
     },
     {
       "source": "34",
-      "target": "SINTETICO",
+      "target": "SINTETIC",
       "value": 1
     },
     {
       "source": "34",
-      "target": "Microscopy",
-      "value": 1
-    },
-    {
-      "source": "34",
-      "target": "Immunohistochemistry",
-      "value": 1
-    },
-    {
-      "source": "34",
-      "target": "Metabolic Assays",
-      "value": 1
-    },
-    {
-      "source": "34",
-      "target": "OTHERS",
-      "value": 1
-    },
-    {
-      "source": "34",
-      "target": "TECIDO MOLE",
+      "target": "Soft tissue",
       "value": 1
     },
     {
       "source": "35",
-      "target": "PUBMED",
+      "target": "Pubmed",
       "value": 1
     },
     {
       "source": "35",
-      "target": "LIPOASPIRADO",
+      "target": "Lipoaspirate",
       "value": 1
     },
     {
       "source": "35",
-      "target": "ENZIMATICO",
+      "target": "Enzimatic",
       "value": 1
     },
     {
       "source": "35",
-      "target": "DIF ADIPOGENICA",
+      "target": "ADIPOGENIC",
       "value": 1
     },
     {
       "source": "35",
-      "target": "DIF OSTEOGENICA",
+      "target": "OSTEOGENIC",
       "value": 1
     },
     {
       "source": "35",
-      "target": "DIF CONDROGENICA",
+      "target": "CONDROGENIC",
       "value": 1
     },
     {
       "source": "35",
-      "target": "2 A 5 PASSAGEM",
+      "target": "2 A 5 PASSAGE",
       "value": 1
     },
     {
       "source": "35",
-      "target": "5 PASSAGEM",
+      "target": "5 PASSAGE",
       "value": 1
     },
     {
       "source": "35",
-      "target": "SINTETICO",
+      "target": "SINTETIC",
       "value": 1
     },
     {
       "source": "35",
-      "target": "Microscopy",
-      "value": 1
-    },
-    {
-      "source": "35",
-      "target": "Immunohistochemistry",
-      "value": 1
-    },
-    {
-      "source": "35",
-      "target": "Immunocytochemistry",
-      "value": 1
-    },
-    {
-      "source": "35",
-      "target": "OTHERS",
-      "value": 1
-    },
-    {
-      "source": "35",
-      "target": "CARTILAGEM",
+      "target": "Cartilage",
       "value": 1
     },
     {
       "source": "36",
-      "target": "SCOPUS",
+      "target": "Scopus",
       "value": 1
     },
     {
       "source": "36",
-      "target": "WEB OF SCIENCE",
+      "target": "Web of science",
       "value": 1
     },
     {
       "source": "36",
-      "target": "LIPOASPIRADO",
+      "target": "Lipoaspirate",
       "value": 1
     },
     {
       "source": "36",
-      "target": "ENZIMATICO",
+      "target": "Enzimatic",
       "value": 1
     },
     {
       "source": "36",
-      "target": "MORFOLOGIA SIM",
+      "target": "Morphologie",
       "value": 1
     },
     {
       "source": "36",
-      "target": "ADERENCIA SIM",
+      "target": "Adherence",
       "value": 1
     },
     {
@@ -3457,52 +2652,42 @@
     },
     {
       "source": "36",
-      "target": "2 A 5 PASSAGEM",
+      "target": "2 A 5 PASSAGE",
       "value": 1
     },
     {
       "source": "36",
-      "target": "SINTETICO",
+      "target": "SINTETIC",
       "value": 1
     },
     {
       "source": "36",
-      "target": "Spectrometry",
-      "value": 1
-    },
-    {
-      "source": "36",
-      "target": "OTHERS",
-      "value": 1
-    },
-    {
-      "source": "36",
-      "target": "OSSO",
+      "target": "Bone",
       "value": 1
     },
     {
       "source": "37",
-      "target": "PUBMED",
+      "target": "Pubmed",
       "value": 1
     },
     {
       "source": "37",
-      "target": "LIPOASPIRADO",
+      "target": "Lipoaspirate",
       "value": 1
     },
     {
       "source": "37",
-      "target": "ENZIMATICO",
+      "target": "Enzimatic",
       "value": 1
     },
     {
       "source": "37",
-      "target": "MORFOLOGIA SIM",
+      "target": "Morphologie",
       "value": 1
     },
     {
       "source": "37",
-      "target": "ADERENCIA SIM",
+      "target": "Adherence",
       "value": 1
     },
     {
@@ -3522,7 +2707,7 @@
     },
     {
       "source": "37",
-      "target": "2 A 5 PASSAGEM",
+      "target": "2 A 5 PASSAGE",
       "value": 1
     },
     {
@@ -3532,62 +2717,32 @@
     },
     {
       "source": "37",
-      "target": "Electronic Microscopy",
-      "value": 1
-    },
-    {
-      "source": "37",
-      "target": "ELISA",
-      "value": 1
-    },
-    {
-      "source": "37",
-      "target": "Spectrometry",
-      "value": 1
-    },
-    {
-      "source": "37",
-      "target": "OTHERS",
-      "value": 1
-    },
-    {
-      "source": "37",
-      "target": "TESTE IN VIVO",
-      "value": 1
-    },
-    {
-      "source": "37",
-      "target": "RODENTIA",
-      "value": 1
-    },
-    {
-      "source": "37",
-      "target": "OTHERS",
+      "target": " In vivo",
       "value": 1
     },
     {
       "source": "38",
-      "target": "PUBMED",
+      "target": "Pubmed",
       "value": 1
     },
     {
       "source": "38",
-      "target": "LIPOASPIRADO",
+      "target": "Lipoaspirate",
       "value": 1
     },
     {
       "source": "38",
-      "target": "ENZIMATICO",
+      "target": "Enzimatic",
       "value": 1
     },
     {
       "source": "38",
-      "target": "DIF OSTEOGENICA",
+      "target": "OSTEOGENIC",
       "value": 1
     },
     {
       "source": "38",
-      "target": "2 A 5 PASSAGEM",
+      "target": "2 A 5 PASSAGE",
       "value": 1
     },
     {
@@ -3597,72 +2752,37 @@
     },
     {
       "source": "38",
-      "target": "Microscopy",
+      "target": " In vivo",
       "value": 1
     },
     {
       "source": "38",
-      "target": "Immunohistochemistry",
-      "value": 1
-    },
-    {
-      "source": "38",
-      "target": "Immunocytochemistry",
-      "value": 1
-    },
-    {
-      "source": "38",
-      "target": "Metabolic Assays",
-      "value": 1
-    },
-    {
-      "source": "38",
-      "target": "Flow Cytometry",
-      "value": 1
-    },
-    {
-      "source": "38",
-      "target": "OTHERS",
-      "value": 1
-    },
-    {
-      "source": "38",
-      "target": "TESTE IN VIVO",
-      "value": 1
-    },
-    {
-      "source": "38",
-      "target": "RODENTIA",
-      "value": 1
-    },
-    {
-      "source": "38",
-      "target": "OSSO",
+      "target": "Bone",
       "value": 1
     },
     {
       "source": "39",
-      "target": "PUBMED",
+      "target": "Pubmed",
       "value": 1
     },
     {
       "source": "39",
-      "target": "LIPOASPIRADO",
+      "target": "Lipoaspirate",
       "value": 1
     },
     {
       "source": "39",
-      "target": "ENZIMATICO",
+      "target": "Enzimatic",
       "value": 1
     },
     {
       "source": "39",
-      "target": "DIF OSTEOGENICA",
+      "target": "OSTEOGENIC",
       "value": 1
     },
     {
       "source": "39",
-      "target": "2 A 5 PASSAGEM",
+      "target": "2 A 5 PASSAGE",
       "value": 1
     },
     {
@@ -3672,117 +2792,67 @@
     },
     {
       "source": "39",
-      "target": "Microscopy",
-      "value": 1
-    },
-    {
-      "source": "39",
-      "target": "ELISA",
-      "value": 1
-    },
-    {
-      "source": "39",
-      "target": "Viability and Cytotoxicity",
-      "value": 1
-    },
-    {
-      "source": "39",
-      "target": "Flow Cytometry",
-      "value": 1
-    },
-    {
-      "source": "39",
-      "target": "OTHERS",
-      "value": 1
-    },
-    {
-      "source": "39",
-      "target": "OSSO",
+      "target": "Bone",
       "value": 1
     },
     {
       "source": "40",
-      "target": "PUBMED",
+      "target": "Pubmed",
       "value": 1
     },
     {
       "source": "40",
-      "target": "LIPOASPIRADO",
+      "target": "Lipoaspirate",
       "value": 1
     },
     {
       "source": "40",
-      "target": "ENZIMATICO",
+      "target": "Enzimatic",
       "value": 1
     },
     {
       "source": "40",
-      "target": "DIF ADIPOGENICA",
+      "target": "ADIPOGENIC",
       "value": 1
     },
     {
       "source": "40",
-      "target": "DIF OSTEOGENICA",
+      "target": "OSTEOGENIC",
       "value": 1
     },
     {
       "source": "40",
-      "target": "2 A 5 PASSAGEM",
+      "target": "2 A 5 PASSAGE",
       "value": 1
     },
     {
       "source": "40",
-      "target": "SINTETICO",
+      "target": "SINTETIC",
       "value": 1
     },
     {
       "source": "40",
-      "target": "Microscopy",
-      "value": 1
-    },
-    {
-      "source": "40",
-      "target": "ELISA",
-      "value": 1
-    },
-    {
-      "source": "40",
-      "target": "Viability and Cytotoxicity",
-      "value": 1
-    },
-    {
-      "source": "40",
-      "target": "Flow Cytometry",
-      "value": 1
-    },
-    {
-      "source": "40",
-      "target": "OTHERS",
-      "value": 1
-    },
-    {
-      "source": "40",
-      "target": "OSSO",
+      "target": "Bone",
       "value": 1
     },
     {
       "source": "41",
-      "target": "PUBMED",
+      "target": "Pubmed",
       "value": 1
     },
     {
       "source": "41",
-      "target": "LIPOASPIRADO",
+      "target": "Lipoaspirate",
       "value": 1
     },
     {
       "source": "41",
-      "target": "ENZIMATICO",
+      "target": "Enzimatic",
       "value": 1
     },
     {
       "source": "41",
-      "target": "ADERENCIA SIM",
+      "target": "Adherence",
       "value": 1
     },
     {
@@ -3817,12 +2887,12 @@
     },
     {
       "source": "41",
-      "target": "DIF OSTEOGENICA",
+      "target": "OSTEOGENIC",
       "value": 1
     },
     {
       "source": "41",
-      "target": "2 A 5 PASSAGEM",
+      "target": "2 A 5 PASSAGE",
       "value": 1
     },
     {
@@ -3832,37 +2902,22 @@
     },
     {
       "source": "41",
-      "target": "Microscopy",
-      "value": 1
-    },
-    {
-      "source": "41",
-      "target": "Metabolic Assays",
-      "value": 1
-    },
-    {
-      "source": "41",
-      "target": "OTHERS",
-      "value": 1
-    },
-    {
-      "source": "41",
-      "target": "OSSO",
+      "target": "Bone",
       "value": 1
     },
     {
       "source": "42",
-      "target": "SCOPUS",
+      "target": "Scopus",
       "value": 1
     },
     {
       "source": "42",
-      "target": "LIPOASPIRADO",
+      "target": "Lipoaspirate",
       "value": 1
     },
     {
       "source": "42",
-      "target": "ENZIMATICO",
+      "target": "Enzimatic",
       "value": 1
     },
     {
@@ -3882,67 +2937,37 @@
     },
     {
       "source": "42",
-      "target": "Electronic Microscopy",
+      "target": " In vivo",
       "value": 1
     },
     {
       "source": "42",
-      "target": "Microscopy",
-      "value": 1
-    },
-    {
-      "source": "42",
-      "target": "Metabolic Assays",
-      "value": 1
-    },
-    {
-      "source": "42",
-      "target": "Viability and Cytotoxicity",
-      "value": 1
-    },
-    {
-      "source": "42",
-      "target": "OTHERS",
-      "value": 1
-    },
-    {
-      "source": "42",
-      "target": "TESTE IN VIVO",
-      "value": 1
-    },
-    {
-      "source": "42",
-      "target": "RODENTIA",
-      "value": 1
-    },
-    {
-      "source": "42",
-      "target": "NERVO",
+      "target": "Neurological",
       "value": 1
     },
     {
       "source": "43",
-      "target": "WEB OF SCIENCE",
+      "target": "Web of science",
       "value": 1
     },
     {
       "source": "43",
-      "target": "LIPOASPIRADO",
+      "target": "Lipoaspirate",
       "value": 1
     },
     {
       "source": "43",
-      "target": "ENZIMATICO",
+      "target": "Enzimatic",
       "value": 1
     },
     {
       "source": "43",
-      "target": "MORFOLOGIA SIM",
+      "target": "Morphologie",
       "value": 1
     },
     {
       "source": "43",
-      "target": "ADERENCIA SIM",
+      "target": "Adherence",
       "value": 1
     },
     {
@@ -3962,12 +2987,12 @@
     },
     {
       "source": "43",
-      "target": "DIF ADIPOGENICA",
+      "target": "ADIPOGENIC",
       "value": 1
     },
     {
       "source": "43",
-      "target": "2 A 5 PASSAGEM",
+      "target": "2 A 5 PASSAGE",
       "value": 1
     },
     {
@@ -3976,48 +3001,23 @@
       "value": 1
     },
     {
-      "source": "43",
-      "target": "Microscopy",
-      "value": 1
-    },
-    {
-      "source": "43",
-      "target": "Metabolic Assays",
-      "value": 1
-    },
-    {
-      "source": "43",
-      "target": "Flow Cytometry",
-      "value": 1
-    },
-    {
-      "source": "43",
-      "target": "OTHERS",
-      "value": 1
-    },
-    {
-      "source": "43",
-      "target": "OTHERS",
+      "source": "44",
+      "target": "Web of science",
       "value": 1
     },
     {
       "source": "44",
-      "target": "WEB OF SCIENCE",
+      "target": "Lipoaspirate",
       "value": 1
     },
     {
       "source": "44",
-      "target": "LIPOASPIRADO",
+      "target": "Bichectomy",
       "value": 1
     },
     {
       "source": "44",
-      "target": "BICHECTOMIA",
-      "value": 1
-    },
-    {
-      "source": "44",
-      "target": "ENZIMATICO",
+      "target": "Enzimatic",
       "value": 1
     },
     {
@@ -4047,12 +3047,12 @@
     },
     {
       "source": "44",
-      "target": "DIF OSTEOGENICA",
+      "target": "OSTEOGENIC",
       "value": 1
     },
     {
       "source": "44",
-      "target": "2 A 5 PASSAGEM",
+      "target": "2 A 5 PASSAGE",
       "value": 1
     },
     {
@@ -4062,52 +3062,22 @@
     },
     {
       "source": "44",
-      "target": "Microscopy",
-      "value": 1
-    },
-    {
-      "source": "44",
-      "target": "Spectrometry",
-      "value": 1
-    },
-    {
-      "source": "44",
-      "target": "Metabolic Assays",
-      "value": 1
-    },
-    {
-      "source": "44",
-      "target": "Viability and Cytotoxicity",
-      "value": 1
-    },
-    {
-      "source": "44",
-      "target": "Flow Cytometry",
-      "value": 1
-    },
-    {
-      "source": "44",
-      "target": "OTHERS",
-      "value": 1
-    },
-    {
-      "source": "44",
-      "target": "OSSO",
+      "target": "Bone",
       "value": 1
     },
     {
       "source": "45",
-      "target": "SCOPUS",
+      "target": "Scopus",
       "value": 1
     },
     {
       "source": "45",
-      "target": "LIPOASPIRADO",
+      "target": "Lipoaspirate",
       "value": 1
     },
     {
       "source": "45",
-      "target": "ENZIMATICO",
+      "target": "Enzimatic",
       "value": 1
     },
     {
@@ -4117,52 +3087,27 @@
     },
     {
       "source": "45",
-      "target": "Microscopy",
+      "target": " In vivo",
       "value": 1
     },
     {
       "source": "45",
-      "target": "Immunohistochemistry",
-      "value": 1
-    },
-    {
-      "source": "45",
-      "target": "Flow Cytometry",
-      "value": 1
-    },
-    {
-      "source": "45",
-      "target": "OTHERS",
-      "value": 1
-    },
-    {
-      "source": "45",
-      "target": "TESTE IN VIVO",
-      "value": 1
-    },
-    {
-      "source": "45",
-      "target": "RODENTIA",
-      "value": 1
-    },
-    {
-      "source": "45",
-      "target": "TECIDO MOLE",
+      "target": "Soft tissue",
       "value": 1
     },
     {
       "source": "46",
-      "target": "SCOPUS",
+      "target": "Scopus",
       "value": 1
     },
     {
       "source": "46",
-      "target": "BICHECTOMIA",
+      "target": "Bichectomy",
       "value": 1
     },
     {
       "source": "46",
-      "target": "ENZIMATICO",
+      "target": "Enzimatic",
       "value": 1
     },
     {
@@ -4182,132 +3127,82 @@
     },
     {
       "source": "46",
-      "target": "DIF ADIPOGENICA",
+      "target": "ADIPOGENIC",
       "value": 1
     },
     {
       "source": "46",
-      "target": "DIF OSTEOGENICA",
+      "target": "OSTEOGENIC",
       "value": 1
     },
     {
       "source": "46",
-      "target": "2 A 5 PASSAGEM",
+      "target": "2 A 5 PASSAGE",
       "value": 1
     },
     {
       "source": "46",
-      "target": "Immunohistochemistry",
+      "target": " In vivo",
       "value": 1
     },
     {
       "source": "46",
-      "target": "Metabolic Assays",
-      "value": 1
-    },
-    {
-      "source": "46",
-      "target": "Viability and Cytotoxicity",
-      "value": 1
-    },
-    {
-      "source": "46",
-      "target": "Flow Cytometry",
-      "value": 1
-    },
-    {
-      "source": "46",
-      "target": "OTHERS",
-      "value": 1
-    },
-    {
-      "source": "46",
-      "target": "TESTE IN VIVO",
-      "value": 1
-    },
-    {
-      "source": "46",
-      "target": "RODENTIA",
-      "value": 1
-    },
-    {
-      "source": "46",
-      "target": "OSSO",
+      "target": "Bone",
       "value": 1
     },
     {
       "source": "47",
-      "target": "SCOPUS",
+      "target": "Scopus",
       "value": 1
     },
     {
       "source": "47",
-      "target": "MORFOLOGIA SIM",
+      "target": "Morphologie",
       "value": 1
     },
     {
       "source": "47",
-      "target": "DIF CONDROGENICA",
+      "target": "CONDROGENIC",
       "value": 1
     },
     {
       "source": "47",
-      "target": "2 A 5 PASSAGEM",
+      "target": "2 A 5 PASSAGE",
       "value": 1
     },
     {
       "source": "47",
-      "target": "SINTETICO",
+      "target": "SINTETIC",
       "value": 1
     },
     {
       "source": "47",
-      "target": "Electronic Microscopy",
-      "value": 1
-    },
-    {
-      "source": "47",
-      "target": "Microscopy",
-      "value": 1
-    },
-    {
-      "source": "47",
-      "target": "Metabolic Assays",
-      "value": 1
-    },
-    {
-      "source": "47",
-      "target": "OTHERS",
-      "value": 1
-    },
-    {
-      "source": "47",
-      "target": "CARTILAGEM",
+      "target": "Cartilage",
       "value": 1
     },
     {
       "source": "48",
-      "target": "SCOPUS",
+      "target": "Scopus",
       "value": 1
     },
     {
       "source": "48",
-      "target": "LIPOASPIRADO",
+      "target": "Lipoaspirate",
       "value": 1
     },
     {
       "source": "48",
-      "target": "ENZIMATICO",
+      "target": "Enzimatic",
       "value": 1
     },
     {
       "source": "48",
-      "target": "MORFOLOGIA SIM",
+      "target": "Morphologie",
       "value": 1
     },
     {
       "source": "48",
-      "target": "ADERENCIA SIM",
+      "target": "Adherence",
       "value": 1
     },
     {
@@ -4332,22 +3227,22 @@
     },
     {
       "source": "48",
-      "target": "DIF ADIPOGENICA",
+      "target": "ADIPOGENIC",
       "value": 1
     },
     {
       "source": "48",
-      "target": "DIF OSTEOGENICA",
+      "target": "OSTEOGENIC",
       "value": 1
     },
     {
       "source": "48",
-      "target": "DIF CONDROGENICA",
+      "target": "CONDROGENIC",
       "value": 1
     },
     {
       "source": "48",
-      "target": "2 A 5 PASSAGEM",
+      "target": "2 A 5 PASSAGE",
       "value": 1
     },
     {
@@ -4357,52 +3252,22 @@
     },
     {
       "source": "48",
-      "target": "Electronic Microscopy",
-      "value": 1
-    },
-    {
-      "source": "48",
-      "target": "Microscopy",
-      "value": 1
-    },
-    {
-      "source": "48",
-      "target": "Immunohistochemistry",
-      "value": 1
-    },
-    {
-      "source": "48",
-      "target": "Metabolic Assays",
-      "value": 1
-    },
-    {
-      "source": "48",
-      "target": "Flow Cytometry",
-      "value": 1
-    },
-    {
-      "source": "48",
-      "target": "OTHERS",
-      "value": 1
-    },
-    {
-      "source": "48",
-      "target": "PELE",
+      "target": "Skin",
       "value": 1
     },
     {
       "source": "49",
-      "target": "SCOPUS",
+      "target": "Scopus",
       "value": 1
     },
     {
       "source": "49",
-      "target": "BICHECTOMIA",
+      "target": "Bichectomy",
       "value": 1
     },
     {
       "source": "49",
-      "target": "ENZIMATICO",
+      "target": "Enzimatic",
       "value": 1
     },
     {
@@ -4437,22 +3302,22 @@
     },
     {
       "source": "49",
-      "target": "DIF ADIPOGENICA",
+      "target": "ADIPOGENIC",
       "value": 1
     },
     {
       "source": "49",
-      "target": "DIF OSTEOGENICA",
+      "target": "OSTEOGENIC",
       "value": 1
     },
     {
       "source": "49",
-      "target": "2 A 5 PASSAGEM",
+      "target": "2 A 5 PASSAGE",
       "value": 1
     },
     {
       "source": "49",
-      "target": "5 PASSAGEM",
+      "target": "5 PASSAGE",
       "value": 1
     },
     {
@@ -4461,53 +3326,18 @@
       "value": 1
     },
     {
-      "source": "49",
-      "target": "Electronic Microscopy",
-      "value": 1
-    },
-    {
-      "source": "49",
-      "target": "Microscopy",
-      "value": 1
-    },
-    {
-      "source": "49",
-      "target": "Immunohistochemistry",
-      "value": 1
-    },
-    {
-      "source": "49",
-      "target": "Immunocytochemistry",
-      "value": 1
-    },
-    {
-      "source": "49",
-      "target": "Flow Cytometry",
-      "value": 1
-    },
-    {
-      "source": "49",
-      "target": "OTHERS",
-      "value": 1
-    },
-    {
-      "source": "49",
-      "target": "OTHERS",
+      "source": "50",
+      "target": "Web of science",
       "value": 1
     },
     {
       "source": "50",
-      "target": "WEB OF SCIENCE",
+      "target": "Lipoaspirate",
       "value": 1
     },
     {
       "source": "50",
-      "target": "LIPOASPIRADO",
-      "value": 1
-    },
-    {
-      "source": "50",
-      "target": "ENZIMATICO",
+      "target": "Enzimatic",
       "value": 1
     },
     {
@@ -4537,27 +3367,22 @@
     },
     {
       "source": "50",
-      "target": "DIF ADIPOGENICA",
+      "target": "ADIPOGENIC",
       "value": 1
     },
     {
       "source": "50",
-      "target": "DIF OSTEOGENICA",
+      "target": "OSTEOGENIC",
       "value": 1
     },
     {
       "source": "50",
-      "target": "DIF CONDROGENICA",
+      "target": "CONDROGENIC",
       "value": 1
     },
     {
       "source": "50",
-      "target": "1 PASSAGEM",
-      "value": 1
-    },
-    {
-      "source": "50",
-      "target": "2 A 5 PASSAGEM",
+      "target": "2 A 5 PASSAGE",
       "value": 1
     },
     {
@@ -4567,72 +3392,32 @@
     },
     {
       "source": "50",
-      "target": "Electronic Microscopy",
-      "value": 1
-    },
-    {
-      "source": "50",
-      "target": "Microscopy",
-      "value": 1
-    },
-    {
-      "source": "50",
-      "target": "Immunocytochemistry",
-      "value": 1
-    },
-    {
-      "source": "50",
-      "target": "Spectrometry",
-      "value": 1
-    },
-    {
-      "source": "50",
-      "target": "Genetic Testing",
-      "value": 1
-    },
-    {
-      "source": "50",
-      "target": "Viability and Cytotoxicity",
-      "value": 1
-    },
-    {
-      "source": "50",
-      "target": "Flow Cytometry",
-      "value": 1
-    },
-    {
-      "source": "50",
-      "target": "OTHERS",
-      "value": 1
-    },
-    {
-      "source": "50",
-      "target": "NERVO",
+      "target": "Neurological",
       "value": 1
     },
     {
       "source": "51",
-      "target": "SCOPUS",
+      "target": "Scopus",
       "value": 1
     },
     {
       "source": "51",
-      "target": "LIPOASPIRADO",
+      "target": "Lipoaspirate",
       "value": 1
     },
     {
       "source": "51",
-      "target": "ENZIMATICO",
+      "target": "Enzimatic",
       "value": 1
     },
     {
       "source": "51",
-      "target": "MORFOLOGIA SIM",
+      "target": "Morphologie",
       "value": 1
     },
     {
       "source": "51",
-      "target": "ADERENCIA SIM",
+      "target": "Adherence",
       "value": 1
     },
     {
@@ -4652,17 +3437,17 @@
     },
     {
       "source": "51",
-      "target": "DIF OSTEOGENICA",
+      "target": "OSTEOGENIC",
       "value": 1
     },
     {
       "source": "51",
-      "target": "2 A 5 PASSAGEM",
+      "target": "2 A 5 PASSAGE",
       "value": 1
     },
     {
       "source": "51",
-      "target": "5 PASSAGEM",
+      "target": "5 PASSAGE",
       "value": 1
     },
     {
@@ -4672,57 +3457,27 @@
     },
     {
       "source": "51",
-      "target": "Microscopy",
+      "target": " In vivo",
       "value": 1
     },
     {
       "source": "51",
-      "target": "Immunohistochemistry",
-      "value": 1
-    },
-    {
-      "source": "51",
-      "target": "Genetic Testing",
-      "value": 1
-    },
-    {
-      "source": "51",
-      "target": "Viability and Cytotoxicity",
-      "value": 1
-    },
-    {
-      "source": "51",
-      "target": "Flow Cytometry",
-      "value": 1
-    },
-    {
-      "source": "51",
-      "target": "TESTE IN VIVO",
-      "value": 1
-    },
-    {
-      "source": "51",
-      "target": "RODENTIA",
-      "value": 1
-    },
-    {
-      "source": "51",
-      "target": "OSSO",
+      "target": "Bone",
       "value": 1
     },
     {
       "source": "52",
-      "target": "PUBMED",
+      "target": "Pubmed",
       "value": 1
     },
     {
       "source": "52",
-      "target": "LIPOASPIRADO",
+      "target": "Lipoaspirate",
       "value": 1
     },
     {
       "source": "52",
-      "target": "ENZIMATICO",
+      "target": "Enzimatic",
       "value": 1
     },
     {
@@ -4732,177 +3487,97 @@
     },
     {
       "source": "52",
-      "target": "Electronic Microscopy",
-      "value": 1
-    },
-    {
-      "source": "52",
-      "target": "Immunohistochemistry",
-      "value": 1
-    },
-    {
-      "source": "52",
-      "target": "Genetic Testing",
-      "value": 1
-    },
-    {
-      "source": "52",
-      "target": "Metabolic Assays",
-      "value": 1
-    },
-    {
-      "source": "52",
-      "target": "NERVO",
+      "target": "Neurological",
       "value": 1
     },
     {
       "source": "53",
-      "target": "SCOPUS",
+      "target": "Scopus",
       "value": 1
     },
     {
       "source": "53",
-      "target": "LIPOASPIRADO",
+      "target": "Lipoaspirate",
       "value": 1
     },
     {
       "source": "53",
-      "target": "ENZIMATICO",
+      "target": "Enzimatic",
       "value": 1
     },
     {
       "source": "53",
-      "target": "DIF ADIPOGENICA",
+      "target": "ADIPOGENIC",
       "value": 1
     },
     {
       "source": "53",
-      "target": "SINTETICO",
+      "target": "SINTETIC",
       "value": 1
     },
     {
       "source": "53",
-      "target": "Microscopy",
+      "target": " In vivo",
       "value": 1
     },
     {
       "source": "53",
-      "target": "Immunocytochemistry",
-      "value": 1
-    },
-    {
-      "source": "53",
-      "target": "Genetic Testing",
-      "value": 1
-    },
-    {
-      "source": "53",
-      "target": "Viability and Cytotoxicity",
-      "value": 1
-    },
-    {
-      "source": "53",
-      "target": "TESTE IN VIVO",
-      "value": 1
-    },
-    {
-      "source": "53",
-      "target": "RODENTIA",
-      "value": 1
-    },
-    {
-      "source": "53",
-      "target": "TECIDO MOLE",
+      "target": "Soft tissue",
       "value": 1
     },
     {
       "source": "54",
-      "target": "PUBMED",
+      "target": "Pubmed",
       "value": 1
     },
     {
       "source": "54",
-      "target": "LIPOASPIRADO",
+      "target": "Lipoaspirate",
       "value": 1
     },
     {
       "source": "54",
-      "target": "ENZIMATICO",
+      "target": "Enzimatic",
       "value": 1
     },
     {
       "source": "54",
-      "target": "2 A 5 PASSAGEM",
+      "target": "2 A 5 PASSAGE",
       "value": 1
     },
     {
       "source": "54",
-      "target": "SINTETICO",
+      "target": "SINTETIC",
       "value": 1
     },
     {
       "source": "54",
-      "target": "Electronic Microscopy",
+      "target": " In vivo",
       "value": 1
     },
     {
       "source": "54",
-      "target": "Microscopy",
+      "target": "Bone",
       "value": 1
     },
     {
       "source": "54",
-      "target": "Immunohistochemistry",
-      "value": 1
-    },
-    {
-      "source": "54",
-      "target": "Spectrometry",
-      "value": 1
-    },
-    {
-      "source": "54",
-      "target": "Genetic Testing",
-      "value": 1
-    },
-    {
-      "source": "54",
-      "target": "Viability and Cytotoxicity",
-      "value": 1
-    },
-    {
-      "source": "54",
-      "target": "TESTE IN VIVO",
-      "value": 1
-    },
-    {
-      "source": "54",
-      "target": "RODENTIA",
-      "value": 1
-    },
-    {
-      "source": "54",
-      "target": "OSSO",
-      "value": 1
-    },
-    {
-      "source": "54",
-      "target": "TECIDO ADIPOSO",
+      "target": "Adipose tissue",
       "value": 1
     },
     {
       "source": "55",
-      "target": "SCOPUS",
+      "target": "Scopus",
       "value": 1
     },
     {
       "source": "55",
-      "target": "LIPOASPIRADO",
+      "target": "Lipoaspirate",
       "value": 1
     },
     {
       "source": "55",
-      "target": "DIF OSTEOGENICA",
+      "target": "OSTEOGENIC",
       "value": 1
     },
     {
@@ -4912,67 +3587,37 @@
     },
     {
       "source": "55",
-      "target": "Electronic Microscopy",
+      "target": " In vivo",
       "value": 1
     },
     {
       "source": "55",
-      "target": "Spectrometry",
-      "value": 1
-    },
-    {
-      "source": "55",
-      "target": "Genetic Testing",
-      "value": 1
-    },
-    {
-      "source": "55",
-      "target": "Metabolic Assays",
-      "value": 1
-    },
-    {
-      "source": "55",
-      "target": "Viability and Cytotoxicity",
-      "value": 1
-    },
-    {
-      "source": "55",
-      "target": "TESTE IN VIVO",
-      "value": 1
-    },
-    {
-      "source": "55",
-      "target": "RODENTIA",
-      "value": 1
-    },
-    {
-      "source": "55",
-      "target": "OSSO",
+      "target": "Bone",
       "value": 1
     },
     {
       "source": "56",
-      "target": "PUBMED",
+      "target": "Pubmed",
       "value": 1
     },
     {
       "source": "56",
-      "target": "LIPOASPIRADO",
+      "target": "Lipoaspirate",
       "value": 1
     },
     {
       "source": "56",
-      "target": "ENZIMATICO",
+      "target": "Enzimatic",
       "value": 1
     },
     {
       "source": "56",
-      "target": "MORFOLOGIA SIM",
+      "target": "Morphologie",
       "value": 1
     },
     {
       "source": "56",
-      "target": "ADERENCIA SIM",
+      "target": "Adherence",
       "value": 1
     },
     {
@@ -4987,22 +3632,22 @@
     },
     {
       "source": "56",
-      "target": "DIF ADIPOGENICA",
+      "target": "ADIPOGENIC",
       "value": 1
     },
     {
       "source": "56",
-      "target": "DIF OSTEOGENICA",
+      "target": "OSTEOGENIC",
       "value": 1
     },
     {
       "source": "56",
-      "target": "DIF CONDROGENICA",
+      "target": "CONDROGENIC",
       "value": 1
     },
     {
       "source": "56",
-      "target": "2 A 5 PASSAGEM",
+      "target": "2 A 5 PASSAGE",
       "value": 1
     },
     {
@@ -5011,68 +3656,28 @@
       "value": 1
     },
     {
-      "source": "56",
-      "target": "Microscopy",
-      "value": 1
-    },
-    {
-      "source": "56",
-      "target": "ELISA",
-      "value": 1
-    },
-    {
-      "source": "56",
-      "target": "Spectrometry",
-      "value": 1
-    },
-    {
-      "source": "56",
-      "target": "Genetic Testing",
-      "value": 1
-    },
-    {
-      "source": "56",
-      "target": "Metabolic Assays",
-      "value": 1
-    },
-    {
-      "source": "56",
-      "target": "Viability and Cytotoxicity",
-      "value": 1
-    },
-    {
-      "source": "56",
-      "target": "Flow Cytometry",
-      "value": 1
-    },
-    {
-      "source": "56",
-      "target": "OTHERS",
+      "source": "57",
+      "target": "Scopus",
       "value": 1
     },
     {
       "source": "57",
-      "target": "SCOPUS",
+      "target": "Lipoaspirate",
       "value": 1
     },
     {
       "source": "57",
-      "target": "LIPOASPIRADO",
+      "target": "Bichectomy",
       "value": 1
     },
     {
       "source": "57",
-      "target": "BICHECTOMIA",
+      "target": "Enzimatic",
       "value": 1
     },
     {
       "source": "57",
-      "target": "ENZIMATICO",
-      "value": 1
-    },
-    {
-      "source": "57",
-      "target": "MORFOLOGIA SIM",
+      "target": "Morphologie",
       "value": 1
     },
     {
@@ -5102,27 +3707,27 @@
     },
     {
       "source": "57",
-      "target": "DIF ADIPOGENICA",
+      "target": "ADIPOGENIC",
       "value": 1
     },
     {
       "source": "57",
-      "target": "DIF OSTEOGENICA",
+      "target": "OSTEOGENIC",
       "value": 1
     },
     {
       "source": "57",
-      "target": "DIF CONDROGENICA",
+      "target": "CONDROGENIC",
       "value": 1
     },
     {
       "source": "57",
-      "target": "2 A 5 PASSAGEM",
+      "target": "2 A 5 PASSAGE",
       "value": 1
     },
     {
       "source": "57",
-      "target": "5 PASSAGEM",
+      "target": "5 PASSAGE",
       "value": 1
     },
     {
@@ -5137,62 +3742,32 @@
     },
     {
       "source": "57",
-      "target": "Microscopy",
+      "target": "Bone",
       "value": 1
     },
     {
       "source": "57",
-      "target": "ELISA",
-      "value": 1
-    },
-    {
-      "source": "57",
-      "target": "Spectrometry",
-      "value": 1
-    },
-    {
-      "source": "57",
-      "target": "Genetic Testing",
-      "value": 1
-    },
-    {
-      "source": "57",
-      "target": "Metabolic Assays",
-      "value": 1
-    },
-    {
-      "source": "57",
-      "target": "Flow Cytometry",
-      "value": 1
-    },
-    {
-      "source": "57",
-      "target": "OSSO",
-      "value": 1
-    },
-    {
-      "source": "57",
-      "target": "COMPARACAO\r",
+      "target": "Comparison\r",
       "value": 1
     },
     {
       "source": "58",
-      "target": "SCOPUS",
+      "target": "Scopus",
       "value": 1
     },
     {
       "source": "58",
-      "target": "LIPOASPIRADO",
+      "target": "Lipoaspirate",
       "value": 1
     },
     {
       "source": "58",
-      "target": "DIF OSTEOGENICA",
+      "target": "OSTEOGENIC",
       "value": 1
     },
     {
       "source": "58",
-      "target": "2 A 5 PASSAGEM",
+      "target": "2 A 5 PASSAGE",
       "value": 1
     },
     {
@@ -5202,52 +3777,32 @@
     },
     {
       "source": "58",
-      "target": "Spectrometry",
-      "value": 1
-    },
-    {
-      "source": "58",
-      "target": "Genetic Testing",
-      "value": 1
-    },
-    {
-      "source": "58",
-      "target": "Metabolic Assays",
-      "value": 1
-    },
-    {
-      "source": "58",
-      "target": "Viability and Cytotoxicity",
-      "value": 1
-    },
-    {
-      "source": "58",
-      "target": "OSSO",
+      "target": "Bone",
       "value": 1
     },
     {
       "source": "59",
-      "target": "SCOPUS",
+      "target": "Scopus",
       "value": 1
     },
     {
       "source": "59",
-      "target": "LIPOASPIRADO",
+      "target": "Lipoaspirate",
       "value": 1
     },
     {
       "source": "59",
-      "target": "ENZIMATICO",
+      "target": "Enzimatic",
       "value": 1
     },
     {
       "source": "59",
-      "target": "MORFOLOGIA SIM",
+      "target": "Morphologie",
       "value": 1
     },
     {
       "source": "59",
-      "target": "ADERENCIA SIM",
+      "target": "Adherence",
       "value": 1
     },
     {
@@ -5272,22 +3827,22 @@
     },
     {
       "source": "59",
-      "target": "DIF ADIPOGENICA",
+      "target": "ADIPOGENIC",
       "value": 1
     },
     {
       "source": "59",
-      "target": "DIF OSTEOGENICA",
+      "target": "OSTEOGENIC",
       "value": 1
     },
     {
       "source": "59",
-      "target": "DIF CONDROGENICA",
+      "target": "CONDROGENIC",
       "value": 1
     },
     {
       "source": "59",
-      "target": "2 A 5 PASSAGEM",
+      "target": "2 A 5 PASSAGE",
       "value": 1
     },
     {
@@ -5297,62 +3852,32 @@
     },
     {
       "source": "59",
-      "target": "Electronic Microscopy",
-      "value": 1
-    },
-    {
-      "source": "59",
-      "target": "Microscopy",
-      "value": 1
-    },
-    {
-      "source": "59",
-      "target": "ELISA",
-      "value": 1
-    },
-    {
-      "source": "59",
-      "target": "Spectrometry",
-      "value": 1
-    },
-    {
-      "source": "59",
-      "target": "Metabolic Assays",
-      "value": 1
-    },
-    {
-      "source": "59",
-      "target": "Flow Cytometry",
-      "value": 1
-    },
-    {
-      "source": "59",
-      "target": "PELE",
+      "target": "Skin",
       "value": 1
     },
     {
       "source": "60",
-      "target": "SCOPUS",
+      "target": "Scopus",
       "value": 1
     },
     {
       "source": "60",
-      "target": "BICHECTOMIA",
+      "target": "Bichectomy",
       "value": 1
     },
     {
       "source": "60",
-      "target": "ENZIMATICO",
+      "target": "Enzimatic",
       "value": 1
     },
     {
       "source": "60",
-      "target": "MORFOLOGIA SIM",
+      "target": "Morphologie",
       "value": 1
     },
     {
       "source": "60",
-      "target": "ADERENCIA SIM",
+      "target": "Adherence",
       "value": 1
     },
     {
@@ -5377,67 +3902,37 @@
     },
     {
       "source": "60",
-      "target": "DIF OSTEOGENICA",
+      "target": "OSTEOGENIC",
       "value": 1
     },
     {
       "source": "60",
-      "target": "2 A 5 PASSAGEM",
+      "target": "2 A 5 PASSAGE",
       "value": 1
     },
     {
       "source": "60",
-      "target": "Microscopy",
-      "value": 1
-    },
-    {
-      "source": "60",
-      "target": "Spectrometry",
-      "value": 1
-    },
-    {
-      "source": "60",
-      "target": "Genetic Testing",
-      "value": 1
-    },
-    {
-      "source": "60",
-      "target": "Metabolic Assays",
-      "value": 1
-    },
-    {
-      "source": "60",
-      "target": "Flow Cytometry",
-      "value": 1
-    },
-    {
-      "source": "60",
-      "target": "OTHERS",
-      "value": 1
-    },
-    {
-      "source": "60",
-      "target": "OSSO",
+      "target": "Bone",
       "value": 1
     },
     {
       "source": "61",
-      "target": "SCOPUS",
+      "target": "Scopus",
       "value": 1
     },
     {
       "source": "61",
-      "target": "LIPOASPIRADO",
+      "target": "Lipoaspirate",
       "value": 1
     },
     {
       "source": "61",
-      "target": "ENZIMATICO",
+      "target": "Enzimatic",
       "value": 1
     },
     {
       "source": "61",
-      "target": "ADERENCIA SIM",
+      "target": "Adherence",
       "value": 1
     },
     {
@@ -5467,152 +3962,102 @@
     },
     {
       "source": "61",
-      "target": "DIF ADIPOGENICA",
+      "target": "ADIPOGENIC",
       "value": 1
     },
     {
       "source": "61",
-      "target": "DIF OSTEOGENICA",
+      "target": "OSTEOGENIC",
       "value": 1
     },
     {
       "source": "61",
-      "target": "DIF CONDROGENICA",
+      "target": "CONDROGENIC",
       "value": 1
     },
     {
       "source": "61",
-      "target": "2 A 5 PASSAGEM",
+      "target": "2 A 5 PASSAGE",
       "value": 1
     },
     {
       "source": "61",
-      "target": "COMPOSITO",
+      "target": "COMPOSITE",
       "value": 1
     },
     {
       "source": "61",
-      "target": "Microscopy",
+      "target": " In vivo",
       "value": 1
     },
     {
       "source": "61",
-      "target": "Genetic Testing",
+      "target": "Bone",
       "value": 1
     },
     {
       "source": "61",
-      "target": "Metabolic Assays",
-      "value": 1
-    },
-    {
-      "source": "61",
-      "target": "Flow Cytometry",
-      "value": 1
-    },
-    {
-      "source": "61",
-      "target": "TESTE IN VIVO",
-      "value": 1
-    },
-    {
-      "source": "61",
-      "target": "RODENTIA",
-      "value": 1
-    },
-    {
-      "source": "61",
-      "target": "OSSO",
-      "value": 1
-    },
-    {
-      "source": "61",
-      "target": "CARTILAGEM",
+      "target": "Cartilage",
       "value": 1
     },
     {
       "source": "62",
-      "target": "SCOPUS",
+      "target": "Scopus",
       "value": 1
     },
     {
       "source": "62",
-      "target": "LIPOASPIRADO",
+      "target": "Lipoaspirate",
       "value": 1
     },
     {
       "source": "62",
-      "target": "ENZIMATICO",
+      "target": "Enzimatic",
       "value": 1
     },
     {
       "source": "62",
-      "target": "2 A 5 PASSAGEM",
+      "target": "2 A 5 PASSAGE",
       "value": 1
     },
     {
       "source": "62",
-      "target": "SINTETICO",
+      "target": "SINTETIC",
       "value": 1
     },
     {
       "source": "62",
-      "target": "Electronic Microscopy",
+      "target": " In vivo",
       "value": 1
     },
     {
       "source": "62",
-      "target": "Microscopy",
-      "value": 1
-    },
-    {
-      "source": "62",
-      "target": "Immunohistochemistry",
-      "value": 1
-    },
-    {
-      "source": "62",
-      "target": "Genetic Testing",
-      "value": 1
-    },
-    {
-      "source": "62",
-      "target": "TESTE IN VIVO",
-      "value": 1
-    },
-    {
-      "source": "62",
-      "target": "RODENTIA",
-      "value": 1
-    },
-    {
-      "source": "62",
-      "target": "TECIDO MOLE",
+      "target": "Soft tissue",
       "value": 1
     },
     {
       "source": "63",
-      "target": "SCOPUS",
+      "target": "Scopus",
       "value": 1
     },
     {
       "source": "63",
-      "target": "LIPOASPIRADO",
+      "target": "Lipoaspirate",
       "value": 1
     },
     {
       "source": "63",
-      "target": "BICHECTOMIA",
+      "target": "Bichectomy",
       "value": 1
     },
     {
       "source": "63",
-      "target": "ENZIMATICO",
+      "target": "Enzimatic",
       "value": 1
     },
     {
       "source": "63",
-      "target": "MORFOLOGIA SIM",
+      "target": "Morphologie",
       "value": 1
     },
     {
@@ -5637,22 +4082,22 @@
     },
     {
       "source": "63",
-      "target": "DIF ADIPOGENICA",
+      "target": "ADIPOGENIC",
       "value": 1
     },
     {
       "source": "63",
-      "target": "DIF OSTEOGENICA",
+      "target": "OSTEOGENIC",
       "value": 1
     },
     {
       "source": "63",
-      "target": "2 A 5 PASSAGEM",
+      "target": "2 A 5 PASSAGE",
       "value": 1
     },
     {
       "source": "63",
-      "target": "5 PASSAGEM",
+      "target": "5 PASSAGE",
       "value": 1
     },
     {
@@ -5667,117 +4112,62 @@
     },
     {
       "source": "63",
-      "target": "Electronic Microscopy",
+      "target": "Bone",
       "value": 1
     },
     {
       "source": "63",
-      "target": "Microscopy",
-      "value": 1
-    },
-    {
-      "source": "63",
-      "target": "Metabolic Assays",
-      "value": 1
-    },
-    {
-      "source": "63",
-      "target": "Viability and Cytotoxicity",
-      "value": 1
-    },
-    {
-      "source": "63",
-      "target": "Flow Cytometry",
-      "value": 1
-    },
-    {
-      "source": "63",
-      "target": "OSSO",
-      "value": 1
-    },
-    {
-      "source": "63",
-      "target": "COMPARACAO\r",
+      "target": "Comparison\r",
       "value": 1
     },
     {
       "source": "64",
-      "target": "PUBMED",
+      "target": "Pubmed",
       "value": 1
     },
     {
       "source": "64",
-      "target": "LIPOASPIRADO",
+      "target": "Lipoaspirate",
       "value": 1
     },
     {
       "source": "64",
-      "target": "ENZIMATICO",
+      "target": "Enzimatic",
       "value": 1
     },
     {
       "source": "64",
-      "target": "DIF OSTEOGENICA",
+      "target": "OSTEOGENIC",
       "value": 1
     },
     {
       "source": "64",
-      "target": "COMPOSITO",
+      "target": "COMPOSITE",
       "value": 1
     },
     {
       "source": "64",
-      "target": "Microscopy",
+      "target": " In vivo",
       "value": 1
     },
     {
       "source": "64",
-      "target": "Immunohistochemistry",
-      "value": 1
-    },
-    {
-      "source": "64",
-      "target": "Genetic Testing",
-      "value": 1
-    },
-    {
-      "source": "64",
-      "target": "Metabolic Assays",
-      "value": 1
-    },
-    {
-      "source": "64",
-      "target": "OTHERS",
-      "value": 1
-    },
-    {
-      "source": "64",
-      "target": "TESTE IN VIVO",
-      "value": 1
-    },
-    {
-      "source": "64",
-      "target": "RODENTIA",
-      "value": 1
-    },
-    {
-      "source": "64",
-      "target": "OSSO",
+      "target": "Bone",
       "value": 1
     },
     {
       "source": "65",
-      "target": "SCOPUS",
+      "target": "Scopus",
       "value": 1
     },
     {
       "source": "65",
-      "target": "LIPOASPIRADO",
+      "target": "Lipoaspirate",
       "value": 1
     },
     {
       "source": "65",
-      "target": "ENZIMATICO",
+      "target": "Enzimatic",
       "value": 1
     },
     {
@@ -5807,87 +4197,57 @@
     },
     {
       "source": "65",
-      "target": "DIF ADIPOGENICA",
+      "target": "ADIPOGENIC",
       "value": 1
     },
     {
       "source": "65",
-      "target": "DIF OSTEOGENICA",
+      "target": "OSTEOGENIC",
       "value": 1
     },
     {
       "source": "65",
-      "target": "DIF CONDROGENICA",
+      "target": "CONDROGENIC",
       "value": 1
     },
     {
       "source": "65",
-      "target": "2 A 5 PASSAGEM",
+      "target": "2 A 5 PASSAGE",
       "value": 1
     },
     {
       "source": "65",
-      "target": "COMPOSITO",
+      "target": "COMPOSITE",
       "value": 1
     },
     {
       "source": "65",
-      "target": "Electronic Microscopy",
-      "value": 1
-    },
-    {
-      "source": "65",
-      "target": "Microscopy",
-      "value": 1
-    },
-    {
-      "source": "65",
-      "target": "Immunocytochemistry",
-      "value": 1
-    },
-    {
-      "source": "65",
-      "target": "Genetic Testing",
-      "value": 1
-    },
-    {
-      "source": "65",
-      "target": "Metabolic Assays",
-      "value": 1
-    },
-    {
-      "source": "65",
-      "target": "Flow Cytometry",
-      "value": 1
-    },
-    {
-      "source": "65",
-      "target": "OSSO",
+      "target": "Bone",
       "value": 1
     },
     {
       "source": "66",
-      "target": "WEB OF SCIENCE",
+      "target": "Web of science",
       "value": 1
     },
     {
       "source": "66",
-      "target": "BICHECTOMIA",
+      "target": "Bichectomy",
       "value": 1
     },
     {
       "source": "66",
-      "target": "ENZIMATICO",
+      "target": "Enzimatic",
       "value": 1
     },
     {
       "source": "66",
-      "target": "DIF OSTEOGENICA",
+      "target": "OSTEOGENIC",
       "value": 1
     },
     {
       "source": "66",
-      "target": "5 PASSAGEM",
+      "target": "5 PASSAGE",
       "value": 1
     },
     {
@@ -5897,57 +4257,32 @@
     },
     {
       "source": "66",
-      "target": "Immunohistochemistry",
+      "target": " In vivo",
       "value": 1
     },
     {
       "source": "66",
-      "target": "Immunocytochemistry",
-      "value": 1
-    },
-    {
-      "source": "66",
-      "target": "Flow Cytometry",
-      "value": 1
-    },
-    {
-      "source": "66",
-      "target": "OTHERS",
-      "value": 1
-    },
-    {
-      "source": "66",
-      "target": "TESTE IN VIVO",
-      "value": 1
-    },
-    {
-      "source": "66",
-      "target": "RODENTIA",
-      "value": 1
-    },
-    {
-      "source": "66",
-      "target": "OSSO",
+      "target": "Bone",
       "value": 1
     },
     {
       "source": "67",
-      "target": "PUBMED",
+      "target": "Pubmed",
       "value": 1
     },
     {
       "source": "67",
-      "target": "LIPOASPIRADO",
+      "target": "Lipoaspirate",
       "value": 1
     },
     {
       "source": "67",
-      "target": "ENZIMATICO",
+      "target": "Enzimatic",
       "value": 1
     },
     {
       "source": "67",
-      "target": "ADERENCIA SIM",
+      "target": "Adherence",
       "value": 1
     },
     {
@@ -5987,62 +4322,47 @@
     },
     {
       "source": "67",
-      "target": "2 A 5 PASSAGEM",
+      "target": "2 A 5 PASSAGE",
       "value": 1
     },
     {
       "source": "67",
-      "target": "COMPOSITO",
+      "target": "COMPOSITE",
       "value": 1
     },
     {
       "source": "67",
-      "target": "CERAMICA",
+      "target": "CERAMIC",
       "value": 1
     },
     {
       "source": "67",
-      "target": "Microscopy",
+      "target": " In vivo",
       "value": 1
     },
     {
       "source": "67",
-      "target": "Viability and Cytotoxicity",
-      "value": 1
-    },
-    {
-      "source": "67",
-      "target": "TESTE IN VIVO",
-      "value": 1
-    },
-    {
-      "source": "67",
-      "target": "RODENTIA",
-      "value": 1
-    },
-    {
-      "source": "67",
-      "target": "OSSO",
+      "target": "Bone",
       "value": 1
     },
     {
       "source": "68",
-      "target": "PUBMED",
+      "target": "Pubmed",
       "value": 1
     },
     {
       "source": "68",
-      "target": "LIPOASPIRADO",
+      "target": "Lipoaspirate",
       "value": 1
     },
     {
       "source": "68",
-      "target": "ENZIMATICO",
+      "target": "Enzimatic",
       "value": 1
     },
     {
       "source": "68",
-      "target": "MORFOLOGIA SIM",
+      "target": "Morphologie",
       "value": 1
     },
     {
@@ -6057,12 +4377,12 @@
     },
     {
       "source": "68",
-      "target": "DIF OSTEOGENICA",
+      "target": "OSTEOGENIC",
       "value": 1
     },
     {
       "source": "68",
-      "target": "2 A 5 PASSAGEM",
+      "target": "2 A 5 PASSAGE",
       "value": 1
     },
     {
@@ -6072,172 +4392,112 @@
     },
     {
       "source": "68",
-      "target": "Metabolic Assays",
+      "target": " In vivo",
       "value": 1
     },
     {
       "source": "68",
-      "target": "OTHERS",
-      "value": 1
-    },
-    {
-      "source": "68",
-      "target": "TESTE IN VIVO",
-      "value": 1
-    },
-    {
-      "source": "68",
-      "target": "RODENTIA",
-      "value": 1
-    },
-    {
-      "source": "68",
-      "target": "OSSO",
+      "target": "Bone",
       "value": 1
     },
     {
       "source": "69",
-      "target": "PUBMED",
+      "target": "Pubmed",
       "value": 1
     },
     {
       "source": "69",
-      "target": "LIPOASPIRADO",
+      "target": "Lipoaspirate",
       "value": 1
     },
     {
       "source": "69",
-      "target": "ENZIMATICO",
+      "target": "Enzimatic",
       "value": 1
     },
     {
       "source": "69",
-      "target": "DIF ADIPOGENICA",
+      "target": "ADIPOGENIC",
       "value": 1
     },
     {
       "source": "69",
-      "target": "2 A 5 PASSAGEM",
+      "target": "2 A 5 PASSAGE",
       "value": 1
     },
     {
       "source": "69",
-      "target": "Microscopy",
+      "target": " In vivo",
       "value": 1
     },
     {
       "source": "69",
-      "target": "Genetic Testing",
-      "value": 1
-    },
-    {
-      "source": "69",
-      "target": "Metabolic Assays",
-      "value": 1
-    },
-    {
-      "source": "69",
-      "target": "TESTE IN VIVO",
-      "value": 1
-    },
-    {
-      "source": "69",
-      "target": "RODENTIA",
-      "value": 1
-    },
-    {
-      "source": "69",
-      "target": "TECIDO MOLE",
+      "target": "Soft tissue",
       "value": 1
     },
     {
       "source": "70",
-      "target": "PUBMED",
+      "target": "Pubmed",
       "value": 1
     },
     {
       "source": "70",
-      "target": "LIPOASPIRADO",
+      "target": "Lipoaspirate",
       "value": 1
     },
     {
       "source": "70",
-      "target": "ENZIMATICO",
+      "target": "Enzimatic",
       "value": 1
     },
     {
       "source": "70",
-      "target": "DIF ADIPOGENICA",
+      "target": "ADIPOGENIC",
       "value": 1
     },
     {
       "source": "70",
-      "target": "DIF OSTEOGENICA",
+      "target": "OSTEOGENIC",
       "value": 1
     },
     {
       "source": "70",
-      "target": "2 A 5 PASSAGEM",
+      "target": "2 A 5 PASSAGE",
       "value": 1
     },
     {
       "source": "70",
-      "target": "COMPOSITO",
+      "target": "COMPOSITE",
       "value": 1
     },
     {
       "source": "70",
-      "target": "Microscopy",
+      "target": " In vivo",
       "value": 1
     },
     {
       "source": "70",
-      "target": "Immunohistochemistry",
-      "value": 1
-    },
-    {
-      "source": "70",
-      "target": "Genetic Testing",
-      "value": 1
-    },
-    {
-      "source": "70",
-      "target": "OTHERS",
-      "value": 1
-    },
-    {
-      "source": "70",
-      "target": "TESTE IN VIVO",
-      "value": 1
-    },
-    {
-      "source": "70",
-      "target": "RODENTIA",
-      "value": 1
-    },
-    {
-      "source": "70",
-      "target": "TECIDO ADIPOSO",
+      "target": "Adipose tissue",
       "value": 1
     },
     {
       "source": "71",
-      "target": "SCOPUS",
+      "target": "Scopus",
       "value": 1
     },
     {
       "source": "71",
-      "target": "BICHECTOMIA",
+      "target": "Bichectomy",
       "value": 1
     },
     {
       "source": "71",
-      "target": "ENZIMATICO",
+      "target": "Enzimatic",
       "value": 1
     },
     {
       "source": "71",
-      "target": "ADERENCIA SIM",
+      "target": "Adherence",
       "value": 1
     },
     {
@@ -6257,77 +4517,52 @@
     },
     {
       "source": "71",
-      "target": "DIF ADIPOGENICA",
+      "target": "ADIPOGENIC",
       "value": 1
     },
     {
       "source": "71",
-      "target": "DIF OSTEOGENICA",
+      "target": "OSTEOGENIC",
       "value": 1
     },
     {
       "source": "71",
-      "target": "DIF CONDROGENICA",
+      "target": "CONDROGENIC",
       "value": 1
     },
     {
       "source": "71",
-      "target": "2 A 5 PASSAGEM",
+      "target": "2 A 5 PASSAGE",
       "value": 1
     },
     {
       "source": "71",
-      "target": "Electronic Microscopy",
+      "target": " In vivo",
       "value": 1
     },
     {
       "source": "71",
-      "target": "Immunohistochemistry",
-      "value": 1
-    },
-    {
-      "source": "71",
-      "target": "Genetic Testing",
-      "value": 1
-    },
-    {
-      "source": "71",
-      "target": "OTHERS",
-      "value": 1
-    },
-    {
-      "source": "71",
-      "target": "TESTE IN VIVO",
-      "value": 1
-    },
-    {
-      "source": "71",
-      "target": "RODENTIA",
-      "value": 1
-    },
-    {
-      "source": "71",
-      "target": "NERVO",
+      "target": "Neurological",
       "value": 1
     },
     {
       "source": "72",
-      "target": "SCOPUS",
+      "target": "Scopus",
       "value": 1
     },
     {
       "source": "72",
-      "target": "LIPOASPIRADO",
+      "target": "Lipoaspirate",
       "value": 1
     },
     {
       "source": "72",
-      "target": "ENZIMATICO",
+      "target": "Enzimatic",
       "value": 1
     },
     {
       "source": "72",
-      "target": "DIF CONDROGENICA",
+      "target": "CONDROGENIC",
       "value": 1
     },
     {
@@ -6337,132 +4572,87 @@
     },
     {
       "source": "72",
-      "target": "CERAMICA",
+      "target": "CERAMIC",
       "value": 1
     },
     {
       "source": "72",
-      "target": "Microscopy",
+      "target": "Cartilage",
       "value": 1
     },
     {
       "source": "72",
-      "target": "Immunocytochemistry",
-      "value": 1
-    },
-    {
-      "source": "72",
-      "target": "Genetic Testing",
-      "value": 1
-    },
-    {
-      "source": "72",
-      "target": "Viability and Cytotoxicity",
-      "value": 1
-    },
-    {
-      "source": "72",
-      "target": "OTHERS",
-      "value": 1
-    },
-    {
-      "source": "72",
-      "target": "CARTILAGEM",
-      "value": 1
-    },
-    {
-      "source": "72",
-      "target": "PELE",
+      "target": "Skin",
       "value": 1
     },
     {
       "source": "73",
-      "target": "SCOPUS",
+      "target": "Scopus",
       "value": 1
     },
     {
       "source": "73",
-      "target": "LIPOASPIRADO",
+      "target": "Lipoaspirate",
       "value": 1
     },
     {
       "source": "73",
-      "target": "ENZIMATICO",
+      "target": "Enzimatic",
       "value": 1
     },
     {
       "source": "73",
-      "target": "MORFOLOGIA SIM",
+      "target": "Morphologie",
       "value": 1
     },
     {
       "source": "73",
-      "target": "ADERENCIA SIM",
+      "target": "Adherence",
       "value": 1
     },
     {
       "source": "73",
-      "target": "DIF OSTEOGENICA",
+      "target": "OSTEOGENIC",
       "value": 1
     },
     {
       "source": "73",
-      "target": "2 A 5 PASSAGEM",
+      "target": "2 A 5 PASSAGE",
       "value": 1
     },
     {
       "source": "73",
-      "target": "COMPOSITO",
+      "target": "COMPOSITE",
       "value": 1
     },
     {
       "source": "73",
-      "target": "Electronic Microscopy",
-      "value": 1
-    },
-    {
-      "source": "73",
-      "target": "Immunohistochemistry",
-      "value": 1
-    },
-    {
-      "source": "73",
-      "target": "Metabolic Assays",
-      "value": 1
-    },
-    {
-      "source": "73",
-      "target": "Viability and Cytotoxicity",
-      "value": 1
-    },
-    {
-      "source": "73",
-      "target": "OSSO",
+      "target": "Bone",
       "value": 1
     },
     {
       "source": "74",
-      "target": "SCOPUS",
+      "target": "Scopus",
       "value": 1
     },
     {
       "source": "74",
-      "target": "LIPOASPIRADO",
+      "target": "Lipoaspirate",
       "value": 1
     },
     {
       "source": "74",
-      "target": "ENZIMATICO",
+      "target": "Enzimatic",
       "value": 1
     },
     {
       "source": "74",
-      "target": "DIF OSTEOGENICA",
+      "target": "OSTEOGENIC",
       "value": 1
     },
     {
       "source": "74",
-      "target": "2 A 5 PASSAGEM",
+      "target": "2 A 5 PASSAGE",
       "value": 1
     },
     {
@@ -6472,227 +4662,157 @@
     },
     {
       "source": "74",
-      "target": "SINTETICO",
+      "target": "SINTETIC",
       "value": 1
     },
     {
       "source": "74",
-      "target": "Genetic Testing",
+      "target": " In vivo",
       "value": 1
     },
     {
       "source": "74",
-      "target": "Metabolic Assays",
-      "value": 1
-    },
-    {
-      "source": "74",
-      "target": "OTHERS",
-      "value": 1
-    },
-    {
-      "source": "74",
-      "target": "TESTE IN VIVO",
-      "value": 1
-    },
-    {
-      "source": "74",
-      "target": "GALLIFORMES",
-      "value": 1
-    },
-    {
-      "source": "74",
-      "target": "OSSO",
+      "target": "Bone",
       "value": 1
     },
     {
       "source": "75",
-      "target": "PUBMED",
+      "target": "Pubmed",
       "value": 1
     },
     {
       "source": "75",
-      "target": "LIPOASPIRADO",
+      "target": "Lipoaspirate",
       "value": 1
     },
     {
       "source": "75",
-      "target": "ENZIMATICO",
+      "target": "Enzimatic",
       "value": 1
     },
     {
       "source": "75",
-      "target": "DIF ADIPOGENICA",
+      "target": "ADIPOGENIC",
       "value": 1
     },
     {
       "source": "75",
-      "target": "2 A 5 PASSAGEM",
+      "target": "2 A 5 PASSAGE",
       "value": 1
     },
     {
       "source": "75",
-      "target": "SINTETICO",
+      "target": "SINTETIC",
       "value": 1
     },
     {
       "source": "75",
-      "target": "Microscopy",
-      "value": 1
-    },
-    {
-      "source": "75",
-      "target": "Viability and Cytotoxicity",
-      "value": 1
-    },
-    {
-      "source": "75",
-      "target": "OTHERS",
-      "value": 1
-    },
-    {
-      "source": "75",
-      "target": "TECIDO ADIPOSO",
+      "target": "Adipose tissue",
       "value": 1
     },
     {
       "source": "76",
-      "target": "SCOPUS",
+      "target": "Scopus",
       "value": 1
     },
     {
       "source": "76",
-      "target": "LIPOASPIRADO",
+      "target": "Lipoaspirate",
       "value": 1
     },
     {
       "source": "76",
-      "target": "ADERENCIA SIM",
+      "target": "Adherence",
       "value": 1
     },
     {
       "source": "76",
-      "target": "5 PASSAGEM",
+      "target": "5 PASSAGE",
       "value": 1
     },
     {
       "source": "76",
-      "target": "SINTETICO",
+      "target": "SINTETIC",
       "value": 1
     },
     {
       "source": "76",
-      "target": "Microscopy",
+      "target": "Bone",
       "value": 1
     },
     {
       "source": "76",
-      "target": "Metabolic Assays",
+      "target": "Cartilage",
       "value": 1
     },
     {
       "source": "76",
-      "target": "OTHERS",
-      "value": 1
-    },
-    {
-      "source": "76",
-      "target": "OSSO",
-      "value": 1
-    },
-    {
-      "source": "76",
-      "target": "CARTILAGEM",
-      "value": 1
-    },
-    {
-      "source": "76",
-      "target": "PELE",
+      "target": "Skin",
       "value": 1
     },
     {
       "source": "77",
-      "target": "PUBMED",
+      "target": "Pubmed",
       "value": 1
     },
     {
       "source": "77",
-      "target": "LIPOASPIRADO",
+      "target": "Lipoaspirate",
       "value": 1
     },
     {
       "source": "77",
-      "target": "ENZIMATICO",
+      "target": "Enzimatic",
       "value": 1
     },
     {
       "source": "77",
-      "target": "MORFOLOGIA SIM",
+      "target": "Morphologie",
       "value": 1
     },
     {
       "source": "77",
-      "target": "ADERENCIA SIM",
+      "target": "Adherence",
       "value": 1
     },
     {
       "source": "77",
-      "target": "DIF ADIPOGENICA",
+      "target": "ADIPOGENIC",
       "value": 1
     },
     {
       "source": "77",
-      "target": "DIF OSTEOGENICA",
+      "target": "OSTEOGENIC",
       "value": 1
     },
     {
       "source": "77",
-      "target": "DIF CONDROGENICA",
+      "target": "CONDROGENIC",
       "value": 1
     },
     {
       "source": "77",
-      "target": "Electronic Microscopy",
-      "value": 1
-    },
-    {
-      "source": "77",
-      "target": "Microscopy",
-      "value": 1
-    },
-    {
-      "source": "77",
-      "target": "Metabolic Assays",
-      "value": 1
-    },
-    {
-      "source": "77",
-      "target": "OTHERS",
-      "value": 1
-    },
-    {
-      "source": "77",
-      "target": "PELE",
+      "target": "Skin",
       "value": 1
     },
     {
       "source": "78",
-      "target": "SCOPUS",
+      "target": "Scopus",
       "value": 1
     },
     {
       "source": "78",
-      "target": "LIPOASPIRADO",
+      "target": "Lipoaspirate",
       "value": 1
     },
     {
       "source": "78",
-      "target": "ENZIMATICO",
+      "target": "Enzimatic",
       "value": 1
     },
     {
       "source": "78",
-      "target": "ADERENCIA SIM",
+      "target": "Adherence",
       "value": 1
     },
     {
@@ -6702,197 +4822,127 @@
     },
     {
       "source": "78",
-      "target": "Electronic Microscopy",
+      "target": " In vivo",
       "value": 1
     },
     {
       "source": "78",
-      "target": "Immunohistochemistry",
-      "value": 1
-    },
-    {
-      "source": "78",
-      "target": "TESTE IN VIVO",
-      "value": 1
-    },
-    {
-      "source": "78",
-      "target": "RODENTIA",
-      "value": 1
-    },
-    {
-      "source": "78",
-      "target": "TECIDO MOLE",
+      "target": "Soft tissue",
       "value": 1
     },
     {
       "source": "79",
-      "target": "PUBMED",
+      "target": "Pubmed",
       "value": 1
     },
     {
       "source": "79",
-      "target": "LIPOASPIRADO",
+      "target": "Lipoaspirate",
       "value": 1
     },
     {
       "source": "79",
-      "target": "ENZIMATICO",
+      "target": "Enzimatic",
       "value": 1
     },
     {
       "source": "79",
-      "target": "ADERENCIA SIM",
+      "target": "Adherence",
       "value": 1
     },
     {
       "source": "79",
-      "target": "DIF OSTEOGENICA",
+      "target": "OSTEOGENIC",
       "value": 1
     },
     {
       "source": "79",
-      "target": "2 A 5 PASSAGEM",
+      "target": "2 A 5 PASSAGE",
       "value": 1
     },
     {
       "source": "79",
-      "target": "CERAMICA",
+      "target": "CERAMIC",
       "value": 1
     },
     {
       "source": "79",
-      "target": "Microscopy",
-      "value": 1
-    },
-    {
-      "source": "79",
-      "target": "Genetic Testing",
-      "value": 1
-    },
-    {
-      "source": "79",
-      "target": "Metabolic Assays",
-      "value": 1
-    },
-    {
-      "source": "79",
-      "target": "Viability and Cytotoxicity",
-      "value": 1
-    },
-    {
-      "source": "79",
-      "target": "OTHERS",
-      "value": 1
-    },
-    {
-      "source": "79",
-      "target": "OSSO",
+      "target": "Bone",
       "value": 1
     },
     {
       "source": "80",
-      "target": "SCOPUS",
+      "target": "Scopus",
       "value": 1
     },
     {
       "source": "80",
-      "target": "LIPOASPIRADO",
+      "target": "Lipoaspirate",
       "value": 1
     },
     {
       "source": "80",
-      "target": "ENZIMATICO",
+      "target": "Enzimatic",
       "value": 1
     },
     {
       "source": "80",
-      "target": "2 A 5 PASSAGEM",
+      "target": "2 A 5 PASSAGE",
       "value": 1
     },
     {
       "source": "80",
-      "target": "SINTETICO",
+      "target": "SINTETIC",
       "value": 1
     },
     {
       "source": "80",
-      "target": "Electronic Microscopy",
+      "target": " In vivo",
       "value": 1
     },
     {
       "source": "80",
-      "target": "ELISA",
-      "value": 1
-    },
-    {
-      "source": "80",
-      "target": "Immunohistochemistry",
-      "value": 1
-    },
-    {
-      "source": "80",
-      "target": "Genetic Testing",
-      "value": 1
-    },
-    {
-      "source": "80",
-      "target": "Viability and Cytotoxicity",
-      "value": 1
-    },
-    {
-      "source": "80",
-      "target": "TESTE IN VIVO",
-      "value": 1
-    },
-    {
-      "source": "80",
-      "target": "RODENTIA",
-      "value": 1
-    },
-    {
-      "source": "80",
-      "target": "CARTILAGEM",
+      "target": "Cartilage",
       "value": 1
     },
     {
       "source": "81",
-      "target": "SCOPUS",
+      "target": "Scopus",
       "value": 1
     },
     {
       "source": "81",
-      "target": "BICHECTOMIA",
+      "target": "Bichectomy",
       "value": 1
     },
     {
       "source": "81",
-      "target": "ENZIMATICO",
+      "target": "Enzimatic",
       "value": 1
     },
     {
       "source": "81",
-      "target": "MORFOLOGIA SIM",
+      "target": "Morphologie",
       "value": 1
     },
     {
       "source": "81",
-      "target": "ADERENCIA SIM",
+      "target": "Adherence",
       "value": 1
     },
     {
       "source": "81",
-      "target": "DIF OSTEOGENICA",
+      "target": "OSTEOGENIC",
       "value": 1
     },
     {
       "source": "81",
-      "target": "2 A 5 PASSAGEM",
+      "target": "2 A 5 PASSAGE",
       "value": 1
     },
     {
       "source": "81",
-      "target": "CERAMICA",
+      "target": "CERAMIC",
       "value": 1
     },
     {
@@ -6902,47 +4952,32 @@
     },
     {
       "source": "81",
-      "target": "Electronic Microscopy",
-      "value": 1
-    },
-    {
-      "source": "81",
-      "target": "Metabolic Assays",
-      "value": 1
-    },
-    {
-      "source": "81",
-      "target": "OTHERS",
-      "value": 1
-    },
-    {
-      "source": "81",
-      "target": "OSSO",
+      "target": "Bone",
       "value": 1
     },
     {
       "source": "82",
-      "target": "WEB OF SCIENCE",
+      "target": "Web of science",
       "value": 1
     },
     {
       "source": "82",
-      "target": "LIPOASPIRADO",
+      "target": "Lipoaspirate",
       "value": 1
     },
     {
       "source": "82",
-      "target": "ENZIMATICO",
+      "target": "Enzimatic",
       "value": 1
     },
     {
       "source": "82",
-      "target": "MORFOLOGIA SIM",
+      "target": "Morphologie",
       "value": 1
     },
     {
       "source": "82",
-      "target": "ADERENCIA SIM",
+      "target": "Adherence",
       "value": 1
     },
     {
@@ -6972,27 +5007,22 @@
     },
     {
       "source": "82",
-      "target": "DIF ADIPOGENICA",
+      "target": "ADIPOGENIC",
       "value": 1
     },
     {
       "source": "82",
-      "target": "DIF OSTEOGENICA",
+      "target": "OSTEOGENIC",
       "value": 1
     },
     {
       "source": "82",
-      "target": "DIF CONDROGENICA",
+      "target": "CONDROGENIC",
       "value": 1
     },
     {
       "source": "82",
-      "target": "1 PASSAGEM",
-      "value": 1
-    },
-    {
-      "source": "82",
-      "target": "2 A 5 PASSAGEM",
+      "target": "2 A 5 PASSAGE",
       "value": 1
     },
     {
@@ -7002,67 +5032,27 @@
     },
     {
       "source": "82",
-      "target": "Microscopy",
-      "value": 1
-    },
-    {
-      "source": "82",
-      "target": "Immunohistochemistry",
-      "value": 1
-    },
-    {
-      "source": "82",
-      "target": "Spectrometry",
-      "value": 1
-    },
-    {
-      "source": "82",
-      "target": "Genetic Testing",
-      "value": 1
-    },
-    {
-      "source": "82",
-      "target": "Viability and Cytotoxicity",
-      "value": 1
-    },
-    {
-      "source": "82",
-      "target": "OTHERS",
-      "value": 1
-    },
-    {
-      "source": "82",
-      "target": "TESTE IN VIVO",
-      "value": 1
-    },
-    {
-      "source": "82",
-      "target": "RODENTIA",
-      "value": 1
-    },
-    {
-      "source": "82",
-      "target": "OTHERS",
+      "target": " In vivo",
       "value": 1
     },
     {
       "source": "83",
-      "target": "WEB OF SCIENCE",
+      "target": "Web of science",
       "value": 1
     },
     {
       "source": "83",
-      "target": "BICHECTOMIA",
+      "target": "Bichectomy",
       "value": 1
     },
     {
       "source": "83",
-      "target": "ENZIMATICO",
+      "target": "Enzimatic",
       "value": 1
     },
     {
       "source": "83",
-      "target": "MORFOLOGIA SIM",
+      "target": "Morphologie",
       "value": 1
     },
     {
@@ -7087,12 +5077,12 @@
     },
     {
       "source": "83",
-      "target": "DIF OSTEOGENICA",
+      "target": "OSTEOGENIC",
       "value": 1
     },
     {
       "source": "83",
-      "target": "2 A 5 PASSAGEM",
+      "target": "2 A 5 PASSAGE",
       "value": 1
     },
     {
@@ -7102,52 +5092,32 @@
     },
     {
       "source": "83",
-      "target": "Microscopy",
-      "value": 1
-    },
-    {
-      "source": "83",
-      "target": "Spectrometry",
-      "value": 1
-    },
-    {
-      "source": "83",
-      "target": "Flow Cytometry",
-      "value": 1
-    },
-    {
-      "source": "83",
-      "target": "OTHERS",
-      "value": 1
-    },
-    {
-      "source": "83",
-      "target": "OSSO",
+      "target": "Bone",
       "value": 1
     },
     {
       "source": "84",
-      "target": "WEB OF SCIENCE",
+      "target": "Web of science",
       "value": 1
     },
     {
       "source": "84",
-      "target": "BICHECTOMIA",
+      "target": "Bichectomy",
       "value": 1
     },
     {
       "source": "84",
-      "target": "ENZIMATICO",
+      "target": "Enzimatic",
       "value": 1
     },
     {
       "source": "84",
-      "target": "MORFOLOGIA SIM",
+      "target": "Morphologie",
       "value": 1
     },
     {
       "source": "84",
-      "target": "ADERENCIA SIM",
+      "target": "Adherence",
       "value": 1
     },
     {
@@ -7172,17 +5142,17 @@
     },
     {
       "source": "84",
-      "target": "DIF ADIPOGENICA",
+      "target": "ADIPOGENIC",
       "value": 1
     },
     {
       "source": "84",
-      "target": "DIF OSTEOGENICA",
+      "target": "OSTEOGENIC",
       "value": 1
     },
     {
       "source": "84",
-      "target": "5 PASSAGEM",
+      "target": "5 PASSAGE",
       "value": 1
     },
     {
@@ -7191,43 +5161,23 @@
       "value": 1
     },
     {
-      "source": "84",
-      "target": "Microscopy",
-      "value": 1
-    },
-    {
-      "source": "84",
-      "target": "Flow Cytometry",
-      "value": 1
-    },
-    {
-      "source": "84",
-      "target": "OTHERS",
-      "value": 1
-    },
-    {
-      "source": "84",
-      "target": "OTHERS",
+      "source": "85",
+      "target": "Pubmed",
       "value": 1
     },
     {
       "source": "85",
-      "target": "PUBMED",
+      "target": "Lipoaspirate",
       "value": 1
     },
     {
       "source": "85",
-      "target": "LIPOASPIRADO",
+      "target": "Enzimatic",
       "value": 1
     },
     {
       "source": "85",
-      "target": "ENZIMATICO",
-      "value": 1
-    },
-    {
-      "source": "85",
-      "target": "MORFOLOGIA SIM",
+      "target": "Morphologie",
       "value": 1
     },
     {
@@ -7262,17 +5212,17 @@
     },
     {
       "source": "85",
-      "target": "DIF ADIPOGENICA",
+      "target": "ADIPOGENIC",
       "value": 1
     },
     {
       "source": "85",
-      "target": "DIF OSTEOGENICA",
+      "target": "OSTEOGENIC",
       "value": 1
     },
     {
       "source": "85",
-      "target": "DIF CONDROGENICA",
+      "target": "CONDROGENIC",
       "value": 1
     },
     {
@@ -7282,67 +5232,27 @@
     },
     {
       "source": "85",
-      "target": "Microscopy",
-      "value": 1
-    },
-    {
-      "source": "85",
-      "target": "ELISA",
-      "value": 1
-    },
-    {
-      "source": "85",
-      "target": "Genetic Testing",
-      "value": 1
-    },
-    {
-      "source": "85",
-      "target": "Metabolic Assays",
-      "value": 1
-    },
-    {
-      "source": "85",
-      "target": "Viability and Cytotoxicity",
-      "value": 1
-    },
-    {
-      "source": "85",
-      "target": "Flow Cytometry",
-      "value": 1
-    },
-    {
-      "source": "85",
-      "target": "OTHERS",
-      "value": 1
-    },
-    {
-      "source": "85",
-      "target": "OSSO",
+      "target": "Bone",
       "value": 1
     },
     {
       "source": "86",
-      "target": "PUBMED",
+      "target": "Pubmed",
       "value": 1
     },
     {
       "source": "86",
-      "target": "LIPOASPIRADO",
+      "target": "Lipoaspirate",
       "value": 1
     },
     {
       "source": "86",
-      "target": "ENZIMATICO",
+      "target": "Enzimatic",
       "value": 1
     },
     {
       "source": "86",
-      "target": "1 PASSAGEM",
-      "value": 1
-    },
-    {
-      "source": "86",
-      "target": "2 A 5 PASSAGEM",
+      "target": "2 A 5 PASSAGE",
       "value": 1
     },
     {
@@ -7352,57 +5262,37 @@
     },
     {
       "source": "86",
-      "target": "Microscopy",
+      "target": " In vivo",
       "value": 1
     },
     {
       "source": "86",
-      "target": "Genetic Testing",
-      "value": 1
-    },
-    {
-      "source": "86",
-      "target": "OTHERS",
-      "value": 1
-    },
-    {
-      "source": "86",
-      "target": "TESTE IN VIVO",
-      "value": 1
-    },
-    {
-      "source": "86",
-      "target": "RODENTIA",
-      "value": 1
-    },
-    {
-      "source": "86",
-      "target": "PELE",
+      "target": "Skin",
       "value": 1
     },
     {
       "source": "87",
-      "target": "SCOPUS",
+      "target": "Scopus",
       "value": 1
     },
     {
       "source": "87",
-      "target": "LIPOASPIRADO",
+      "target": "Lipoaspirate",
       "value": 1
     },
     {
       "source": "87",
-      "target": "ENZIMATICO",
+      "target": "Enzimatic",
       "value": 1
     },
     {
       "source": "87",
-      "target": "2 A 5 PASSAGEM",
+      "target": "2 A 5 PASSAGE",
       "value": 1
     },
     {
       "source": "87",
-      "target": "5 PASSAGEM",
+      "target": "5 PASSAGE",
       "value": 1
     },
     {
@@ -7412,57 +5302,27 @@
     },
     {
       "source": "87",
-      "target": "Electronic Microscopy",
-      "value": 1
-    },
-    {
-      "source": "87",
-      "target": "Microscopy",
-      "value": 1
-    },
-    {
-      "source": "87",
-      "target": "Immunocytochemistry",
-      "value": 1
-    },
-    {
-      "source": "87",
-      "target": "Spectrometry",
-      "value": 1
-    },
-    {
-      "source": "87",
-      "target": "Metabolic Assays",
-      "value": 1
-    },
-    {
-      "source": "87",
-      "target": "OTHERS",
-      "value": 1
-    },
-    {
-      "source": "87",
-      "target": "NERVO",
+      "target": "Neurological",
       "value": 1
     },
     {
       "source": "88",
-      "target": "SCOPUS",
+      "target": "Scopus",
       "value": 1
     },
     {
       "source": "88",
-      "target": "LIPOASPIRADO",
+      "target": "Lipoaspirate",
       "value": 1
     },
     {
       "source": "88",
-      "target": "ENZIMATICO",
+      "target": "Enzimatic",
       "value": 1
     },
     {
       "source": "88",
-      "target": "DIF CONDROGENICA",
+      "target": "CONDROGENIC",
       "value": 1
     },
     {
@@ -7472,52 +5332,32 @@
     },
     {
       "source": "88",
-      "target": "Electronic Microscopy",
-      "value": 1
-    },
-    {
-      "source": "88",
-      "target": "Microscopy",
-      "value": 1
-    },
-    {
-      "source": "88",
-      "target": "Metabolic Assays",
-      "value": 1
-    },
-    {
-      "source": "88",
-      "target": "OTHERS",
-      "value": 1
-    },
-    {
-      "source": "88",
-      "target": "CARTILAGEM",
+      "target": "Cartilage",
       "value": 1
     },
     {
       "source": "89",
-      "target": "PUBMED",
+      "target": "Pubmed",
       "value": 1
     },
     {
       "source": "89",
-      "target": "LIPOASPIRADO",
+      "target": "Lipoaspirate",
       "value": 1
     },
     {
       "source": "89",
-      "target": "ENZIMATICO",
+      "target": "Enzimatic",
       "value": 1
     },
     {
       "source": "89",
-      "target": "MORFOLOGIA SIM",
+      "target": "Morphologie",
       "value": 1
     },
     {
       "source": "89",
-      "target": "ADERENCIA SIM",
+      "target": "Adherence",
       "value": 1
     },
     {
@@ -7552,97 +5392,52 @@
     },
     {
       "source": "89",
-      "target": "DIF OSTEOGENICA",
+      "target": "OSTEOGENIC",
       "value": 1
     },
     {
       "source": "89",
-      "target": "2 A 5 PASSAGEM",
+      "target": "2 A 5 PASSAGE",
       "value": 1
     },
     {
       "source": "89",
-      "target": "SINTETICO",
+      "target": "SINTETIC",
       "value": 1
     },
     {
       "source": "89",
-      "target": "Electronic Microscopy",
+      "target": " In vivo",
       "value": 1
     },
     {
       "source": "89",
-      "target": "Microscopy",
-      "value": 1
-    },
-    {
-      "source": "89",
-      "target": "Immunohistochemistry",
-      "value": 1
-    },
-    {
-      "source": "89",
-      "target": "Spectrometry",
-      "value": 1
-    },
-    {
-      "source": "89",
-      "target": "Genetic Testing",
-      "value": 1
-    },
-    {
-      "source": "89",
-      "target": "Viability and Cytotoxicity",
-      "value": 1
-    },
-    {
-      "source": "89",
-      "target": "Flow Cytometry",
-      "value": 1
-    },
-    {
-      "source": "89",
-      "target": "OTHERS",
-      "value": 1
-    },
-    {
-      "source": "89",
-      "target": "TESTE IN VIVO",
-      "value": 1
-    },
-    {
-      "source": "89",
-      "target": "RODENTIA",
-      "value": 1
-    },
-    {
-      "source": "89",
-      "target": "OSSO",
+      "target": "Bone",
       "value": 1
     },
     {
       "source": "90",
-      "target": "WEB OF SCIENCE",
+      "target": "Web of science",
       "value": 1
     },
     {
       "source": "90",
-      "target": "LIPOASPIRADO",
+      "target": "Lipoaspirate",
       "value": 1
     },
     {
       "source": "90",
-      "target": "ENZIMATICO",
+      "target": "Enzimatic",
       "value": 1
     },
     {
       "source": "90",
-      "target": "DIF OSTEOGENICA",
+      "target": "OSTEOGENIC",
       "value": 1
     },
     {
       "source": "90",
-      "target": "2 A 5 PASSAGEM",
+      "target": "2 A 5 PASSAGE",
       "value": 1
     },
     {
@@ -7652,117 +5447,72 @@
     },
     {
       "source": "90",
-      "target": "Electronic Microscopy",
+      "target": " In vivo",
       "value": 1
     },
     {
       "source": "90",
-      "target": "Microscopy",
-      "value": 1
-    },
-    {
-      "source": "90",
-      "target": "Genetic Testing",
-      "value": 1
-    },
-    {
-      "source": "90",
-      "target": "OTHERS",
-      "value": 1
-    },
-    {
-      "source": "90",
-      "target": "TESTE IN VIVO",
-      "value": 1
-    },
-    {
-      "source": "90",
-      "target": "RODENTIA",
-      "value": 1
-    },
-    {
-      "source": "90",
-      "target": "OSSO",
+      "target": "Bone",
       "value": 1
     },
     {
       "source": "91",
-      "target": "PUBMED",
+      "target": "Pubmed",
       "value": 1
     },
     {
       "source": "91",
-      "target": "LIPOASPIRADO",
+      "target": "Lipoaspirate",
       "value": 1
     },
     {
       "source": "91",
-      "target": "ENZIMATICO",
+      "target": "Enzimatic",
       "value": 1
     },
     {
       "source": "91",
-      "target": "DIF OSTEOGENICA",
+      "target": "OSTEOGENIC",
       "value": 1
     },
     {
       "source": "91",
-      "target": "2 A 5 PASSAGEM",
+      "target": "2 A 5 PASSAGE",
       "value": 1
     },
     {
       "source": "91",
-      "target": "SINTETICO",
+      "target": "SINTETIC",
       "value": 1
     },
     {
       "source": "91",
-      "target": "Electronic Microscopy",
-      "value": 1
-    },
-    {
-      "source": "91",
-      "target": "Microscopy",
-      "value": 1
-    },
-    {
-      "source": "91",
-      "target": "Viability and Cytotoxicity",
-      "value": 1
-    },
-    {
-      "source": "91",
-      "target": "OTHERS",
-      "value": 1
-    },
-    {
-      "source": "91",
-      "target": "OSSO",
+      "target": "Bone",
       "value": 1
     },
     {
       "source": "92",
-      "target": "PUBMED",
+      "target": "Pubmed",
       "value": 1
     },
     {
       "source": "92",
-      "target": "LIPOASPIRADO",
+      "target": "Lipoaspirate",
       "value": 1
     },
     {
       "source": "92",
-      "target": "ENZIMATICO",
+      "target": "Enzimatic",
       "value": 1
     },
     {
       "source": "92",
-      "target": "ADERENCIA SIM",
+      "target": "Adherence",
       "value": 1
     },
     {
       "source": "92",
-      "target": "2 A 5 PASSAGEM",
+      "target": "2 A 5 PASSAGE",
       "value": 1
     },
     {
@@ -7772,127 +5522,77 @@
     },
     {
       "source": "92",
-      "target": "Microscopy",
+      "target": " In vivo",
       "value": 1
     },
     {
       "source": "92",
-      "target": "ELISA",
-      "value": 1
-    },
-    {
-      "source": "92",
-      "target": "Viability and Cytotoxicity",
-      "value": 1
-    },
-    {
-      "source": "92",
-      "target": "Flow Cytometry",
-      "value": 1
-    },
-    {
-      "source": "92",
-      "target": "OTHERS",
-      "value": 1
-    },
-    {
-      "source": "92",
-      "target": "TESTE IN VIVO",
-      "value": 1
-    },
-    {
-      "source": "92",
-      "target": "RODENTIA",
-      "value": 1
-    },
-    {
-      "source": "92",
-      "target": "PELE",
+      "target": "Skin",
       "value": 1
     },
     {
       "source": "93",
-      "target": "SCOPUS",
+      "target": "Scopus",
       "value": 1
     },
     {
       "source": "93",
-      "target": "LIPOASPIRADO",
+      "target": "Lipoaspirate",
       "value": 1
     },
     {
       "source": "93",
-      "target": "ENZIMATICO",
+      "target": "Enzimatic",
       "value": 1
     },
     {
       "source": "93",
-      "target": "DIF OSTEOGENICA",
+      "target": "OSTEOGENIC",
       "value": 1
     },
     {
       "source": "93",
-      "target": "2 A 5 PASSAGEM",
+      "target": "2 A 5 PASSAGE",
       "value": 1
     },
     {
       "source": "93",
-      "target": "5 PASSAGEM",
+      "target": "5 PASSAGE",
       "value": 1
     },
     {
       "source": "93",
-      "target": "SINTETICO",
+      "target": "SINTETIC",
       "value": 1
     },
     {
       "source": "93",
-      "target": "Electronic Microscopy",
+      "target": " In vivo",
       "value": 1
     },
     {
       "source": "93",
-      "target": "Microscopy",
-      "value": 1
-    },
-    {
-      "source": "93",
-      "target": "OTHERS",
-      "value": 1
-    },
-    {
-      "source": "93",
-      "target": "TESTE IN VIVO",
-      "value": 1
-    },
-    {
-      "source": "93",
-      "target": "RODENTIA",
-      "value": 1
-    },
-    {
-      "source": "93",
-      "target": "OSSO",
+      "target": "Bone",
       "value": 1
     },
     {
       "source": "94",
-      "target": "SCOPUS",
+      "target": "Scopus",
       "value": 1
     },
     {
       "source": "94",
-      "target": "LIPOASPIRADO",
+      "target": "Lipoaspirate",
       "value": 1
     },
     {
       "source": "94",
-      "target": "ENZIMATICO",
+      "target": "Enzimatic",
       "value": 1
     },
     {
       "source": "94",
-      "target": "2 A 5 PASSAGEM",
+      "target": "2 A 5 PASSAGE",
       "value": 1
     },
     {
@@ -7902,62 +5602,27 @@
     },
     {
       "source": "94",
-      "target": "Microscopy",
-      "value": 1
-    },
-    {
-      "source": "94",
-      "target": "Spectrometry",
-      "value": 1
-    },
-    {
-      "source": "94",
-      "target": "Genetic Testing",
-      "value": 1
-    },
-    {
-      "source": "94",
-      "target": "Metabolic Assays",
-      "value": 1
-    },
-    {
-      "source": "94",
-      "target": "Viability and Cytotoxicity",
-      "value": 1
-    },
-    {
-      "source": "94",
-      "target": "TESTE IN VIVO",
-      "value": 1
-    },
-    {
-      "source": "94",
-      "target": "RODENTIA",
-      "value": 1
-    },
-    {
-      "source": "94",
-      "target": "OTHERS",
+      "target": " In vivo",
       "value": 1
     },
     {
       "source": "95",
-      "target": "WEB OF SCIENCE",
+      "target": "Web of science",
       "value": 1
     },
     {
       "source": "95",
-      "target": "LIPOASPIRADO",
+      "target": "Lipoaspirate",
       "value": 1
     },
     {
       "source": "95",
-      "target": "ENZIMATICO",
+      "target": "Enzimatic",
       "value": 1
     },
     {
       "source": "95",
-      "target": "MORFOLOGIA SIM",
+      "target": "Morphologie",
       "value": 1
     },
     {
@@ -7982,17 +5647,17 @@
     },
     {
       "source": "95",
-      "target": "DIF OSTEOGENICA",
+      "target": "OSTEOGENIC",
       "value": 1
     },
     {
       "source": "95",
-      "target": "2 A 5 PASSAGEM",
+      "target": "2 A 5 PASSAGE",
       "value": 1
     },
     {
       "source": "95",
-      "target": "5 PASSAGEM",
+      "target": "5 PASSAGE",
       "value": 1
     },
     {
@@ -8002,52 +5667,42 @@
     },
     {
       "source": "95",
-      "target": "Microscopy",
-      "value": 1
-    },
-    {
-      "source": "95",
-      "target": "Spectrometry",
-      "value": 1
-    },
-    {
-      "source": "95",
-      "target": "OSSO",
+      "target": "Bone",
       "value": 1
     },
     {
       "source": "96",
-      "target": "WEB OF SCIENCE",
+      "target": "Web of science",
       "value": 1
     },
     {
       "source": "96",
-      "target": "LIPOASPIRADO",
+      "target": "Lipoaspirate",
       "value": 1
     },
     {
       "source": "96",
-      "target": "ENZIMATICO",
+      "target": "Enzimatic",
       "value": 1
     },
     {
       "source": "96",
-      "target": "DIF ADIPOGENICA",
+      "target": "ADIPOGENIC",
       "value": 1
     },
     {
       "source": "96",
-      "target": "DIF OSTEOGENICA",
+      "target": "OSTEOGENIC",
       "value": 1
     },
     {
       "source": "96",
-      "target": "DIF CONDROGENICA",
+      "target": "CONDROGENIC",
       "value": 1
     },
     {
       "source": "96",
-      "target": "5 PASSAGEM",
+      "target": "5 PASSAGE",
       "value": 1
     },
     {
@@ -8057,47 +5712,27 @@
     },
     {
       "source": "96",
-      "target": "Electronic Microscopy",
-      "value": 1
-    },
-    {
-      "source": "96",
-      "target": "Microscopy",
-      "value": 1
-    },
-    {
-      "source": "96",
-      "target": "Metabolic Assays",
-      "value": 1
-    },
-    {
-      "source": "96",
-      "target": "Viability and Cytotoxicity",
-      "value": 1
-    },
-    {
-      "source": "96",
-      "target": "OSSO",
+      "target": "Bone",
       "value": 1
     },
     {
       "source": "97",
-      "target": "PUBMED",
+      "target": "Pubmed",
       "value": 1
     },
     {
       "source": "97",
-      "target": "BICHECTOMIA",
+      "target": "Bichectomy",
       "value": 1
     },
     {
       "source": "97",
-      "target": "ENZIMATICO",
+      "target": "Enzimatic",
       "value": 1
     },
     {
       "source": "97",
-      "target": "MORFOLOGIA SIM",
+      "target": "Morphologie",
       "value": 1
     },
     {
@@ -8122,12 +5757,12 @@
     },
     {
       "source": "97",
-      "target": "DIF ADIPOGENICA",
+      "target": "ADIPOGENIC",
       "value": 1
     },
     {
       "source": "97",
-      "target": "DIF OSTEOGENICA",
+      "target": "OSTEOGENIC",
       "value": 1
     },
     {
@@ -8137,52 +5772,27 @@
     },
     {
       "source": "97",
-      "target": "Microscopy",
-      "value": 1
-    },
-    {
-      "source": "97",
-      "target": "Spectrometry",
-      "value": 1
-    },
-    {
-      "source": "97",
-      "target": "Genetic Testing",
-      "value": 1
-    },
-    {
-      "source": "97",
-      "target": "Metabolic Assays",
-      "value": 1
-    },
-    {
-      "source": "97",
-      "target": "Flow Cytometry",
-      "value": 1
-    },
-    {
-      "source": "97",
-      "target": "OSSO",
+      "target": "Bone",
       "value": 1
     },
     {
       "source": "98",
-      "target": "PUBMED",
+      "target": "Pubmed",
       "value": 1
     },
     {
       "source": "98",
-      "target": "BICHECTOMIA",
+      "target": "Bichectomy",
       "value": 1
     },
     {
       "source": "98",
-      "target": "ENZIMATICO",
+      "target": "Enzimatic",
       "value": 1
     },
     {
       "source": "98",
-      "target": "MORFOLOGIA SIM",
+      "target": "Morphologie",
       "value": 1
     },
     {
@@ -8212,12 +5822,12 @@
     },
     {
       "source": "98",
-      "target": "DIF OSTEOGENICA",
+      "target": "OSTEOGENIC",
       "value": 1
     },
     {
       "source": "98",
-      "target": "2 A 5 PASSAGEM",
+      "target": "2 A 5 PASSAGE",
       "value": 1
     },
     {
@@ -8227,42 +5837,7 @@
     },
     {
       "source": "98",
-      "target": "Electronic Microscopy",
-      "value": 1
-    },
-    {
-      "source": "98",
-      "target": "Microscopy",
-      "value": 1
-    },
-    {
-      "source": "98",
-      "target": "Immunohistochemistry",
-      "value": 1
-    },
-    {
-      "source": "98",
-      "target": "Genetic Testing",
-      "value": 1
-    },
-    {
-      "source": "98",
-      "target": "Metabolic Assays",
-      "value": 1
-    },
-    {
-      "source": "98",
-      "target": "Flow Cytometry",
-      "value": 1
-    },
-    {
-      "source": "98",
-      "target": "OTHERS",
-      "value": 1
-    },
-    {
-      "source": "98",
-      "target": "OSSO",
+      "target": "Bone",
       "value": 1
     },
     {
@@ -8273,11 +5848,6 @@
     {
       "source": "",
       "target": "NSC",
-      "value": 1
-    },
-    {
-      "source": "",
-      "target": "LAGOMORPHA",
       "value": 1
     }
   ]
