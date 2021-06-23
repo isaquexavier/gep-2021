@@ -2,47 +2,69 @@
   "nodes": [
     {
       "id": "1",
-      "name": "PUBMED"
+      "name": "PUBMED",
+      "n": 1,
+      "grp": 1
     },
     {
       "id": "61",
-      "name": "1(3P) amarelo"
+      "name": "1(3P) amarelo",
+      "n": 1,
+      "grp": 2
     },
     {
       "id": "62",
-      "name": "2(5S) verde"
+      "name": "2(5S) verde",
+      "n": 1,
+      "grp": 3
     },
     {
       "id": "63",
-      "name": "3(6W) verde"
+      "name": "3(6W) verde",
+      "n": 1,
+      "grp": 4
     },
     {
       "id": "64",
-      "name": "4(7W) verde"
+      "name": "4(7W) verde",
+      "n": 1,
+      "grp": 5
     },
     {
       "id": "65",
-      "name": "5(8P) verde"
+      "name": "5(8P) verde",
+      "n": 1,
+      "grp": 6
     },
     {
       "id": "66",
-      "name": "6(11S) amarelo"
+      "name": "6(11S) amarelo",
+      "n": 1,
+      "grp": 7
     },
     {
       "id": "67",
-      "name": "7(12P) verde"
+      "name": "7(12P) verde",
+      "n": 1,
+      "grp": 8
     },
     {
       "id": "68",
-      "name": "8(15S) amarelo"
+      "name": "8(15S) amarelo",
+      "n": 1,
+      "grp": 9
     },
     {
       "id": "69",
-      "name": "9 (17P) amarelo"
+      "name": "9 (17P) amarelo",
+      "n": 1,
+      "grp": 10
     },
     {
       "id": "70",
-      "name": "10 (21P) verde"
+      "name": "10 (21P) verde",
+      "n": 1,
+      "grp": 11
     }
   ],
   "links": [
