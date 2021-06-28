@@ -4,7 +4,7 @@
       "id": "1",
       "name": "1",
       "n": 1,
-      "grp": "1"
+      "grp": "6"
     },
     {
       "id": "2",
@@ -34,7 +34,7 @@
       "id": "6",
       "name": "6",
       "n": 1,
-      "grp": "1"
+      "grp": "6"
     },
     {
       "id": "7",
@@ -46,13 +46,13 @@
       "id": "8",
       "name": "8",
       "n": 1,
-      "grp": "1"
+      "grp": "6"
     },
     {
       "id": "9",
       "name": "9",
       "n": 1,
-      "grp": "1"
+      "grp": "6"
     },
     {
       "id": "10",
@@ -70,7 +70,7 @@
       "id": "12",
       "name": "12",
       "n": 1,
-      "grp": "3"
+      "grp": "8"
     },
     {
       "id": "13",
@@ -88,13 +88,13 @@
       "id": "15",
       "name": "15",
       "n": 1,
-      "grp": "1"
+      "grp": "6"
     },
     {
       "id": "16",
       "name": "16",
       "n": 1,
-      "grp": "1"
+      "grp": "6"
     },
     {
       "id": "17",
@@ -142,13 +142,19 @@
       "id": "24",
       "name": "24",
       "n": 1,
-      "grp": "1"
+      "grp": "6"
     },
     {
       "id": "25",
       "name": "25",
       "n": 1,
-      "grp": "1"
+      "grp": "6"
+    },
+    {
+      "id": "Lipoaspirate",
+      "name": "Lipoaspirate",
+      "n": 8,
+      "grp": 5
     },
     {
       "id": "26",
@@ -250,7 +256,7 @@
       "id": "42",
       "name": "42",
       "n": 1,
-      "grp": "1"
+      "grp": "6"
     },
     {
       "id": "43",
@@ -265,10 +271,22 @@
       "grp": "2"
     },
     {
+      "id": "Bichectomy",
+      "name": "Bichectomy",
+      "n": 1,
+      "grp": 5
+    },
+    {
       "id": "45",
       "name": "45",
       "n": 1,
-      "grp": "1"
+      "grp": "6"
+    },
+    {
+      "id": "Morphologie",
+      "name": "Morphologie",
+      "n": 3,
+      "grp": 5
     },
     {
       "id": "46",
@@ -277,16 +295,34 @@
       "grp": "2"
     },
     {
+      "id": "Adherence",
+      "name": "Adherence",
+      "n": 3,
+      "grp": 5
+    },
+    {
       "id": "47",
       "name": "47",
       "n": 1,
       "grp": "2"
     },
     {
+      "id": "CD90",
+      "name": "CD90",
+      "n": 3,
+      "grp": 5
+    },
+    {
       "id": "48",
       "name": "48",
       "n": 1,
       "grp": "2"
+    },
+    {
+      "id": "CD105",
+      "name": "CD105",
+      "n": 3,
+      "grp": 5
     },
     {
       "id": "49",
@@ -301,117 +337,9 @@
       "grp": "2"
     },
     {
-      "id": "Lipoaspirate",
-      "name": "Lipoaspirate",
-      "n": 8,
-      "grp": 5
-    },
-    {
-      "id": "Bichectomy",
-      "name": "Bichectomy",
-      "n": 1,
-      "grp": 5
-    },
-    {
       "id": "Enzimatic",
       "name": "Enzimatic",
       "n": 9,
-      "grp": 5
-    },
-    {
-      "id": "Morphologie",
-      "name": "Morphologie",
-      "n": 3,
-      "grp": 5
-    },
-    {
-      "id": "Adherence",
-      "name": "Adherence",
-      "n": 3,
-      "grp": 5
-    },
-    {
-      "id": "CD90",
-      "name": "CD90",
-      "n": 3,
-      "grp": 5
-    },
-    {
-      "id": "CD105",
-      "name": "CD105",
-      "n": 3,
-      "grp": 5
-    },
-    {
-      "id": "CD34",
-      "name": "CD34",
-      "n": 3,
-      "grp": 5
-    },
-    {
-      "id": "CD45",
-      "name": "CD45",
-      "n": 3,
-      "grp": 5
-    },
-    {
-      "id": "CD73",
-      "name": "CD73",
-      "n": 2,
-      "grp": 5
-    },
-    {
-      "id": "CD31",
-      "name": "CD31",
-      "n": 1,
-      "grp": 5
-    },
-    {
-      "id": "CD13",
-      "name": "CD13",
-      "n": 0,
-      "grp": 5
-    },
-    {
-      "id": "Bone",
-      "name": "Bone",
-      "n": 5,
-      "grp": 5
-    },
-    {
-      "id": "Cartilage",
-      "name": "Cartilage",
-      "n": 1,
-      "grp": 5
-    },
-    {
-      "id": "Skin",
-      "name": "Skin",
-      "n": 0,
-      "grp": 5
-    },
-    {
-      "id": "Adipose tissue",
-      "name": "Adipose tissue",
-      "n": 0,
-      "grp": 5
-    },
-    {
-      "id": "Soft tissue",
-      "name": "Soft tissue",
-      "n": 1,
-      "grp": 5
-    },
-    {
-      "id": "Neurological",
-      "name": "Neurological",
-      "n": 0,
-      "grp": 5
-    },
-    {
-      "id": "Comparison\r",
-      "name": "Comparison\r",
-      "n": 0,
       "grp": 5
     },
     {
@@ -421,10 +349,22 @@
       "grp": "2"
     },
     {
+      "id": "CD34",
+      "name": "CD34",
+      "n": 3,
+      "grp": 5
+    },
+    {
       "id": "52",
       "name": "52",
       "n": 1,
-      "grp": "1"
+      "grp": "6"
+    },
+    {
+      "id": "CD45",
+      "name": "CD45",
+      "n": 3,
+      "grp": 5
     },
     {
       "id": "53",
@@ -433,10 +373,22 @@
       "grp": "2"
     },
     {
+      "id": "CD73",
+      "name": "CD73",
+      "n": 2,
+      "grp": 5
+    },
+    {
       "id": "54",
       "name": "54",
       "n": 1,
       "grp": "2"
+    },
+    {
+      "id": "CD31",
+      "name": "CD31",
+      "n": 1,
+      "grp": 5
     },
     {
       "id": "55",
@@ -445,16 +397,34 @@
       "grp": "2"
     },
     {
+      "id": "CD13",
+      "name": "CD13",
+      "n": 0,
+      "grp": 5
+    },
+    {
       "id": "56",
       "name": "56",
       "n": 1,
       "grp": "2"
     },
     {
+      "id": "Cartilage",
+      "name": "Cartilage",
+      "n": 1,
+      "grp": 5
+    },
+    {
       "id": "57",
       "name": "57",
       "n": 1,
       "grp": "2"
+    },    
+    {
+      "id": "Skin",
+      "name": "Skin",
+      "n": 0,
+      "grp": 5
     },
     {
       "id": "58",
@@ -463,10 +433,22 @@
       "grp": "2"
     },
     {
+      "id": "Adipose tissue",
+      "name": "Adipose tissue",
+      "n": 0,
+      "grp": 5
+    },
+    {
       "id": "59",
       "name": "59",
       "n": 1,
       "grp": "2"
+    },
+    {
+      "id": "Soft tissue",
+      "name": "Soft tissue",
+      "n": 1,
+      "grp": 5
     },
     {
       "id": "60",
@@ -475,16 +457,28 @@
       "grp": "2"
     },
     {
+      "id": "Neurological",
+      "name": "Neurological",
+      "n": 0,
+      "grp": 5
+    },
+    {
       "id": "61",
       "name": "61",
       "n": 1,
       "grp": "2"
     },
     {
+      "id": "Comparison",
+      "name": "Comparison",
+      "n": 0,
+      "grp": 5
+    },
+    {
       "id": "62",
       "name": "62",
       "n": 1,
-      "grp": "1"
+      "grp": "6"
     },
     {
       "id": "63",
@@ -532,7 +526,7 @@
       "id": "70",
       "name": "70",
       "n": 1,
-      "grp": "1"
+      "grp": "6"
     },
     {
       "id": "71",
@@ -544,7 +538,7 @@
       "id": "72",
       "name": "72",
       "n": 1,
-      "grp": "1"
+      "grp": "6"
     },
     {
       "id": "73",
@@ -565,10 +559,16 @@
       "grp": "2"
     },
     {
+      "id": "Bone",
+      "name": "Bone",
+      "n": 5,
+      "grp": 5
+    },
+    {
       "id": "76",
       "name": "76",
       "n": 1,
-      "grp": "1"
+      "grp": "6"
     },
     {
       "id": "77",
@@ -580,7 +580,7 @@
       "id": "78",
       "name": "78",
       "n": 1,
-      "grp": "1"
+      "grp": "6"
     },
     {
       "id": "79",
@@ -610,7 +610,7 @@
       "id": "83",
       "name": "83",
       "n": 1,
-      "grp": "1"
+      "grp": "6"
     },
     {
       "id": "84",
@@ -652,13 +652,13 @@
       "id": "90",
       "name": "90",
       "n": 1,
-      "grp": "1"
+      "grp": "6"
     },
     {
       "id": "91",
       "name": "91",
       "n": 1,
-      "grp": "1"
+      "grp": "6"
     },
     {
       "id": "92",
@@ -688,7 +688,7 @@
       "id": "96",
       "name": "96",
       "n": 1,
-      "grp": "1"
+      "grp": "6"
     },
     {
       "id": "97",
@@ -1216,7 +1216,7 @@
     },
     {
       "source": "19",
-      "target": "Comparison\r",
+      "target": "Comparison",
       "value": 1
     },
     {
@@ -2201,7 +2201,7 @@
     },
     {
       "source": "57",
-      "target": "Comparison\r",
+      "target": "Comparison",
       "value": 1
     },
     {
@@ -2416,7 +2416,7 @@
     },
     {
       "source": "63",
-      "target": "Comparison\r",
+      "target": "Comparison",
       "value": 1
     },
     {
