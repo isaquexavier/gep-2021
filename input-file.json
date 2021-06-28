@@ -1,156 +1,6 @@
 {
   "nodes": [
     {
-      "id": "ADIPOGENIC",
-      "name": "ADIPOGENIC",
-      "n": 3,
-      "grp": 5
-    },
-    {
-      "id": "OSTEOGENIC",
-      "name": "OSTEOGENIC",
-      "n": 6,
-      "grp": 5
-    },
-    {
-      "id": "CONDROGENIC",
-      "name": "CONDROGENIC",
-      "n": 2,
-      "grp": 5
-    },
-    {
-      "id": "2 A 5 PASSAGE",
-      "name": "2 A 5 PASSAGE",
-      "n": 7,
-      "grp": 5
-    },
-    {
-      "id": "5 PASSAGE",
-      "name": "5 PASSAGE",
-      "n": 1,
-      "grp": 5
-    },
-    {
-      "id": "NATURAL",
-      "name": "NATURAL",
-      "n": 2,
-      "grp": 5
-    },
-    {
-      "id": "SINTETIC",
-      "name": "SINTETIC",
-      "n": 2,
-      "grp": 5
-    },
-    {
-      "id": "COMPOSITE",
-      "name": "COMPOSITE",
-      "n": 1,
-      "grp": 5
-    },
-    {
-      "id": "CERAMIC",
-      "name": "CERAMIC",
-      "n": 0,
-      "grp": 5
-    },
-    {
-      "id": "METAL",
-      "name": "METAL",
-      "n": 0,
-      "grp": 5
-    },
-    {
-      "id": "NS",
-      "name": "NS",
-      "n": 1,
-      "grp": 5
-    },
-    {
-      "id": "SC",
-      "name": "SC",
-      "n": 0,
-      "grp": 5
-    },
-    {
-      "id": "NONE",
-      "name": "NONE",
-      "n": 0,
-      "grp": 5
-    },
-    {
-      "id": "NM",
-      "name": "NM",
-      "n": 0,
-      "grp": 5
-    },
-    {
-      "id": "SM",
-      "name": "SM",
-      "n": 0,
-      "grp": 5
-    },
-    {
-      "id": "NSC",
-      "name": "NSC",
-      "n": 0,
-      "grp": 5
-    },
-    {
-      "id": "NSCR",
-      "name": "NSCR",
-      "n": 0,
-      "grp": 5
-    },
-    {
-      "id": " In vivo",
-      "name": " In vivo",
-      "n": 4,
-      "grp": 5
-    },
-    {
-      "id": "Bone",
-      "name": "Bone",
-      "n": 5,
-      "grp": 5
-    },
-    {
-      "id": "Cartilage",
-      "name": "Cartilage",
-      "n": 1,
-      "grp": 5
-    },
-    {
-      "id": "Skin",
-      "name": "Skin",
-      "n": 0,
-      "grp": 5
-    },
-    {
-      "id": "Adipose tissue",
-      "name": "Adipose tissue",
-      "n": 0,
-      "grp": 5
-    },
-    {
-      "id": "Soft tissue",
-      "name": "Soft tissue",
-      "n": 1,
-      "grp": 5
-    },
-    {
-      "id": "Neurological",
-      "name": "Neurological",
-      "n": 0,
-      "grp": 5
-    },
-    {
-      "id": "Comparison\r",
-      "name": "Comparison\r",
-      "n": 0,
-      "grp": 5
-    },
-    {
       "id": "1",
       "name": "1",
       "n": 1,
@@ -739,24 +589,6 @@
       "grp": "222"
     },
     {
-      "id": "Pubmed",
-      "name": "Pubmed",
-      "n": 3,
-      "grp": 5
-    },
-    {
-      "id": "Scopus",
-      "name": "Scopus",
-      "n": 4,
-      "grp": 5
-    },
-    {
-      "id": "Web of science",
-      "name": "Web of science",
-      "n": 1,
-      "grp": 5
-    },
-    {
       "id": "Lipoaspirate",
       "name": "Lipoaspirate",
       "n": 8,
@@ -827,16 +659,53 @@
       "name": "CD13",
       "n": 0,
       "grp": 5
+    },
+    {
+      "id": "Bone",
+      "name": "Bone",
+      "n": 5,
+      "grp": 5
+    },
+    {
+      "id": "Cartilage",
+      "name": "Cartilage",
+      "n": 1,
+      "grp": 5
+    },
+    {
+      "id": "Skin",
+      "name": "Skin",
+      "n": 0,
+      "grp": 5
+    },
+    {
+      "id": "Adipose tissue",
+      "name": "Adipose tissue",
+      "n": 0,
+      "grp": 5
+    },
+    {
+      "id": "Soft tissue",
+      "name": "Soft tissue",
+      "n": 1,
+      "grp": 5
+    },
+    {
+      "id": "Neurological",
+      "name": "Neurological",
+      "n": 0,
+      "grp": 5
+    },
+    {
+      "id": "Comparison\r",
+      "name": "Comparison\r",
+      "n": 0,
+      "grp": 5
     }
   ],
   "links": [
     {
       "source": "1",
-      "target": "Pubmed",
-      "value": 1
-    },
-    {
-      "source": "1",
       "target": "Lipoaspirate",
       "value": 1
     },
@@ -872,27 +741,7 @@
     },
     {
       "source": "1",
-      "target": "ADIPOGENIC",
-      "value": 1
-    },
-    {
-      "source": "1",
-      "target": "OSTEOGENIC",
-      "value": 1
-    },
-    {
-      "source": "1",
-      "target": "SC",
-      "value": 1
-    },
-    {
-      "source": "1",
       "target": "Bone",
-      "value": 1
-    },
-    {
-      "source": "2",
-      "target": "Scopus",
       "value": 1
     },
     {
@@ -932,32 +781,7 @@
     },
     {
       "source": "2",
-      "target": "ADIPOGENIC",
-      "value": 1
-    },
-    {
-      "source": "2",
-      "target": "CONDROGENIC",
-      "value": 1
-    },
-    {
-      "source": "2",
-      "target": "2 A 5 PASSAGE",
-      "value": 1
-    },
-    {
-      "source": "2",
-      "target": "SINTETIC",
-      "value": 1
-    },
-    {
-      "source": "2",
       "target": "Cartilage",
-      "value": 1
-    },
-    {
-      "source": "3",
-      "target": "Web of science",
       "value": 1
     },
     {
@@ -1002,27 +826,7 @@
     },
     {
       "source": "3",
-      "target": "OSTEOGENIC",
-      "value": 1
-    },
-    {
-      "source": "3",
-      "target": "COMPOSITE",
-      "value": 1
-    },
-    {
-      "source": "3",
-      "target": " In vivo",
-      "value": 1
-    },
-    {
-      "source": "3",
       "target": "Bone",
-      "value": 1
-    },
-    {
-      "source": "4",
-      "target": "Web of science",
       "value": 1
     },
     {
@@ -1042,37 +846,7 @@
     },
     {
       "source": "4",
-      "target": "OSTEOGENIC",
-      "value": 1
-    },
-    {
-      "source": "4",
-      "target": "2 A 5 PASSAGE",
-      "value": 1
-    },
-    {
-      "source": "4",
-      "target": "5 PASSAGE",
-      "value": 1
-    },
-    {
-      "source": "4",
-      "target": "NS",
-      "value": 1
-    },
-    {
-      "source": "4",
-      "target": " In vivo",
-      "value": 1
-    },
-    {
-      "source": "4",
       "target": "Bone",
-      "value": 1
-    },
-    {
-      "source": "5",
-      "target": "Pubmed",
       "value": 1
     },
     {
@@ -1092,27 +866,7 @@
     },
     {
       "source": "5",
-      "target": "OSTEOGENIC",
-      "value": 1
-    },
-    {
-      "source": "5",
-      "target": "5 PASSAGE",
-      "value": 1
-    },
-    {
-      "source": "5",
-      "target": "NM",
-      "value": 1
-    },
-    {
-      "source": "5",
       "target": "Bone",
-      "value": 1
-    },
-    {
-      "source": "6",
-      "target": "Scopus",
       "value": 1
     },
     {
@@ -1133,31 +887,6 @@
     {
       "source": "6",
       "target": "Adherence",
-      "value": 1
-    },
-    {
-      "source": "6",
-      "target": "ADIPOGENIC",
-      "value": 1
-    },
-    {
-      "source": "6",
-      "target": "OSTEOGENIC",
-      "value": 1
-    },
-    {
-      "source": "6",
-      "target": "CONDROGENIC",
-      "value": 1
-    },
-    {
-      "source": "6",
-      "target": "2 A 5 PASSAGE",
-      "value": 1
-    },
-    {
-      "source": "6",
-      "target": "NM",
       "value": 1
     },
     {
@@ -1177,27 +906,12 @@
     },
     {
       "source": "7",
-      "target": "Pubmed",
-      "value": 1
-    },
-    {
-      "source": "7",
       "target": "Lipoaspirate",
       "value": 1
     },
     {
       "source": "7",
       "target": "Enzimatic",
-      "value": 1
-    },
-    {
-      "source": "7",
-      "target": " In vivo",
-      "value": 1
-    },
-    {
-      "source": "8",
-      "target": "Scopus",
       "value": 1
     },
     {
@@ -1208,21 +922,6 @@
     {
       "source": "8",
       "target": "Enzimatic",
-      "value": 1
-    },
-    {
-      "source": "8",
-      "target": "ADIPOGENIC",
-      "value": 1
-    },
-    {
-      "source": "8",
-      "target": "2 A 5 PASSAGE",
-      "value": 1
-    },
-    {
-      "source": "8",
-      "target": "SINTETIC",
       "value": 1
     },
     {
@@ -1232,11 +931,6 @@
     },
     {
       "source": "9",
-      "target": "Pubmed",
-      "value": 1
-    },
-    {
-      "source": "9",
       "target": "Lipoaspirate",
       "value": 1
     },
@@ -1247,27 +941,7 @@
     },
     {
       "source": "9",
-      "target": "2 A 5 PASSAGE",
-      "value": 1
-    },
-    {
-      "source": "9",
-      "target": "NS",
-      "value": 1
-    },
-    {
-      "source": "9",
-      "target": " In vivo",
-      "value": 1
-    },
-    {
-      "source": "9",
       "target": "Neurological",
-      "value": 1
-    },
-    {
-      "source": "10",
-      "target": "Pubmed",
       "value": 1
     },
     {
@@ -1307,27 +981,7 @@
     },
     {
       "source": "10",
-      "target": "OSTEOGENIC",
-      "value": 1
-    },
-    {
-      "source": "10",
-      "target": "2 A 5 PASSAGE",
-      "value": 1
-    },
-    {
-      "source": "10",
-      "target": "5 PASSAGE",
-      "value": 1
-    },
-    {
-      "source": "10",
       "target": "Bone",
-      "value": 1
-    },
-    {
-      "source": "11",
-      "target": "Scopus",
       "value": 1
     },
     {
@@ -1372,22 +1026,7 @@
     },
     {
       "source": "11",
-      "target": "OSTEOGENIC",
-      "value": 1
-    },
-    {
-      "source": "11",
-      "target": "2 A 5 PASSAGE",
-      "value": 1
-    },
-    {
-      "source": "11",
       "target": "Bone",
-      "value": 1
-    },
-    {
-      "source": "12",
-      "target": "Web of science",
       "value": 1
     },
     {
@@ -1408,16 +1047,6 @@
     {
       "source": "12",
       "target": "CD73",
-      "value": 1
-    },
-    {
-      "source": "12",
-      "target": "CONDROGENIC",
-      "value": 1
-    },
-    {
-      "source": "12",
-      "target": "NS",
       "value": 1
     },
     {
@@ -1427,11 +1056,6 @@
     },
     {
       "source": "13",
-      "target": "Scopus",
-      "value": 1
-    },
-    {
-      "source": "13",
       "target": "Lipoaspirate",
       "value": 1
     },
@@ -1472,27 +1096,7 @@
     },
     {
       "source": "13",
-      "target": "OSTEOGENIC",
-      "value": 1
-    },
-    {
-      "source": "13",
-      "target": "2 A 5 PASSAGE",
-      "value": 1
-    },
-    {
-      "source": "13",
-      "target": "NS",
-      "value": 1
-    },
-    {
-      "source": "13",
       "target": "Bone",
-      "value": 1
-    },
-    {
-      "source": "14",
-      "target": "Pubmed",
       "value": 1
     },
     {
@@ -1503,21 +1107,6 @@
     {
       "source": "14",
       "target": "Enzimatic",
-      "value": 1
-    },
-    {
-      "source": "14",
-      "target": "2 A 5 PASSAGE",
-      "value": 1
-    },
-    {
-      "source": "14",
-      "target": "NS",
-      "value": 1
-    },
-    {
-      "source": "14",
-      "target": " In vivo",
       "value": 1
     },
     {
@@ -1527,32 +1116,12 @@
     },
     {
       "source": "15",
-      "target": "Scopus",
-      "value": 1
-    },
-    {
-      "source": "15",
       "target": "Lipoaspirate",
       "value": 1
     },
     {
       "source": "15",
-      "target": "OSTEOGENIC",
-      "value": 1
-    },
-    {
-      "source": "15",
-      "target": "NS",
-      "value": 1
-    },
-    {
-      "source": "15",
       "target": "Bone",
-      "value": 1
-    },
-    {
-      "source": "16",
-      "target": "Scopus",
       "value": 1
     },
     {
@@ -1572,22 +1141,7 @@
     },
     {
       "source": "16",
-      "target": "2 A 5 PASSAGE",
-      "value": 1
-    },
-    {
-      "source": "16",
-      "target": "NM",
-      "value": 1
-    },
-    {
-      "source": "16",
       "target": "Neurological",
-      "value": 1
-    },
-    {
-      "source": "17",
-      "target": "Web of science",
       "value": 1
     },
     {
@@ -1598,31 +1152,6 @@
     {
       "source": "17",
       "target": "Enzimatic",
-      "value": 1
-    },
-    {
-      "source": "17",
-      "target": "ADIPOGENIC",
-      "value": 1
-    },
-    {
-      "source": "17",
-      "target": "OSTEOGENIC",
-      "value": 1
-    },
-    {
-      "source": "17",
-      "target": "2 A 5 PASSAGE",
-      "value": 1
-    },
-    {
-      "source": "17",
-      "target": "NATURAL",
-      "value": 1
-    },
-    {
-      "source": "17",
-      "target": "SINTETIC",
       "value": 1
     },
     {
@@ -1632,11 +1161,6 @@
     },
     {
       "source": "18",
-      "target": "Pubmed",
-      "value": 1
-    },
-    {
-      "source": "18",
       "target": "Lipoaspirate",
       "value": 1
     },
@@ -1647,32 +1171,7 @@
     },
     {
       "source": "18",
-      "target": "OSTEOGENIC",
-      "value": 1
-    },
-    {
-      "source": "18",
-      "target": "2 A 5 PASSAGE",
-      "value": 1
-    },
-    {
-      "source": "18",
-      "target": "COMPOSITE",
-      "value": 1
-    },
-    {
-      "source": "18",
-      "target": " In vivo",
-      "value": 1
-    },
-    {
-      "source": "18",
       "target": "Bone",
-      "value": 1
-    },
-    {
-      "source": "19",
-      "target": "Scopus",
       "value": 1
     },
     {
@@ -1713,26 +1212,6 @@
     {
       "source": "19",
       "target": "CD73",
-      "value": 1
-    },
-    {
-      "source": "19",
-      "target": "ADIPOGENIC",
-      "value": 1
-    },
-    {
-      "source": "19",
-      "target": "OSTEOGENIC",
-      "value": 1
-    },
-    {
-      "source": "19",
-      "target": "2 A 5 PASSAGE",
-      "value": 1
-    },
-    {
-      "source": "19",
-      "target": "NATURAL",
       "value": 1
     },
     {
@@ -1742,11 +1221,6 @@
     },
     {
       "source": "20",
-      "target": "Scopus",
-      "value": 1
-    },
-    {
-      "source": "20",
       "target": "Lipoaspirate",
       "value": 1
     },
@@ -1772,27 +1246,7 @@
     },
     {
       "source": "20",
-      "target": "OSTEOGENIC",
-      "value": 1
-    },
-    {
-      "source": "20",
-      "target": "2 A 5 PASSAGE",
-      "value": 1
-    },
-    {
-      "source": "20",
-      "target": "COMPOSITE",
-      "value": 1
-    },
-    {
-      "source": "20",
       "target": "Bone",
-      "value": 1
-    },
-    {
-      "source": "21",
-      "target": "Web of science",
       "value": 1
     },
     {
@@ -1812,42 +1266,12 @@
     },
     {
       "source": "21",
-      "target": "OSTEOGENIC",
-      "value": 1
-    },
-    {
-      "source": "21",
-      "target": "CONDROGENIC",
-      "value": 1
-    },
-    {
-      "source": "21",
-      "target": "2 A 5 PASSAGE",
-      "value": 1
-    },
-    {
-      "source": "21",
-      "target": "COMPOSITE",
-      "value": 1
-    },
-    {
-      "source": "21",
-      "target": " In vivo",
-      "value": 1
-    },
-    {
-      "source": "21",
       "target": "Bone",
       "value": 1
     },
     {
       "source": "21",
       "target": "Cartilage",
-      "value": 1
-    },
-    {
-      "source": "22",
-      "target": "Scopus",
       "value": 1
     },
     {
@@ -1872,22 +1296,7 @@
     },
     {
       "source": "22",
-      "target": "2 A 5 PASSAGE",
-      "value": 1
-    },
-    {
-      "source": "22",
-      "target": "COMPOSITE",
-      "value": 1
-    },
-    {
-      "source": "22",
       "target": "Cartilage",
-      "value": 1
-    },
-    {
-      "source": "23",
-      "target": "Scopus",
       "value": 1
     },
     {
@@ -1927,26 +1336,6 @@
     },
     {
       "source": "23",
-      "target": "OSTEOGENIC",
-      "value": 1
-    },
-    {
-      "source": "23",
-      "target": "2 A 5 PASSAGE",
-      "value": 1
-    },
-    {
-      "source": "23",
-      "target": "NATURAL",
-      "value": 1
-    },
-    {
-      "source": "23",
-      "target": "COMPOSITE",
-      "value": 1
-    },
-    {
-      "source": "23",
       "target": "Bone",
       "value": 1
     },
@@ -1966,26 +1355,6 @@
       "value": 1
     },
     {
-      "source": "24",
-      "target": "2 A 5 PASSAGE",
-      "value": 1
-    },
-    {
-      "source": "24",
-      "target": "NATURAL",
-      "value": 1
-    },
-    {
-      "source": "24",
-      "target": " In vivo",
-      "value": 1
-    },
-    {
-      "source": "25",
-      "target": "Scopus",
-      "value": 1
-    },
-    {
       "source": "25",
       "target": "Lipoaspirate",
       "value": 1
@@ -1993,26 +1362,6 @@
     {
       "source": "25",
       "target": "Enzimatic",
-      "value": 1
-    },
-    {
-      "source": "25",
-      "target": "2 A 5 PASSAGE",
-      "value": 1
-    },
-    {
-      "source": "25",
-      "target": "NATURAL",
-      "value": 1
-    },
-    {
-      "source": "25",
-      "target": "SINTETIC",
-      "value": 1
-    },
-    {
-      "source": "25",
-      "target": " In vivo",
       "value": 1
     },
     {
@@ -2032,37 +1381,7 @@
     },
     {
       "source": "26",
-      "target": "OSTEOGENIC",
-      "value": 1
-    },
-    {
-      "source": "26",
-      "target": "2 A 5 PASSAGE",
-      "value": 1
-    },
-    {
-      "source": "26",
-      "target": "SINTETIC",
-      "value": 1
-    },
-    {
-      "source": "26",
-      "target": "COMPOSITE",
-      "value": 1
-    },
-    {
-      "source": "26",
-      "target": " In vivo",
-      "value": 1
-    },
-    {
-      "source": "26",
       "target": "Bone",
-      "value": 1
-    },
-    {
-      "source": "27",
-      "target": "Pubmed",
       "value": 1
     },
     {
@@ -2092,37 +1411,7 @@
     },
     {
       "source": "27",
-      "target": "OSTEOGENIC",
-      "value": 1
-    },
-    {
-      "source": "27",
-      "target": "2 A 5 PASSAGE",
-      "value": 1
-    },
-    {
-      "source": "27",
-      "target": "NATURAL",
-      "value": 1
-    },
-    {
-      "source": "27",
-      "target": "SINTETIC",
-      "value": 1
-    },
-    {
-      "source": "27",
-      "target": "COMPOSITE",
-      "value": 1
-    },
-    {
-      "source": "27",
       "target": "Bone",
-      "value": 1
-    },
-    {
-      "source": "28",
-      "target": "Pubmed",
       "value": 1
     },
     {
@@ -2152,37 +1441,7 @@
     },
     {
       "source": "28",
-      "target": "OSTEOGENIC",
-      "value": 1
-    },
-    {
-      "source": "28",
-      "target": "2 A 5 PASSAGE",
-      "value": 1
-    },
-    {
-      "source": "28",
-      "target": "NATURAL",
-      "value": 1
-    },
-    {
-      "source": "28",
-      "target": "SINTETIC",
-      "value": 1
-    },
-    {
-      "source": "28",
-      "target": "CERAMIC",
-      "value": 1
-    },
-    {
-      "source": "28",
       "target": "Bone",
-      "value": 1
-    },
-    {
-      "source": "29",
-      "target": "Pubmed",
       "value": 1
     },
     {
@@ -2207,42 +1466,7 @@
     },
     {
       "source": "29",
-      "target": "ADIPOGENIC",
-      "value": 1
-    },
-    {
-      "source": "29",
-      "target": "2 A 5 PASSAGE",
-      "value": 1
-    },
-    {
-      "source": "29",
-      "target": "NATURAL",
-      "value": 1
-    },
-    {
-      "source": "29",
-      "target": "SINTETIC",
-      "value": 1
-    },
-    {
-      "source": "29",
-      "target": "COMPOSITE",
-      "value": 1
-    },
-    {
-      "source": "29",
-      "target": " In vivo",
-      "value": 1
-    },
-    {
-      "source": "29",
       "target": "Soft tissue",
-      "value": 1
-    },
-    {
-      "source": "30",
-      "target": "Scopus",
       "value": 1
     },
     {
@@ -2267,27 +1491,7 @@
     },
     {
       "source": "30",
-      "target": "OSTEOGENIC",
-      "value": 1
-    },
-    {
-      "source": "30",
-      "target": "2 A 5 PASSAGE",
-      "value": 1
-    },
-    {
-      "source": "30",
-      "target": "SINTETIC",
-      "value": 1
-    },
-    {
-      "source": "30",
       "target": "Soft tissue",
-      "value": 1
-    },
-    {
-      "source": "31",
-      "target": "Scopus",
       "value": 1
     },
     {
@@ -2303,36 +1507,6 @@
     {
       "source": "31",
       "target": "Adherence",
-      "value": 1
-    },
-    {
-      "source": "31",
-      "target": "OSTEOGENIC",
-      "value": 1
-    },
-    {
-      "source": "31",
-      "target": "CONDROGENIC",
-      "value": 1
-    },
-    {
-      "source": "31",
-      "target": "2 A 5 PASSAGE",
-      "value": 1
-    },
-    {
-      "source": "31",
-      "target": "5 PASSAGE",
-      "value": 1
-    },
-    {
-      "source": "31",
-      "target": "NATURAL",
-      "value": 1
-    },
-    {
-      "source": "31",
-      "target": "SINTETIC",
       "value": 1
     },
     {
@@ -2342,42 +1516,12 @@
     },
     {
       "source": "32",
-      "target": "Pubmed",
-      "value": 1
-    },
-    {
-      "source": "32",
       "target": "Lipoaspirate",
       "value": 1
     },
     {
       "source": "32",
       "target": "Enzimatic",
-      "value": 1
-    },
-    {
-      "source": "32",
-      "target": "2 A 5 PASSAGE",
-      "value": 1
-    },
-    {
-      "source": "32",
-      "target": "NATURAL",
-      "value": 1
-    },
-    {
-      "source": "32",
-      "target": "SINTETIC",
-      "value": 1
-    },
-    {
-      "source": "32",
-      "target": " In vivo",
-      "value": 1
-    },
-    {
-      "source": "33",
-      "target": "Pubmed",
       "value": 1
     },
     {
@@ -2397,27 +1541,7 @@
     },
     {
       "source": "33",
-      "target": "2 A 5 PASSAGE",
-      "value": 1
-    },
-    {
-      "source": "33",
-      "target": "5 PASSAGE",
-      "value": 1
-    },
-    {
-      "source": "33",
-      "target": "SINTETIC",
-      "value": 1
-    },
-    {
-      "source": "33",
       "target": "Soft tissue",
-      "value": 1
-    },
-    {
-      "source": "34",
-      "target": "Pubmed",
       "value": 1
     },
     {
@@ -2432,22 +1556,7 @@
     },
     {
       "source": "34",
-      "target": "ADIPOGENIC",
-      "value": 1
-    },
-    {
-      "source": "34",
-      "target": "SINTETIC",
-      "value": 1
-    },
-    {
-      "source": "34",
       "target": "Soft tissue",
-      "value": 1
-    },
-    {
-      "source": "35",
-      "target": "Pubmed",
       "value": 1
     },
     {
@@ -2458,51 +1567,11 @@
     {
       "source": "35",
       "target": "Enzimatic",
-      "value": 1
-    },
-    {
-      "source": "35",
-      "target": "ADIPOGENIC",
-      "value": 1
-    },
-    {
-      "source": "35",
-      "target": "OSTEOGENIC",
-      "value": 1
-    },
-    {
-      "source": "35",
-      "target": "CONDROGENIC",
-      "value": 1
-    },
-    {
-      "source": "35",
-      "target": "2 A 5 PASSAGE",
-      "value": 1
-    },
-    {
-      "source": "35",
-      "target": "5 PASSAGE",
-      "value": 1
-    },
-    {
-      "source": "35",
-      "target": "SINTETIC",
       "value": 1
     },
     {
       "source": "35",
       "target": "Cartilage",
-      "value": 1
-    },
-    {
-      "source": "36",
-      "target": "Scopus",
-      "value": 1
-    },
-    {
-      "source": "36",
-      "target": "Web of science",
       "value": 1
     },
     {
@@ -2532,22 +1601,7 @@
     },
     {
       "source": "36",
-      "target": "2 A 5 PASSAGE",
-      "value": 1
-    },
-    {
-      "source": "36",
-      "target": "SINTETIC",
-      "value": 1
-    },
-    {
-      "source": "36",
       "target": "Bone",
-      "value": 1
-    },
-    {
-      "source": "37",
-      "target": "Pubmed",
       "value": 1
     },
     {
@@ -2586,26 +1640,6 @@
       "value": 1
     },
     {
-      "source": "37",
-      "target": "2 A 5 PASSAGE",
-      "value": 1
-    },
-    {
-      "source": "37",
-      "target": "METAL",
-      "value": 1
-    },
-    {
-      "source": "37",
-      "target": " In vivo",
-      "value": 1
-    },
-    {
-      "source": "38",
-      "target": "Pubmed",
-      "value": 1
-    },
-    {
       "source": "38",
       "target": "Lipoaspirate",
       "value": 1
@@ -2617,32 +1651,7 @@
     },
     {
       "source": "38",
-      "target": "OSTEOGENIC",
-      "value": 1
-    },
-    {
-      "source": "38",
-      "target": "2 A 5 PASSAGE",
-      "value": 1
-    },
-    {
-      "source": "38",
-      "target": "METAL",
-      "value": 1
-    },
-    {
-      "source": "38",
-      "target": " In vivo",
-      "value": 1
-    },
-    {
-      "source": "38",
       "target": "Bone",
-      "value": 1
-    },
-    {
-      "source": "39",
-      "target": "Pubmed",
       "value": 1
     },
     {
@@ -2657,27 +1666,7 @@
     },
     {
       "source": "39",
-      "target": "OSTEOGENIC",
-      "value": 1
-    },
-    {
-      "source": "39",
-      "target": "2 A 5 PASSAGE",
-      "value": 1
-    },
-    {
-      "source": "39",
-      "target": "METAL",
-      "value": 1
-    },
-    {
-      "source": "39",
       "target": "Bone",
-      "value": 1
-    },
-    {
-      "source": "40",
-      "target": "Pubmed",
       "value": 1
     },
     {
@@ -2692,32 +1681,7 @@
     },
     {
       "source": "40",
-      "target": "ADIPOGENIC",
-      "value": 1
-    },
-    {
-      "source": "40",
-      "target": "OSTEOGENIC",
-      "value": 1
-    },
-    {
-      "source": "40",
-      "target": "2 A 5 PASSAGE",
-      "value": 1
-    },
-    {
-      "source": "40",
-      "target": "SINTETIC",
-      "value": 1
-    },
-    {
-      "source": "40",
       "target": "Bone",
-      "value": 1
-    },
-    {
-      "source": "41",
-      "target": "Pubmed",
       "value": 1
     },
     {
@@ -2767,27 +1731,7 @@
     },
     {
       "source": "41",
-      "target": "OSTEOGENIC",
-      "value": 1
-    },
-    {
-      "source": "41",
-      "target": "2 A 5 PASSAGE",
-      "value": 1
-    },
-    {
-      "source": "41",
-      "target": "SC",
-      "value": 1
-    },
-    {
-      "source": "41",
       "target": "Bone",
-      "value": 1
-    },
-    {
-      "source": "42",
-      "target": "Scopus",
       "value": 1
     },
     {
@@ -2808,16 +1752,6 @@
     {
       "source": "42",
       "target": "CD105",
-      "value": 1
-    },
-    {
-      "source": "42",
-      "target": "SM",
-      "value": 1
-    },
-    {
-      "source": "42",
-      "target": " In vivo",
       "value": 1
     },
     {
@@ -2827,11 +1761,6 @@
     },
     {
       "source": "43",
-      "target": "Web of science",
-      "value": 1
-    },
-    {
-      "source": "43",
       "target": "Lipoaspirate",
       "value": 1
     },
@@ -2863,26 +1792,6 @@
     {
       "source": "43",
       "target": "CD73",
-      "value": 1
-    },
-    {
-      "source": "43",
-      "target": "ADIPOGENIC",
-      "value": 1
-    },
-    {
-      "source": "43",
-      "target": "2 A 5 PASSAGE",
-      "value": 1
-    },
-    {
-      "source": "43",
-      "target": "NSC",
-      "value": 1
-    },
-    {
-      "source": "44",
-      "target": "Web of science",
       "value": 1
     },
     {
@@ -2927,27 +1836,7 @@
     },
     {
       "source": "44",
-      "target": "OSTEOGENIC",
-      "value": 1
-    },
-    {
-      "source": "44",
-      "target": "2 A 5 PASSAGE",
-      "value": 1
-    },
-    {
-      "source": "44",
-      "target": "NATURAL",
-      "value": 1
-    },
-    {
-      "source": "44",
       "target": "Bone",
-      "value": 1
-    },
-    {
-      "source": "45",
-      "target": "Scopus",
       "value": 1
     },
     {
@@ -2958,16 +1847,6 @@
     {
       "source": "45",
       "target": "Enzimatic",
-      "value": 1
-    },
-    {
-      "source": "45",
-      "target": "NATURAL",
-      "value": 1
-    },
-    {
-      "source": "45",
-      "target": " In vivo",
       "value": 1
     },
     {
@@ -2977,11 +1856,6 @@
     },
     {
       "source": "46",
-      "target": "Scopus",
-      "value": 1
-    },
-    {
-      "source": "46",
       "target": "Bichectomy",
       "value": 1
     },
@@ -3007,32 +1881,7 @@
     },
     {
       "source": "46",
-      "target": "ADIPOGENIC",
-      "value": 1
-    },
-    {
-      "source": "46",
-      "target": "OSTEOGENIC",
-      "value": 1
-    },
-    {
-      "source": "46",
-      "target": "2 A 5 PASSAGE",
-      "value": 1
-    },
-    {
-      "source": "46",
-      "target": " In vivo",
-      "value": 1
-    },
-    {
-      "source": "46",
       "target": "Bone",
-      "value": 1
-    },
-    {
-      "source": "47",
-      "target": "Scopus",
       "value": 1
     },
     {
@@ -3042,27 +1891,7 @@
     },
     {
       "source": "47",
-      "target": "CONDROGENIC",
-      "value": 1
-    },
-    {
-      "source": "47",
-      "target": "2 A 5 PASSAGE",
-      "value": 1
-    },
-    {
-      "source": "47",
-      "target": "SINTETIC",
-      "value": 1
-    },
-    {
-      "source": "47",
       "target": "Cartilage",
-      "value": 1
-    },
-    {
-      "source": "48",
-      "target": "Scopus",
       "value": 1
     },
     {
@@ -3103,31 +1932,6 @@
     {
       "source": "48",
       "target": "CD73",
-      "value": 1
-    },
-    {
-      "source": "48",
-      "target": "ADIPOGENIC",
-      "value": 1
-    },
-    {
-      "source": "48",
-      "target": "OSTEOGENIC",
-      "value": 1
-    },
-    {
-      "source": "48",
-      "target": "CONDROGENIC",
-      "value": 1
-    },
-    {
-      "source": "48",
-      "target": "2 A 5 PASSAGE",
-      "value": 1
-    },
-    {
-      "source": "48",
-      "target": "NATURAL",
       "value": 1
     },
     {
@@ -3137,11 +1941,6 @@
     },
     {
       "source": "49",
-      "target": "Scopus",
-      "value": 1
-    },
-    {
-      "source": "49",
       "target": "Bichectomy",
       "value": 1
     },
@@ -3181,36 +1980,6 @@
       "value": 1
     },
     {
-      "source": "49",
-      "target": "ADIPOGENIC",
-      "value": 1
-    },
-    {
-      "source": "49",
-      "target": "OSTEOGENIC",
-      "value": 1
-    },
-    {
-      "source": "49",
-      "target": "2 A 5 PASSAGE",
-      "value": 1
-    },
-    {
-      "source": "49",
-      "target": "5 PASSAGE",
-      "value": 1
-    },
-    {
-      "source": "49",
-      "target": "NATURAL",
-      "value": 1
-    },
-    {
-      "source": "50",
-      "target": "Web of science",
-      "value": 1
-    },
-    {
       "source": "50",
       "target": "Lipoaspirate",
       "value": 1
@@ -3247,37 +2016,7 @@
     },
     {
       "source": "50",
-      "target": "ADIPOGENIC",
-      "value": 1
-    },
-    {
-      "source": "50",
-      "target": "OSTEOGENIC",
-      "value": 1
-    },
-    {
-      "source": "50",
-      "target": "CONDROGENIC",
-      "value": 1
-    },
-    {
-      "source": "50",
-      "target": "2 A 5 PASSAGE",
-      "value": 1
-    },
-    {
-      "source": "50",
-      "target": "NS",
-      "value": 1
-    },
-    {
-      "source": "50",
       "target": "Neurological",
-      "value": 1
-    },
-    {
-      "source": "51",
-      "target": "Scopus",
       "value": 1
     },
     {
@@ -3317,37 +2056,7 @@
     },
     {
       "source": "51",
-      "target": "OSTEOGENIC",
-      "value": 1
-    },
-    {
-      "source": "51",
-      "target": "2 A 5 PASSAGE",
-      "value": 1
-    },
-    {
-      "source": "51",
-      "target": "5 PASSAGE",
-      "value": 1
-    },
-    {
-      "source": "51",
-      "target": "NS",
-      "value": 1
-    },
-    {
-      "source": "51",
-      "target": " In vivo",
-      "value": 1
-    },
-    {
-      "source": "51",
       "target": "Bone",
-      "value": 1
-    },
-    {
-      "source": "52",
-      "target": "Pubmed",
       "value": 1
     },
     {
@@ -3358,11 +2067,6 @@
     {
       "source": "52",
       "target": "Enzimatic",
-      "value": 1
-    },
-    {
-      "source": "52",
-      "target": "NATURAL",
       "value": 1
     },
     {
@@ -3372,32 +2076,12 @@
     },
     {
       "source": "53",
-      "target": "Scopus",
-      "value": 1
-    },
-    {
-      "source": "53",
       "target": "Lipoaspirate",
       "value": 1
     },
     {
       "source": "53",
       "target": "Enzimatic",
-      "value": 1
-    },
-    {
-      "source": "53",
-      "target": "ADIPOGENIC",
-      "value": 1
-    },
-    {
-      "source": "53",
-      "target": "SINTETIC",
-      "value": 1
-    },
-    {
-      "source": "53",
-      "target": " In vivo",
       "value": 1
     },
     {
@@ -3407,32 +2091,12 @@
     },
     {
       "source": "54",
-      "target": "Pubmed",
-      "value": 1
-    },
-    {
-      "source": "54",
       "target": "Lipoaspirate",
       "value": 1
     },
     {
       "source": "54",
       "target": "Enzimatic",
-      "value": 1
-    },
-    {
-      "source": "54",
-      "target": "2 A 5 PASSAGE",
-      "value": 1
-    },
-    {
-      "source": "54",
-      "target": "SINTETIC",
-      "value": 1
-    },
-    {
-      "source": "54",
-      "target": " In vivo",
       "value": 1
     },
     {
@@ -3447,37 +2111,12 @@
     },
     {
       "source": "55",
-      "target": "Scopus",
-      "value": 1
-    },
-    {
-      "source": "55",
       "target": "Lipoaspirate",
       "value": 1
     },
     {
       "source": "55",
-      "target": "OSTEOGENIC",
-      "value": 1
-    },
-    {
-      "source": "55",
-      "target": "SC",
-      "value": 1
-    },
-    {
-      "source": "55",
-      "target": " In vivo",
-      "value": 1
-    },
-    {
-      "source": "55",
       "target": "Bone",
-      "value": 1
-    },
-    {
-      "source": "56",
-      "target": "Pubmed",
       "value": 1
     },
     {
@@ -3508,36 +2147,6 @@
     {
       "source": "56",
       "target": "CD105",
-      "value": 1
-    },
-    {
-      "source": "56",
-      "target": "ADIPOGENIC",
-      "value": 1
-    },
-    {
-      "source": "56",
-      "target": "OSTEOGENIC",
-      "value": 1
-    },
-    {
-      "source": "56",
-      "target": "CONDROGENIC",
-      "value": 1
-    },
-    {
-      "source": "56",
-      "target": "2 A 5 PASSAGE",
-      "value": 1
-    },
-    {
-      "source": "56",
-      "target": "NONE",
-      "value": 1
-    },
-    {
-      "source": "57",
-      "target": "Scopus",
       "value": 1
     },
     {
@@ -3583,41 +2192,6 @@
     {
       "source": "57",
       "target": "CD73",
-      "value": 1
-    },
-    {
-      "source": "57",
-      "target": "ADIPOGENIC",
-      "value": 1
-    },
-    {
-      "source": "57",
-      "target": "OSTEOGENIC",
-      "value": 1
-    },
-    {
-      "source": "57",
-      "target": "CONDROGENIC",
-      "value": 1
-    },
-    {
-      "source": "57",
-      "target": "2 A 5 PASSAGE",
-      "value": 1
-    },
-    {
-      "source": "57",
-      "target": "5 PASSAGE",
-      "value": 1
-    },
-    {
-      "source": "57",
-      "target": "NONE",
-      "value": 1
-    },
-    {
-      "source": "57",
-      "target": "NSCR",
       "value": 1
     },
     {
@@ -3632,37 +2206,12 @@
     },
     {
       "source": "58",
-      "target": "Scopus",
-      "value": 1
-    },
-    {
-      "source": "58",
       "target": "Lipoaspirate",
       "value": 1
     },
     {
       "source": "58",
-      "target": "OSTEOGENIC",
-      "value": 1
-    },
-    {
-      "source": "58",
-      "target": "2 A 5 PASSAGE",
-      "value": 1
-    },
-    {
-      "source": "58",
-      "target": "SC",
-      "value": 1
-    },
-    {
-      "source": "58",
       "target": "Bone",
-      "value": 1
-    },
-    {
-      "source": "59",
-      "target": "Scopus",
       "value": 1
     },
     {
@@ -3707,37 +2256,7 @@
     },
     {
       "source": "59",
-      "target": "ADIPOGENIC",
-      "value": 1
-    },
-    {
-      "source": "59",
-      "target": "OSTEOGENIC",
-      "value": 1
-    },
-    {
-      "source": "59",
-      "target": "CONDROGENIC",
-      "value": 1
-    },
-    {
-      "source": "59",
-      "target": "2 A 5 PASSAGE",
-      "value": 1
-    },
-    {
-      "source": "59",
-      "target": "NATURAL",
-      "value": 1
-    },
-    {
-      "source": "59",
       "target": "Skin",
-      "value": 1
-    },
-    {
-      "source": "60",
-      "target": "Scopus",
       "value": 1
     },
     {
@@ -3782,22 +2301,7 @@
     },
     {
       "source": "60",
-      "target": "OSTEOGENIC",
-      "value": 1
-    },
-    {
-      "source": "60",
-      "target": "2 A 5 PASSAGE",
-      "value": 1
-    },
-    {
-      "source": "60",
       "target": "Bone",
-      "value": 1
-    },
-    {
-      "source": "61",
-      "target": "Scopus",
       "value": 1
     },
     {
@@ -3842,47 +2346,12 @@
     },
     {
       "source": "61",
-      "target": "ADIPOGENIC",
-      "value": 1
-    },
-    {
-      "source": "61",
-      "target": "OSTEOGENIC",
-      "value": 1
-    },
-    {
-      "source": "61",
-      "target": "CONDROGENIC",
-      "value": 1
-    },
-    {
-      "source": "61",
-      "target": "2 A 5 PASSAGE",
-      "value": 1
-    },
-    {
-      "source": "61",
-      "target": "COMPOSITE",
-      "value": 1
-    },
-    {
-      "source": "61",
-      "target": " In vivo",
-      "value": 1
-    },
-    {
-      "source": "61",
       "target": "Bone",
       "value": 1
     },
     {
       "source": "61",
       "target": "Cartilage",
-      "value": 1
-    },
-    {
-      "source": "62",
-      "target": "Scopus",
       "value": 1
     },
     {
@@ -3897,27 +2366,7 @@
     },
     {
       "source": "62",
-      "target": "2 A 5 PASSAGE",
-      "value": 1
-    },
-    {
-      "source": "62",
-      "target": "SINTETIC",
-      "value": 1
-    },
-    {
-      "source": "62",
-      "target": " In vivo",
-      "value": 1
-    },
-    {
-      "source": "62",
       "target": "Soft tissue",
-      "value": 1
-    },
-    {
-      "source": "63",
-      "target": "Scopus",
       "value": 1
     },
     {
@@ -3962,47 +2411,12 @@
     },
     {
       "source": "63",
-      "target": "ADIPOGENIC",
-      "value": 1
-    },
-    {
-      "source": "63",
-      "target": "OSTEOGENIC",
-      "value": 1
-    },
-    {
-      "source": "63",
-      "target": "2 A 5 PASSAGE",
-      "value": 1
-    },
-    {
-      "source": "63",
-      "target": "5 PASSAGE",
-      "value": 1
-    },
-    {
-      "source": "63",
-      "target": "NS",
-      "value": 1
-    },
-    {
-      "source": "63",
-      "target": "NSCR",
-      "value": 1
-    },
-    {
-      "source": "63",
       "target": "Bone",
       "value": 1
     },
     {
       "source": "63",
       "target": "Comparison\r",
-      "value": 1
-    },
-    {
-      "source": "64",
-      "target": "Pubmed",
       "value": 1
     },
     {
@@ -4017,27 +2431,7 @@
     },
     {
       "source": "64",
-      "target": "OSTEOGENIC",
-      "value": 1
-    },
-    {
-      "source": "64",
-      "target": "COMPOSITE",
-      "value": 1
-    },
-    {
-      "source": "64",
-      "target": " In vivo",
-      "value": 1
-    },
-    {
-      "source": "64",
       "target": "Bone",
-      "value": 1
-    },
-    {
-      "source": "65",
-      "target": "Scopus",
       "value": 1
     },
     {
@@ -4077,37 +2471,7 @@
     },
     {
       "source": "65",
-      "target": "ADIPOGENIC",
-      "value": 1
-    },
-    {
-      "source": "65",
-      "target": "OSTEOGENIC",
-      "value": 1
-    },
-    {
-      "source": "65",
-      "target": "CONDROGENIC",
-      "value": 1
-    },
-    {
-      "source": "65",
-      "target": "2 A 5 PASSAGE",
-      "value": 1
-    },
-    {
-      "source": "65",
-      "target": "COMPOSITE",
-      "value": 1
-    },
-    {
-      "source": "65",
       "target": "Bone",
-      "value": 1
-    },
-    {
-      "source": "66",
-      "target": "Web of science",
       "value": 1
     },
     {
@@ -4122,32 +2486,7 @@
     },
     {
       "source": "66",
-      "target": "OSTEOGENIC",
-      "value": 1
-    },
-    {
-      "source": "66",
-      "target": "5 PASSAGE",
-      "value": 1
-    },
-    {
-      "source": "66",
-      "target": "NATURAL",
-      "value": 1
-    },
-    {
-      "source": "66",
-      "target": " In vivo",
-      "value": 1
-    },
-    {
-      "source": "66",
       "target": "Bone",
-      "value": 1
-    },
-    {
-      "source": "67",
-      "target": "Pubmed",
       "value": 1
     },
     {
@@ -4202,32 +2541,7 @@
     },
     {
       "source": "67",
-      "target": "2 A 5 PASSAGE",
-      "value": 1
-    },
-    {
-      "source": "67",
-      "target": "COMPOSITE",
-      "value": 1
-    },
-    {
-      "source": "67",
-      "target": "CERAMIC",
-      "value": 1
-    },
-    {
-      "source": "67",
-      "target": " In vivo",
-      "value": 1
-    },
-    {
-      "source": "67",
       "target": "Bone",
-      "value": 1
-    },
-    {
-      "source": "68",
-      "target": "Pubmed",
       "value": 1
     },
     {
@@ -4257,32 +2571,7 @@
     },
     {
       "source": "68",
-      "target": "OSTEOGENIC",
-      "value": 1
-    },
-    {
-      "source": "68",
-      "target": "2 A 5 PASSAGE",
-      "value": 1
-    },
-    {
-      "source": "68",
-      "target": "NATURAL",
-      "value": 1
-    },
-    {
-      "source": "68",
-      "target": " In vivo",
-      "value": 1
-    },
-    {
-      "source": "68",
       "target": "Bone",
-      "value": 1
-    },
-    {
-      "source": "69",
-      "target": "Pubmed",
       "value": 1
     },
     {
@@ -4293,21 +2582,6 @@
     {
       "source": "69",
       "target": "Enzimatic",
-      "value": 1
-    },
-    {
-      "source": "69",
-      "target": "ADIPOGENIC",
-      "value": 1
-    },
-    {
-      "source": "69",
-      "target": "2 A 5 PASSAGE",
-      "value": 1
-    },
-    {
-      "source": "69",
-      "target": " In vivo",
       "value": 1
     },
     {
@@ -4317,11 +2591,6 @@
     },
     {
       "source": "70",
-      "target": "Pubmed",
-      "value": 1
-    },
-    {
-      "source": "70",
       "target": "Lipoaspirate",
       "value": 1
     },
@@ -4332,37 +2601,7 @@
     },
     {
       "source": "70",
-      "target": "ADIPOGENIC",
-      "value": 1
-    },
-    {
-      "source": "70",
-      "target": "OSTEOGENIC",
-      "value": 1
-    },
-    {
-      "source": "70",
-      "target": "2 A 5 PASSAGE",
-      "value": 1
-    },
-    {
-      "source": "70",
-      "target": "COMPOSITE",
-      "value": 1
-    },
-    {
-      "source": "70",
-      "target": " In vivo",
-      "value": 1
-    },
-    {
-      "source": "70",
       "target": "Adipose tissue",
-      "value": 1
-    },
-    {
-      "source": "71",
-      "target": "Scopus",
       "value": 1
     },
     {
@@ -4397,37 +2636,7 @@
     },
     {
       "source": "71",
-      "target": "ADIPOGENIC",
-      "value": 1
-    },
-    {
-      "source": "71",
-      "target": "OSTEOGENIC",
-      "value": 1
-    },
-    {
-      "source": "71",
-      "target": "CONDROGENIC",
-      "value": 1
-    },
-    {
-      "source": "71",
-      "target": "2 A 5 PASSAGE",
-      "value": 1
-    },
-    {
-      "source": "71",
-      "target": " In vivo",
-      "value": 1
-    },
-    {
-      "source": "71",
       "target": "Neurological",
-      "value": 1
-    },
-    {
-      "source": "72",
-      "target": "Scopus",
       "value": 1
     },
     {
@@ -4442,32 +2651,12 @@
     },
     {
       "source": "72",
-      "target": "CONDROGENIC",
-      "value": 1
-    },
-    {
-      "source": "72",
-      "target": "NATURAL",
-      "value": 1
-    },
-    {
-      "source": "72",
-      "target": "CERAMIC",
-      "value": 1
-    },
-    {
-      "source": "72",
       "target": "Cartilage",
       "value": 1
     },
     {
       "source": "72",
       "target": "Skin",
-      "value": 1
-    },
-    {
-      "source": "73",
-      "target": "Scopus",
       "value": 1
     },
     {
@@ -4492,27 +2681,7 @@
     },
     {
       "source": "73",
-      "target": "OSTEOGENIC",
-      "value": 1
-    },
-    {
-      "source": "73",
-      "target": "2 A 5 PASSAGE",
-      "value": 1
-    },
-    {
-      "source": "73",
-      "target": "COMPOSITE",
-      "value": 1
-    },
-    {
-      "source": "73",
       "target": "Bone",
-      "value": 1
-    },
-    {
-      "source": "74",
-      "target": "Scopus",
       "value": 1
     },
     {
@@ -4527,37 +2696,7 @@
     },
     {
       "source": "74",
-      "target": "OSTEOGENIC",
-      "value": 1
-    },
-    {
-      "source": "74",
-      "target": "2 A 5 PASSAGE",
-      "value": 1
-    },
-    {
-      "source": "74",
-      "target": "NATURAL",
-      "value": 1
-    },
-    {
-      "source": "74",
-      "target": "SINTETIC",
-      "value": 1
-    },
-    {
-      "source": "74",
-      "target": " In vivo",
-      "value": 1
-    },
-    {
-      "source": "74",
       "target": "Bone",
-      "value": 1
-    },
-    {
-      "source": "75",
-      "target": "Pubmed",
       "value": 1
     },
     {
@@ -4568,21 +2707,6 @@
     {
       "source": "75",
       "target": "Enzimatic",
-      "value": 1
-    },
-    {
-      "source": "75",
-      "target": "ADIPOGENIC",
-      "value": 1
-    },
-    {
-      "source": "75",
-      "target": "2 A 5 PASSAGE",
-      "value": 1
-    },
-    {
-      "source": "75",
-      "target": "SINTETIC",
       "value": 1
     },
     {
@@ -4592,27 +2716,12 @@
     },
     {
       "source": "76",
-      "target": "Scopus",
-      "value": 1
-    },
-    {
-      "source": "76",
       "target": "Lipoaspirate",
       "value": 1
     },
     {
       "source": "76",
       "target": "Adherence",
-      "value": 1
-    },
-    {
-      "source": "76",
-      "target": "5 PASSAGE",
-      "value": 1
-    },
-    {
-      "source": "76",
-      "target": "SINTETIC",
       "value": 1
     },
     {
@@ -4628,11 +2737,6 @@
     {
       "source": "76",
       "target": "Skin",
-      "value": 1
-    },
-    {
-      "source": "77",
-      "target": "Pubmed",
       "value": 1
     },
     {
@@ -4657,27 +2761,7 @@
     },
     {
       "source": "77",
-      "target": "ADIPOGENIC",
-      "value": 1
-    },
-    {
-      "source": "77",
-      "target": "OSTEOGENIC",
-      "value": 1
-    },
-    {
-      "source": "77",
-      "target": "CONDROGENIC",
-      "value": 1
-    },
-    {
-      "source": "77",
       "target": "Skin",
-      "value": 1
-    },
-    {
-      "source": "78",
-      "target": "Scopus",
       "value": 1
     },
     {
@@ -4693,16 +2777,6 @@
     {
       "source": "78",
       "target": "Adherence",
-      "value": 1
-    },
-    {
-      "source": "78",
-      "target": "NATURAL",
-      "value": 1
-    },
-    {
-      "source": "78",
-      "target": " In vivo",
       "value": 1
     },
     {
@@ -4712,11 +2786,6 @@
     },
     {
       "source": "79",
-      "target": "Pubmed",
-      "value": 1
-    },
-    {
-      "source": "79",
       "target": "Lipoaspirate",
       "value": 1
     },
@@ -4732,27 +2801,7 @@
     },
     {
       "source": "79",
-      "target": "OSTEOGENIC",
-      "value": 1
-    },
-    {
-      "source": "79",
-      "target": "2 A 5 PASSAGE",
-      "value": 1
-    },
-    {
-      "source": "79",
-      "target": "CERAMIC",
-      "value": 1
-    },
-    {
-      "source": "79",
       "target": "Bone",
-      "value": 1
-    },
-    {
-      "source": "80",
-      "target": "Scopus",
       "value": 1
     },
     {
@@ -4767,27 +2816,7 @@
     },
     {
       "source": "80",
-      "target": "2 A 5 PASSAGE",
-      "value": 1
-    },
-    {
-      "source": "80",
-      "target": "SINTETIC",
-      "value": 1
-    },
-    {
-      "source": "80",
-      "target": " In vivo",
-      "value": 1
-    },
-    {
-      "source": "80",
       "target": "Cartilage",
-      "value": 1
-    },
-    {
-      "source": "81",
-      "target": "Scopus",
       "value": 1
     },
     {
@@ -4812,32 +2841,7 @@
     },
     {
       "source": "81",
-      "target": "OSTEOGENIC",
-      "value": 1
-    },
-    {
-      "source": "81",
-      "target": "2 A 5 PASSAGE",
-      "value": 1
-    },
-    {
-      "source": "81",
-      "target": "CERAMIC",
-      "value": 1
-    },
-    {
-      "source": "81",
-      "target": "METAL",
-      "value": 1
-    },
-    {
-      "source": "81",
       "target": "Bone",
-      "value": 1
-    },
-    {
-      "source": "82",
-      "target": "Web of science",
       "value": 1
     },
     {
@@ -4886,41 +2890,6 @@
       "value": 1
     },
     {
-      "source": "82",
-      "target": "ADIPOGENIC",
-      "value": 1
-    },
-    {
-      "source": "82",
-      "target": "OSTEOGENIC",
-      "value": 1
-    },
-    {
-      "source": "82",
-      "target": "CONDROGENIC",
-      "value": 1
-    },
-    {
-      "source": "82",
-      "target": "2 A 5 PASSAGE",
-      "value": 1
-    },
-    {
-      "source": "82",
-      "target": "NONE",
-      "value": 1
-    },
-    {
-      "source": "82",
-      "target": " In vivo",
-      "value": 1
-    },
-    {
-      "source": "83",
-      "target": "Web of science",
-      "value": 1
-    },
-    {
       "source": "83",
       "target": "Bichectomy",
       "value": 1
@@ -4957,27 +2926,7 @@
     },
     {
       "source": "83",
-      "target": "OSTEOGENIC",
-      "value": 1
-    },
-    {
-      "source": "83",
-      "target": "2 A 5 PASSAGE",
-      "value": 1
-    },
-    {
-      "source": "83",
-      "target": "NONE",
-      "value": 1
-    },
-    {
-      "source": "83",
       "target": "Bone",
-      "value": 1
-    },
-    {
-      "source": "84",
-      "target": "Web of science",
       "value": 1
     },
     {
@@ -5021,31 +2970,6 @@
       "value": 1
     },
     {
-      "source": "84",
-      "target": "ADIPOGENIC",
-      "value": 1
-    },
-    {
-      "source": "84",
-      "target": "OSTEOGENIC",
-      "value": 1
-    },
-    {
-      "source": "84",
-      "target": "5 PASSAGE",
-      "value": 1
-    },
-    {
-      "source": "84",
-      "target": "NONE",
-      "value": 1
-    },
-    {
-      "source": "85",
-      "target": "Pubmed",
-      "value": 1
-    },
-    {
       "source": "85",
       "target": "Lipoaspirate",
       "value": 1
@@ -5092,32 +3016,7 @@
     },
     {
       "source": "85",
-      "target": "ADIPOGENIC",
-      "value": 1
-    },
-    {
-      "source": "85",
-      "target": "OSTEOGENIC",
-      "value": 1
-    },
-    {
-      "source": "85",
-      "target": "CONDROGENIC",
-      "value": 1
-    },
-    {
-      "source": "85",
-      "target": "SC",
-      "value": 1
-    },
-    {
-      "source": "85",
       "target": "Bone",
-      "value": 1
-    },
-    {
-      "source": "86",
-      "target": "Pubmed",
       "value": 1
     },
     {
@@ -5128,21 +3027,6 @@
     {
       "source": "86",
       "target": "Enzimatic",
-      "value": 1
-    },
-    {
-      "source": "86",
-      "target": "2 A 5 PASSAGE",
-      "value": 1
-    },
-    {
-      "source": "86",
-      "target": "NATURAL",
-      "value": 1
-    },
-    {
-      "source": "86",
-      "target": " In vivo",
       "value": 1
     },
     {
@@ -5152,32 +3036,12 @@
     },
     {
       "source": "87",
-      "target": "Scopus",
-      "value": 1
-    },
-    {
-      "source": "87",
       "target": "Lipoaspirate",
       "value": 1
     },
     {
       "source": "87",
       "target": "Enzimatic",
-      "value": 1
-    },
-    {
-      "source": "87",
-      "target": "2 A 5 PASSAGE",
-      "value": 1
-    },
-    {
-      "source": "87",
-      "target": "5 PASSAGE",
-      "value": 1
-    },
-    {
-      "source": "87",
-      "target": "NS",
       "value": 1
     },
     {
@@ -5187,27 +3051,12 @@
     },
     {
       "source": "88",
-      "target": "Scopus",
-      "value": 1
-    },
-    {
-      "source": "88",
       "target": "Lipoaspirate",
       "value": 1
     },
     {
       "source": "88",
       "target": "Enzimatic",
-      "value": 1
-    },
-    {
-      "source": "88",
-      "target": "CONDROGENIC",
-      "value": 1
-    },
-    {
-      "source": "88",
-      "target": "NS",
       "value": 1
     },
     {
@@ -5217,11 +3066,6 @@
     },
     {
       "source": "89",
-      "target": "Pubmed",
-      "value": 1
-    },
-    {
-      "source": "89",
       "target": "Lipoaspirate",
       "value": 1
     },
@@ -5272,32 +3116,7 @@
     },
     {
       "source": "89",
-      "target": "OSTEOGENIC",
-      "value": 1
-    },
-    {
-      "source": "89",
-      "target": "2 A 5 PASSAGE",
-      "value": 1
-    },
-    {
-      "source": "89",
-      "target": "SINTETIC",
-      "value": 1
-    },
-    {
-      "source": "89",
-      "target": " In vivo",
-      "value": 1
-    },
-    {
-      "source": "89",
       "target": "Bone",
-      "value": 1
-    },
-    {
-      "source": "90",
-      "target": "Web of science",
       "value": 1
     },
     {
@@ -5312,32 +3131,7 @@
     },
     {
       "source": "90",
-      "target": "OSTEOGENIC",
-      "value": 1
-    },
-    {
-      "source": "90",
-      "target": "2 A 5 PASSAGE",
-      "value": 1
-    },
-    {
-      "source": "90",
-      "target": "NS",
-      "value": 1
-    },
-    {
-      "source": "90",
-      "target": " In vivo",
-      "value": 1
-    },
-    {
-      "source": "90",
       "target": "Bone",
-      "value": 1
-    },
-    {
-      "source": "91",
-      "target": "Pubmed",
       "value": 1
     },
     {
@@ -5352,27 +3146,7 @@
     },
     {
       "source": "91",
-      "target": "OSTEOGENIC",
-      "value": 1
-    },
-    {
-      "source": "91",
-      "target": "2 A 5 PASSAGE",
-      "value": 1
-    },
-    {
-      "source": "91",
-      "target": "SINTETIC",
-      "value": 1
-    },
-    {
-      "source": "91",
       "target": "Bone",
-      "value": 1
-    },
-    {
-      "source": "92",
-      "target": "Pubmed",
       "value": 1
     },
     {
@@ -5388,21 +3162,6 @@
     {
       "source": "92",
       "target": "Adherence",
-      "value": 1
-    },
-    {
-      "source": "92",
-      "target": "2 A 5 PASSAGE",
-      "value": 1
-    },
-    {
-      "source": "92",
-      "target": "NS",
-      "value": 1
-    },
-    {
-      "source": "92",
-      "target": " In vivo",
       "value": 1
     },
     {
@@ -5412,42 +3171,12 @@
     },
     {
       "source": "93",
-      "target": "Scopus",
-      "value": 1
-    },
-    {
-      "source": "93",
       "target": "Lipoaspirate",
       "value": 1
     },
     {
       "source": "93",
       "target": "Enzimatic",
-      "value": 1
-    },
-    {
-      "source": "93",
-      "target": "OSTEOGENIC",
-      "value": 1
-    },
-    {
-      "source": "93",
-      "target": "2 A 5 PASSAGE",
-      "value": 1
-    },
-    {
-      "source": "93",
-      "target": "5 PASSAGE",
-      "value": 1
-    },
-    {
-      "source": "93",
-      "target": "SINTETIC",
-      "value": 1
-    },
-    {
-      "source": "93",
-      "target": " In vivo",
       "value": 1
     },
     {
@@ -5457,37 +3186,12 @@
     },
     {
       "source": "94",
-      "target": "Scopus",
-      "value": 1
-    },
-    {
-      "source": "94",
       "target": "Lipoaspirate",
       "value": 1
     },
     {
       "source": "94",
       "target": "Enzimatic",
-      "value": 1
-    },
-    {
-      "source": "94",
-      "target": "2 A 5 PASSAGE",
-      "value": 1
-    },
-    {
-      "source": "94",
-      "target": "NATURAL",
-      "value": 1
-    },
-    {
-      "source": "94",
-      "target": " In vivo",
-      "value": 1
-    },
-    {
-      "source": "95",
-      "target": "Web of science",
       "value": 1
     },
     {
@@ -5527,32 +3231,7 @@
     },
     {
       "source": "95",
-      "target": "OSTEOGENIC",
-      "value": 1
-    },
-    {
-      "source": "95",
-      "target": "2 A 5 PASSAGE",
-      "value": 1
-    },
-    {
-      "source": "95",
-      "target": "5 PASSAGE",
-      "value": 1
-    },
-    {
-      "source": "95",
-      "target": "NATURAL",
-      "value": 1
-    },
-    {
-      "source": "95",
       "target": "Bone",
-      "value": 1
-    },
-    {
-      "source": "96",
-      "target": "Web of science",
       "value": 1
     },
     {
@@ -5567,37 +3246,7 @@
     },
     {
       "source": "96",
-      "target": "ADIPOGENIC",
-      "value": 1
-    },
-    {
-      "source": "96",
-      "target": "OSTEOGENIC",
-      "value": 1
-    },
-    {
-      "source": "96",
-      "target": "CONDROGENIC",
-      "value": 1
-    },
-    {
-      "source": "96",
-      "target": "5 PASSAGE",
-      "value": 1
-    },
-    {
-      "source": "96",
-      "target": "NS",
-      "value": 1
-    },
-    {
-      "source": "96",
       "target": "Bone",
-      "value": 1
-    },
-    {
-      "source": "97",
-      "target": "Pubmed",
       "value": 1
     },
     {
@@ -5637,27 +3286,7 @@
     },
     {
       "source": "97",
-      "target": "ADIPOGENIC",
-      "value": 1
-    },
-    {
-      "source": "97",
-      "target": "OSTEOGENIC",
-      "value": 1
-    },
-    {
-      "source": "97",
-      "target": "NATURAL",
-      "value": 1
-    },
-    {
-      "source": "97",
       "target": "Bone",
-      "value": 1
-    },
-    {
-      "source": "98",
-      "target": "Pubmed",
       "value": 1
     },
     {
@@ -5698,21 +3327,6 @@
     {
       "source": "98",
       "target": "CD73",
-      "value": 1
-    },
-    {
-      "source": "98",
-      "target": "OSTEOGENIC",
-      "value": 1
-    },
-    {
-      "source": "98",
-      "target": "2 A 5 PASSAGE",
-      "value": 1
-    },
-    {
-      "source": "98",
-      "target": "SC",
       "value": 1
     },
     {
