@@ -157,6 +157,12 @@
       "grp": 5
     },
     {
+      "id": "Bichectomy",
+      "name": "Bichectomy",
+      "n": 1,
+      "grp": 5
+    },
+    {
       "id": "26",
       "name": "26",
       "n": 1,
@@ -271,34 +277,16 @@
       "grp": "2"
     },
     {
-      "id": "Bichectomy",
-      "name": "Bichectomy",
-      "n": 1,
-      "grp": 5
-    },
-    {
       "id": "45",
       "name": "45",
       "n": 1,
       "grp": "6"
     },
     {
-      "id": "Morphologie",
-      "name": "Morphologie",
-      "n": 3,
-      "grp": 5
-    },
-    {
       "id": "46",
       "name": "46",
       "n": 1,
       "grp": "2"
-    },
-    {
-      "id": "Adherence",
-      "name": "Adherence",
-      "n": 3,
-      "grp": 5
     },
     {
       "id": "47",
@@ -323,6 +311,18 @@
       "name": "50",
       "n": 1,
       "grp": "2"
+    },
+    {
+      "id": "Morphologie",
+      "name": "Morphologie",
+      "n": 3,
+      "grp": 5
+    },
+    {
+      "id": "Adherence",
+      "name": "Adherence",
+      "n": 3,
+      "grp": 5
     },
     {
       "id": "Enzimatic",
@@ -373,6 +373,42 @@
       "grp": 5
     },
     {
+      "id": "Cartilage",
+      "name": "Cartilage",
+      "n": 1,
+      "grp": 5
+    },
+    {
+      "id": "Bone",
+      "name": "Bone",
+      "n": 5,
+      "grp": 5
+    },
+    {
+      "id": "Adipose tissue",
+      "name": "Adipose tissue",
+      "n": 0,
+      "grp": 5
+    },
+    {
+      "id": "Soft tissue",
+      "name": "Soft tissue",
+      "n": 1,
+      "grp": 5
+    },
+    {
+      "id": "Neurological",
+      "name": "Neurological",
+      "n": 0,
+      "grp": 5
+    },
+    {
+      "id": "Comparison",
+      "name": "Comparison",
+      "n": 0,
+      "grp": 5
+    },
+    {
       "id": "51",
       "name": "51",
       "n": 1,
@@ -409,12 +445,6 @@
       "grp": "2"
     },
     {
-      "id": "Cartilage",
-      "name": "Cartilage",
-      "n": 1,
-      "grp": 5
-    },
-    {
       "id": "57",
       "name": "57",
       "n": 1,
@@ -433,22 +463,10 @@
       "grp": "2"
     },
     {
-      "id": "Adipose tissue",
-      "name": "Adipose tissue",
-      "n": 0,
-      "grp": 5
-    },
-    {
       "id": "59",
       "name": "59",
       "n": 1,
       "grp": "2"
-    },
-    {
-      "id": "Soft tissue",
-      "name": "Soft tissue",
-      "n": 1,
-      "grp": 5
     },
     {
       "id": "60",
@@ -457,22 +475,10 @@
       "grp": "2"
     },
     {
-      "id": "Neurological",
-      "name": "Neurological",
-      "n": 0,
-      "grp": 5
-    },
-    {
       "id": "61",
       "name": "61",
       "n": 1,
       "grp": "2"
-    },
-    {
-      "id": "Comparison",
-      "name": "Comparison",
-      "n": 0,
-      "grp": 5
     },
     {
       "id": "62",
@@ -557,12 +563,6 @@
       "name": "75",
       "n": 1,
       "grp": "2"
-    },
-    {
-      "id": "Bone",
-      "name": "Bone",
-      "n": 5,
-      "grp": 5
     },
     {
       "id": "76",
